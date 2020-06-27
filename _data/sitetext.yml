@@ -2,7 +2,7 @@ header:
     title: Computational Research in Ice and Ocean Systems (CRIOS)
     text: 
     button: Research
-    buttonlink: "#portfolio" # "#{section}" or "URL/page link"
+    buttonlink: "#research" # "#{section}" or "URL/page link"
 
 about:
     title: "About Us"
@@ -12,10 +12,10 @@ about:
     # The group’s research rests on the recognition that these Earth system components remain insufficiently sampled by observations. So the group works toward optimal extraction of information contained in available observations through formal synthesis with known dynamics. The dynamics, in turn, is encapsulated in the governing equations of motion and rendered in state-of-the-art numerical models. Improved mechanistic understanding along with uncertainty characterization are essential prerequisites for developing robust climate predictions with quantified uncertainties. CRIOS is involved in a number of formal and informal, national and international research collaborations, including the UK, Norway, Germany, Japan, and Australia. The group is pursuing several main research thrusts.
 
 
-portfolio:
+research:
     title: "Research"
     text: "Lorem ipsum dolor sit amet consectetur."
-    section: portfolio
+    section: research
     
 outreach:
     title: "Outreach"

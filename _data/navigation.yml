@@ -3,10 +3,10 @@ nav:
     section: about
 
   - title: "Research"
-    section: portfolio
+    section: research
     
   - title: "Outreach"
-    section: portfolio
+    section: outreach
     
   - title: "Team"
     section: team
