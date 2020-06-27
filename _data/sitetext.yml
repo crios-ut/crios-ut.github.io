@@ -2,14 +2,14 @@ header:
     title: Computational Research in Ice and Ocean Systems (CRIOS)
     text: 
     button: Research
-    buttonlink: "#research" # "#{section}" or "URL/page link"
+    buttonlink: "#{research}" # "#{section}" or "URL/page link"
 
 services:
     title: "Services"
     text: "Lorem ipsum"
     section: services
     list:
-      - title: "E-Commerce"
+      - title: "HPC"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
       - title: "Responsive Design"
