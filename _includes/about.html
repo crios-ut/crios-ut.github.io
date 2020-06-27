@@ -6,23 +6,14 @@
           <h2 class="section-heading text-uppercase">{{ site.data.sitetext.about.title | default: "About Us" }}</h2>
         </div>
       </div>
-
       <div class="row">
-        <div class="col">
-
-          <span style="padding:0px">
-              <img src="{{site.data.sitetext.about.image | relative_url}}"
-                   align="center"
-               >
-          </span>
+        <div class="column">
+            <img src="{{site.data.sitetext.about.image | relative_url}}" style="width:100%">
         </div>
-
-        <div class="col">
-            <body> {{site.data.sitetext.about.text | default: "" }}
-            </body>
-            <!-- <h3 class="section-subheading text-muted">{{ site.data.sitetext.about.text | default: "" }}</h3> -->
+        <div class="column" ><!--style="text-align:center;">-->
+          <body> {{site.data.sitetext.about.text | default: "" }}
+          </body>
         </div>
-      </div>
 
   </section>
 <!-- End About -->
