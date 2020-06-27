@@ -36,7 +36,7 @@ outreach:
     section: outreach
 
 timeline:
-    title: "About" 
+    title: "Timeline" 
     text: "Lorem ipsum timeline"
     section: timeline
     events:
