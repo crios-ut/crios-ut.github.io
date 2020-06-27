@@ -1,5 +1,5 @@
 header:
-    title: Computational Research in Ice and Ocean Systems (CRIOS)!
+    title: Computational Research in Ice and Ocean Systems (CRIOS)
     text: 
     button: Research
     buttonlink: "#research" # "#{section}" or "URL/page link"
@@ -24,6 +24,10 @@ research:
     text: "Lorem ipsum dolor sit amet consectetur."
     section: research
     
+outreach:
+    title: "Outreach"
+    text: "Lorem ipsum dolor sit amet consectetur."
+    section: outreach
 
 timeline:
     title: "About" 

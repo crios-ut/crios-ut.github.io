@@ -5,11 +5,12 @@ nav:
   - title: "Research"
     section: research
     
+  - title: "Outreach"
+    section: outreach
+    
   - title: "Team"
     section: team
 
   - title: "Opportunities"
     section: contact
 
-  - title: "Theme Source"
-    url: https://github.com/raviriley/agency-jekyll-theme/
