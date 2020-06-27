@@ -19,7 +19,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 
 title      : CRIOS
 email      : #this is also the email contact forms will go to: heimbach@oden.utexas.edu 
-description: "Agency Bootstrap theme converted to a Jekyll theme, plus new features: Google Analytics, Markdown support, custom pages, and more!"
+description: "Computational Research in Ice and Ocean Systems"
 author     : CRIOS 
 # logo:     #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg
@@ -30,6 +30,7 @@ analytics:
 
 collections:
   research:
+  outreach:
 
 markdown: kramdown
 

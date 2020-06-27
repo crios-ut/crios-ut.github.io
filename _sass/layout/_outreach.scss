@@ -71,11 +71,11 @@ section#outreach {
 }
 
 .outreach-modal {
-  .outreach-modal-dialog {
+  .modal-dialog {
     margin: 1rem;
     max-width: 100vw;
   }
-  .outreach-modal-content {
+  .modal-content {
     padding: 100px 0;
     text-align: center;
     h2 {
@@ -102,7 +102,7 @@ section#outreach {
       cursor: pointer;
     }
   }
-  .outreach-close-modal {
+  .close-modal {
     position: absolute;
     top: 25px;
     right: 25px;
