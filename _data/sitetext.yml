@@ -8,7 +8,7 @@ about:
     title: "About Us"
     text: "We do research"
     section: about
-    image: assets/img/team/crios.jpg
+    #    image: assets/img/team/crios.jpg
 
 services:
     title: "Services"
