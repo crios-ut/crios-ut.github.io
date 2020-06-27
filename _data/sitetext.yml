@@ -82,13 +82,13 @@ team:
         image: assets/img/team/noraloose.jpg
         social:
           - url: https://noraloose.github.io
-            icon: fab fa-globe
+            icon: fas fa-globe
       - name: "Timothy Smith"
         role: "Graduate Research Assistant"
-        image: assets/img/team/2.jpg
+        image: assets/img/team/timsmith.jpg
         social:
           - url: https://www.oden.utexas.edu/people/1366/
-            icon: fab fa-globe
+            icon: fas fa-globe
       - name: "Patrick Heimbach"
         role: "The Boss"
         image: 
