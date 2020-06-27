@@ -8,7 +8,7 @@ about:
     title: "About Us"
     section: about
     image: assets/img/team/crios.jpg
-    text: "The Computational Research in Ice and Ocean Systems (CRIOS) group applies advanced mathematical methods and simulation techniques to improve our understanding of the role of the ocean, sea ice and polar ice sheets in the global climate system."
+    text: "The Computational Research in Ice and Ocean Systems (CRIOS) group at UT Austin applies advanced mathematical methods and simulation techniques to improve our understanding of the role of the ocean, sea ice and polar ice sheets in the global climate system."
     # The group’s research rests on the recognition that these Earth system components remain insufficiently sampled by observations. So the group works toward optimal extraction of information contained in available observations through formal synthesis with known dynamics. The dynamics, in turn, is encapsulated in the governing equations of motion and rendered in state-of-the-art numerical models. Improved mechanistic understanding along with uncertainty characterization are essential prerequisites for developing robust climate predictions with quantified uncertainties. CRIOS is involved in a number of formal and informal, national and international research collaborations, including the UK, Norway, Germany, Japan, and Australia. The group is pursuing several main research thrusts.
 
 
