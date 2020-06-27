@@ -1,18 +1,20 @@
 // Styling for the team section
-.article {
+.left {
+    //float: left;
   margin-bottom: 50px;
-  text-align: center;
+  height:25px;
+  width:20%;
   img {
-    width: 225px;
-    height: 225px;
+    width:80%;
     border: 7px solid fade-out($black, 0.9);
   }
-  h4 {
-    margin-top: 25px;
-    margin-bottom: 0;
-    text-transform: none;
-  }
+
+}
+.right {
+    //float: left;
+  margin-bottom: 50px;
+  width:75%;
   p {
-    margin-top: 0;
+      margin-top: 0;
   }
 }

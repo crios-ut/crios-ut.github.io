@@ -58,6 +58,15 @@ team:
 publications:
     title: "Publications"
     section: publications
+    text: "Papers from our group"
+    papers:
+        - img: assets/img/publications/loose_nasp.png
+          citation: Loose, N., Heimbach, P., Pillar, H., & Nisancioglu, K. (2020). Quantifying Dynamical Proxy Potential through Oceanic Teleconnections in the North Atlantic. Earth and Space Science Open Archive.
+          url: https://doi.org/10.1002/essoar.10502065.3
+        - img: assets/img/research/south_atlantic_sst_currents_labeled.png
+          citation: Smith, T., & Heimbach, P. (2019). Atmospheric Origins of Variability in the South Atlantic Meridional Overturning Circulation. Journal of Climate, 32(5), 1483–1500.
+          url: https://doi.org/10.1175/JCLI-D-18-0311.1
+
           
 resources:
     title: "Resources"
