@@ -1,4 +1,7 @@
 nav:
+  - title: "About Us"
+    section: aboutus
+
   - title: "Services"
     section: services
 
@@ -10,6 +13,9 @@ nav:
     
   - title: "Team"
     section: team
+
+  - title: "Publications"
+    section: publications
 
   - title: "Opportunities"
     section: contact
