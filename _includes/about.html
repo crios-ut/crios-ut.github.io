@@ -7,14 +7,26 @@
         </div>
       </div>
       <div class="row">
+          <!-- Image above text -->
+        <div style="display:flex;align-items:center;text-align:center;">
+            <img src="{{site.data.sitetext.about.image | relative_url}}" style="width:100%">
+        </div>
+        <div style="display:flex;align-items:center;text-align:center;">
+          <body> {{site.data.sitetext.about.text | default: "" }}
+          </body>
+        </div>
+
+          <!-- Side by side: image and text
         <div class="column">
             <img src="{{site.data.sitetext.about.image | relative_url}}" style="width:100%">
         </div>
         <div class="column" 
-             style="display: flex; align-items: center; vertical-align:middle; text-align:center;">
+             style="display: flex; align-items: center;
+             vertical-align:middle; text-align:center;">
           <body> {{site.data.sitetext.about.text | default: "" }}
           </body>
         </div>
+          -->
 
   </section>
 <!-- End About -->
