@@ -2,7 +2,7 @@ header:
     title: Computational Research in Ice and Ocean Systems (CRIOS)
     text: 
     button: Research
-    buttonlink: "#research" # "#{section}" or "URL/page link"
+    buttonlink: "#portfolio" # "#{section}" or "URL/page link"
 
 services:
     title: "Services"
@@ -19,10 +19,10 @@ services:
         desc: "Your description here, full **Markdown** support"
         icon: fab fa-markdown
 
-research:
+portfolio:
     title: "Research"
     text: "Lorem ipsum dolor sit amet consectetur."
-    section: research
+    section: portfolio
     
 outreach:
     title: "Outreach"
