@@ -102,8 +102,8 @@ footer:
     legal: "Privacy Policy"
     social:
       - url: https://github.com/crios-ut
-        icon: "fab fa-twitter"  
-      - url: https://twitter.com/crios-ut
+        icon: "fab fa-github"
+      - url: https://twitter.com/ExhArcticOcean
         icon: "fab fa-twitter"  
         #      - url: https://facebook.com
         #        icon: "fab fa-facebook-f"
