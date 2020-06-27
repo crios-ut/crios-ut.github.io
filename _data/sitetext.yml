@@ -6,9 +6,9 @@ header:
 
 about:
     title: "About Us"
-    text:
     section: about
     image: assets/img/team/crios.jpg
+    text: We do work together
 
 
 portfolio:
