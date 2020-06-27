@@ -10,7 +10,8 @@
         <div class="column">
             <img src="{{site.data.sitetext.about.image | relative_url}}" style="width:100%">
         </div>
-        <div class="column" ><!--style="text-align:center;">-->
+        <div class="column" 
+             style="display: flex; align-items: center; vertical-align:middle; text-align:center;">
           <body> {{site.data.sitetext.about.text | default: "" }}
           </body>
         </div>

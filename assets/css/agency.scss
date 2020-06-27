@@ -24,10 +24,9 @@ $bottom-image: "{{ site.data.style.bottom-image }}";
 
 // Layout
 @import "layout/masthead.scss";
-@import "layout/services.scss";
+@import "layout/about.scss";
 @import "layout/research.scss";
 @import "layout/outreach.scss";
-@import "layout/timeline.scss";
 @import "layout/team.scss";
 @import "layout/resources.scss";
 @import "layout/footer.scss";

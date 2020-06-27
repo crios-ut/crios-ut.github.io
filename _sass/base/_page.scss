@@ -18,24 +18,7 @@ a {
 .text-primary {
   color: $primary !important;
 }
-.column {
-  float: left;
-  width: 50%;
-  padding: 10px;
-}
 
-/* Clear floats after the columns */
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
-
-@media screen and (max-width: 600px) {
-  .column {
-    width: 100%;
-  }
-}
 
 h1,
 h2,
