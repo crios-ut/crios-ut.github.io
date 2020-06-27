@@ -12,7 +12,7 @@ $black: {{ site.data.style.black | default: "#000" }} !default;
 
 // Custom Images
 $header-image: "{{ site.data.style.header-image }}";
-$contact-image: "{{ site.data.style.contact-image }}";
+$bottom-image: "{{ site.data.style.bottom-image }}";
 
 // Global CSS
 @import "base/page.scss";
@@ -29,5 +29,5 @@ $contact-image: "{{ site.data.style.contact-image }}";
 @import "layout/outreach.scss";
 @import "layout/timeline.scss";
 @import "layout/team.scss";
-@import "layout/contact.scss";
+@import "layout/resources.scss";
 @import "layout/footer.scss";

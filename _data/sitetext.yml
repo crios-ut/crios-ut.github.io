@@ -22,7 +22,6 @@ outreach:
     text: "Events and ongoing efforts in the community"
     section: outreach
 
-
 team:
     title: "Research Group"
     text: ""
@@ -60,18 +59,33 @@ publications:
     title: "Publications"
     section: publications
           
-contact:
-    title: "Contact Us"
-    text: ""
-    section: contact
+resources:
+    title: "Resources"
+    text: "Links"
+    subtext: "stuff"
+    section: resources
+    links:
+      - url: https://www.oden.utexas.edu/
+        name: Oden Institute Home Page
+        img: assets/img/resources/oden_logo_white.png
+        icon: ""
+      - url: https://github.com/crios-ut
+        name: 
+        img: ""
+        icon: "fab fa-github"
+      - url: https://twitter.com/ExhArcticOcean
+        name:
+        img: ""
+        icon: "fab fa-twitter"
     
 footer:
     legal: "Privacy Policy"
     social:
-      - url: https://github.com/crios-ut
-        icon: "fab fa-github"
-      - url: https://twitter.com/ExhArcticOcean
-        icon: "fab fa-twitter"  
+        # These moved to the above section
+        #      - url: https://github.com/crios-ut
+        #        icon: "fab fa-github"
+        #      - url: https://twitter.com/ExhArcticOcean
+        #        icon: "fab fa-twitter"  
         #      - url: https://instagram.com
         #        icon: "fab fa-instagram"
 

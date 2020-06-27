@@ -8,15 +8,11 @@ nav:
   - title: "Outreach"
     section: outreach
     
-  - title: "Research Group"
+  - title: "Group"
     section: team
 
   - title: "Publications"
     section: publications
 
-  - title: "Opportunities"
-    section: contact
-  
-  - title: "Oden Institute"
-    section: oden
-
+  - title: "Resources"
+    section: resources

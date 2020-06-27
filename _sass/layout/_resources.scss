@@ -1,0 +1,30 @@
+// Styling for the contact section
+section#resources {
+  background-color: $gray-900;
+  background-image: url("#{$bottom-image}");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  .section-heading {
+    color: $white;
+  }
+  .link-feature {
+    margin-bottom: 50px;
+    text-align: center;
+    img {
+        width: 150px;
+    }
+    i {
+      width: 150px !important;
+      font-size: 90px;
+      text-align: center;
+    }
+    a {
+      margin-top: 25px;
+      margin-bottom: 0;
+      text-transform: none;
+      color: $white;
+      width: 150px;
+    }
+  }
+}
