@@ -1,8 +1,8 @@
 header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
-    button: Tell Me More
-    buttonlink: "#services" # "#{section}" or "URL/page link"
+    title: Computational Research in Ice and Ocean Systems (CRIOS)!
+    text: 
+    button: Research
+    buttonlink: "#research" # "#{section}" or "URL/page link"
 
 services:
     title: "Services"
@@ -19,10 +19,10 @@ services:
         desc: "Your description here, full **Markdown** support"
         icon: fab fa-markdown
 
-portfolio:
-    title: "Portfolio"
+research:
+    title: "Research"
     text: "Lorem ipsum dolor sit amet consectetur."
-    section: portfolio
+    section: research
     
 
 timeline:

@@ -2,16 +2,13 @@ nav:
   - title: "Services"
     section: services
 
-  - title: "Portfolio"
-    section: portfolio
+  - title: "Research"
+    section: research
     
-  - title: "About"
-    section: timeline
-
   - title: "Team"
     section: team
 
-  - title: "Contact"
+  - title: "Opportunities"
     section: contact
 
   - title: "Theme Source"
