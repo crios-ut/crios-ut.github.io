@@ -9,8 +9,7 @@
   </div>
   <div class="row">
     {% for link in site.data.sitetext.resources.links %}
-      <div class="col-sm-4" style="width:33%;float:center">
-        <div class="link-feature">
+      <div class="link-feature">
           {% if link.img != "" %}
             <a href="{{link.url}}">
               <img class="mx-auto" src="{{link.img}}" alt="">
@@ -20,10 +19,9 @@
               <i class="{{ link.icon }}"></i>
             </a>
           {% endif %}
-        </div>
       </div>
     {% endfor %}
-  </div>
+</div>
 </div>
 </section>
 <!-- End Resources -->
