@@ -43,7 +43,7 @@ team:
             icon: fas fa-globe
       - name: "Patrick Heimbach"
         role: "The Boss"
-        image: 
+        image: assets/img/team/patrickheimbach.jpg
         social:
 
 publications:
