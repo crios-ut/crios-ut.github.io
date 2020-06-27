@@ -4,10 +4,10 @@ header:
     button: Research
     buttonlink: "#portfolio" # "#{section}" or "URL/page link"
 
-aboutus:
+about:
     title: "About Us"
     text: "We do research"
-    section: aboutus
+    section: about
     image: assets/img/team/crios.jpg
 
 services:
@@ -65,11 +65,6 @@ timeline:
         alt: 
         align: right
     end: "Be Part <br> of Our <br> Story!"
-
-about:
-    title: "About Us"
-    text: "our story"
-    section: about
 
 team:
     title: "Research Group"
