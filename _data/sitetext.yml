@@ -14,12 +14,12 @@ about:
 
 research:
     title: "Research"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    text: "Ongoing projects within CRIOS"
     section: research
     
 outreach:
     title: "Outreach"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    text: "Events and ongoing efforts in the community"
     section: outreach
 
 
@@ -33,6 +33,8 @@ team:
         role: "The Boss"
         image: assets/img/team/patrickheimbach.jpg
         social:
+            - url: https://heimbach.wordpress.com/
+              icon: fas fa-globe
       - name: "An Nguyen"
         role: "Queen of the North"
         image: assets/img/team/annguyen.jpg
@@ -49,6 +51,10 @@ team:
         social:
           - url: https://www.oden.utexas.edu/people/1366/
             icon: fas fa-globe
+          - url: https://github.com/timothyas
+            icon: fab fa-github
+            #- url: https://orcid.org/0000-0003-4463-6126
+            #  icon: fab fa-orcid
 
 publications:
     title: "Publications"
@@ -66,12 +72,6 @@ footer:
         icon: "fab fa-github"
       - url: https://twitter.com/ExhArcticOcean
         icon: "fab fa-twitter"  
-        #      - url: https://facebook.com
-        #        icon: "fab fa-facebook-f"
-        #      - url: https://linkedin.com
-        #        icon: "fab fa-linkedin-in"
-        #      - url: https://github.com/raviriley/agency-jekyll-theme
-        #        icon: "fab fa-github"
         #      - url: https://instagram.com
         #        icon: "fab fa-instagram"
 
