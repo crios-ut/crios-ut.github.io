@@ -29,6 +29,14 @@ team:
     subtext: 
     section: team
     people:
+      - name: "Patrick Heimbach"
+        role: "The Boss"
+        image: assets/img/team/patrickheimbach.jpg
+        social:
+      - name: "An Nguyen"
+        role: "Queen of the North"
+        image: assets/img/team/annguyen.jpg
+        social:
       - name: "Nora Loose"
         role: "Postdoc"
         image: assets/img/team/noraloose.jpg
@@ -41,10 +49,6 @@ team:
         social:
           - url: https://www.oden.utexas.edu/people/1366/
             icon: fas fa-globe
-      - name: "Patrick Heimbach"
-        role: "The Boss"
-        image: assets/img/team/patrickheimbach.jpg
-        social:
 
 publications:
     title: "Publications"
