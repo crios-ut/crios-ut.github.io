@@ -67,34 +67,13 @@ publications:
           citation: Smith, T., & Heimbach, P. (2019). Atmospheric Origins of Variability in the South Atlantic Meridional Overturning Circulation. Journal of Climate, 32(5), 1483–1500.
           url: https://doi.org/10.1175/JCLI-D-18-0311.1
 
-          
-resources:
-    title: "Resources"
-    text: "Links"
-    subtext: "stuff"
-    section: resources
-    links:
-      - url: https://www.oden.utexas.edu/
-        name: Oden Institute Home Page
-        img: assets/img/resources/oden_logo_white.png
-        icon: ""
-      - url: https://github.com/crios-ut
-        name: 
-        img: ""
-        icon: "fab fa-github"
-      - url: https://twitter.com/ExhArcticOcean
-        name:
-        img: ""
-        icon: "fab fa-twitter"
-    
 footer:
     legal: "Privacy Policy"
     social:
-        # These moved to the above section
-        #      - url: https://github.com/crios-ut
-        #        icon: "fab fa-github"
-        #      - url: https://twitter.com/ExhArcticOcean
-        #        icon: "fab fa-twitter"  
+              - url: https://github.com/crios-ut
+                icon: "fab fa-github"
+              - url: https://twitter.com/ExhArcticOcean
+                icon: "fab fa-twitter"  
         #      - url: https://instagram.com
         #        icon: "fab fa-instagram"
 
