@@ -7,7 +7,27 @@
         </div>
       </div>
       <div class="row">
-          <!-- Image above text -->
+
+          <!-- Side by side: image next to twitter feed -->
+        <div class="column" style="width:75%;">
+            <img src="{{site.data.sitetext.about.image | relative_url}}" style="width:100%">
+          <body> {{site.data.sitetext.about.text | default: "" }}
+          </body>
+        </div>
+
+        <div class="column" 
+             style="width:23%; display: flex;
+             text-align:center; margin-left:5px">
+            <!-- Code to vertically align this content... somehow difficult!
+             style="width:23%; display: flex; align-items: center;
+             vertical-align:middle; text-align:center; margin-left:5px">-->
+
+
+
+            <a class="twitter-timeline" data-height="600"  href="https://twitter.com/ExhArcticOcean">Tweets by CRIOS</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+          <!-- Image above text, nothing next to image -->
+          <!--
         <div style="display:flex;align-items:center;text-align:center;">
             <img src="{{site.data.sitetext.about.image | relative_url}}" style="width:100%">
         </div>
@@ -15,18 +35,9 @@
             <body> <p> {{site.data.sitetext.about.text | default: "" }}</p>
           </body>
         </div>
-
-          <!-- Side by side: image and text
-        <div class="column">
-            <img src="{{site.data.sitetext.about.image | relative_url}}" style="width:100%">
-        </div>
-        <div class="column" 
-             style="display: flex; align-items: center;
-             vertical-align:middle; text-align:center;">
-          <body> {{site.data.sitetext.about.text | default: "" }}
-          </body>
-        </div>
           -->
+
+        </div>
 
   </section>
 <!-- End About -->

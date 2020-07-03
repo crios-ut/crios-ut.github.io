@@ -10,7 +10,7 @@
   {% for paper in site.data.sitetext.publications.papers %}
     <div class="row">
       <div class="left">
-        {% if paper.img != "" %}
+        {% if paper.img != null and paper.img != "" %}
           <img src={{paper.img}}>
         {% endif %}
 	  </div>
