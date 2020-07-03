@@ -9,8 +9,6 @@ created by [raviriley](https://github.com/raviriley).
 
 - Modify text in [\_data/sitetext.yml](https://github.com/crios-ut/crios-ut.github.io/blob/master/_data/sitetext.yml).
 - Add images to [assets/img](https://github.com/crios-ut/crios-ut.github.io/tree/master/assets/img), and subfolders within
-- For now, if no image is added with a publication entry, be sure to fill the `img:`
-    portion with a blank parenthesis: "" , otherwise a gray box fills
 
 ## Adding to "Research" or "Outreach" sections
 
