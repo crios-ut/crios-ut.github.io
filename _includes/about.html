@@ -9,22 +9,26 @@
       <div class="row">
 
           <!-- Side by side: image next to twitter feed -->
-        <div class="column" style="width:75%;">
+        <div class="left75">
             <img src="{{site.data.sitetext.about.image | relative_url}}" style="width:100%">
           <body> {{site.data.sitetext.about.text | default: "" }}
           </body>
         </div>
 
-        <div class="column" 
-             style="width:23%; display: flex;
-             text-align:center; margin-left:5px">
+        <div class="right23">
             <!-- Code to vertically align this content... somehow difficult!
-             style="width:23%; display: flex; align-items: center;
-             vertical-align:middle; text-align:center; margin-left:5px">-->
+             style="display: flex; align-items: center;
+             vertical-align:middle; text-align:center">-->
 
-
-
-            <a class="twitter-timeline" data-height="600"  href="https://twitter.com/ExhArcticOcean">Tweets by CRIOS</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+             <!-- the table/table cell,etc are all to center the content on mobile-->
+           <div class="twitterborder">
+             <div class="table">
+               <div class="table-cell">
+                 <a class="twitter-timeline tw-align-center"  data-height="600"  href="https://twitter.com/ExhArcticOcean">Tweets by CRIOS</a> 
+                 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+               </div>
+             </div>
+           </div>
 
           <!-- Image above text, nothing next to image -->
           <!--
