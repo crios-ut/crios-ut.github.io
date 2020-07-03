@@ -1,9 +1,16 @@
 section#about {
   @include serif-font;
-  .column {
+  .left75 {
     float: left;
-    width: 50%;
+    width: 75%;
     padding: 10px;
+  }
+  .right23 {
+    float: left;
+    width: 23%;
+    padding: 10px;
+    display: flex;
+    text-align: center;
   }
 
   /* Clear floats after the columns */
@@ -13,9 +20,26 @@ section#about {
     clear: both;
   }
 
-  @media screen and (max-width: 600px) {
-    .column {
+  @media only screen and (max-width: 600px) {
+    .left75 {
       width: 100%;
     }
+    .right23 {
+      width: 100%;
+      text-align: center;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+    }
+    .table{
+      display:table;
+      height: 100%;
+      width: 100%;
+}
+    .table-cell{
+      display:table-cell;
+      vertical-align: middle;
+}
   }
 }
