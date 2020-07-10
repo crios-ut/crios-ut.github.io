@@ -59,7 +59,7 @@ team:
         image: assets/img/team/Arash.png
         social:
           - url: https://github.com/ArashBigdeli/
-            icon: fas fa-github
+            icon: fab fa-github
 publications:
     title: "Publications"
     section: publications
