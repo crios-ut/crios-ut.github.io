@@ -2,7 +2,7 @@ header:
     title: Computational Research in Ice and Ocean Systems (CRIOS)
     text: 
     button: Research
-    buttonlink: "#research" # "#{section}" or "URL/page link"
+    buttonlink: "research" # "#{section}" or "URL/page link"
 
 about:
     title: "About Us"
@@ -19,18 +19,18 @@ about:
 research:
     title: "Research"
     text: "Ongoing projects within CRIOS"
-    section: research
+    url: research
     
 outreach:
     title: "Outreach"
     text: "Events and ongoing efforts in the community"
-    section: outreach
+    url: outreach
 
 team:
     title: "Research Group"
     text: ""
     subtext: 
-    section: team
+    url: team
     people:
       - name: "Patrick Heimbach"
         role: "The Boss"
@@ -66,7 +66,7 @@ team:
             icon: fab fa-github
 publications:
     title: "Publications"
-    section: publications
+    url: publications
     text: "Papers from our group"
     papers:
         # Instructions

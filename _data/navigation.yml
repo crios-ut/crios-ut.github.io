@@ -3,13 +3,13 @@ nav:
     section: about
 
   - title: "Research"
-    section: research
+    url: research
     
   - title: "Outreach"
-    section: outreach
+    url: outreach
     
   - title: "Group"
-    section: team
+    url: team
 
   - title: "Publications"
-    section: publications
+    url: publications
