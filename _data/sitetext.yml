@@ -8,7 +8,11 @@ about:
     title: "About Us"
     section: about
     image: assets/img/team/crios.jpg
-    text: "The Computational Research in Ice and Ocean Systems (CRIOS) group at UT Austin applies advanced mathematical methods and simulation techniques to improve our understanding of the role of the ocean, sea ice and polar ice sheets in the global climate system."
+    text: "The Computational Research in Ice and Ocean Systems (CRIOS) group at the 
+    <a href='https://www.oden.utexas.edu/'>
+    Oden Institute for Computational Engineering & Sciences</a> 
+    <a href='https://www.utexas.edu'>(UT Austin)</a> 
+    applies advanced mathematical methods and simulation techniques to improve our understanding of the role of the ocean, sea ice and polar ice sheets in the global climate system."
     # The group’s research rests on the recognition that these Earth system components remain insufficiently sampled by observations. So the group works toward optimal extraction of information contained in available observations through formal synthesis with known dynamics. The dynamics, in turn, is encapsulated in the governing equations of motion and rendered in state-of-the-art numerical models. Improved mechanistic understanding along with uncertainty characterization are essential prerequisites for developing robust climate predictions with quantified uncertainties. CRIOS is involved in a number of formal and informal, national and international research collaborations, including the UK, Norway, Germany, Japan, and Australia. The group is pursuing several main research thrusts.
 
 
@@ -68,38 +72,17 @@ publications:
         - img: assets/img/publications/loose_nasp.png
           citation: Loose, N., Heimbach, P., Pillar, H., & Nisancioglu, K. (2020). Quantifying Dynamical Proxy Potential through Shared Adjustment Physics in the North Atlantic. Earth and Space Science Open Archive.
           url: https://doi.org/10.1002/essoar.10502065.3
-        - img: assets/img/research/south_atlantic_sst_currents_labeled.png
+        - img:
           citation: Smith, T., & Heimbach, P. (2019). Atmospheric Origins of Variability in the South Atlantic Meridional Overturning Circulation. Journal of Climate, 32(5), 1483–1500.
           url: https://doi.org/10.1175/JCLI-D-18-0311.1
 
-          
-resources:
-    title: "Resources"
-    text: "Links"
-    subtext: "stuff"
-    section: resources
-    links:
-      - url: https://www.oden.utexas.edu/
-        name: Oden Institute Home Page
-        img: assets/img/resources/oden_logo_white.png
-        icon: ""
-      - url: https://github.com/crios-ut
-        name: 
-        img: ""
-        icon: "fab fa-github"
-      - url: https://twitter.com/ExhArcticOcean
-        name:
-        img: ""
-        icon: "fab fa-twitter"
-    
 footer:
     legal: "Privacy Policy"
     social:
-        # These moved to the above section
-        #      - url: https://github.com/crios-ut
-        #        icon: "fab fa-github"
-        #      - url: https://twitter.com/ExhArcticOcean
-        #        icon: "fab fa-twitter"  
+              - url: https://github.com/crios-ut
+                icon: "fab fa-github"
+              - url: https://twitter.com/ExhArcticOcean
+                icon: "fab fa-twitter"  
         #      - url: https://instagram.com
         #        icon: "fab fa-instagram"
 
