@@ -69,9 +69,21 @@ publications:
     section: publications
     text: "Papers from our group"
     papers:
+        - img:
+          citation: Goldberg, D.N., T.A. Smith, S.H.K. Narayanan, P. Heimbach, and M. Morlighem (2020). Bathymetric influences on Antarctic ice-shelf melt rates. Earth and Space Science Open Archive.
+          url: https://doi.org/10.1002/essoar.10503016.1
+        - img:
+          citation: Logan, L.C., S.H.K. Narayanan, R. Greve, and P. Heimbach (2020). SICOPOLIS-AD v1: an open-source adjoint modeling framework for ice sheet simulation enabled by the algorithmic differentiation tool OpenAD. Geosci. Model Dev., 13, 1845-1864.
+          url: https://doi.org/10.5194/gmd-13-1845-2020
         - img: assets/img/publications/loose_nasp.png
           citation: Loose, N., Heimbach, P., Pillar, H., & Nisancioglu, K. (2020). Quantifying Dynamical Proxy Potential through Shared Adjustment Physics in the North Atlantic. Earth and Space Science Open Archive.
           url: https://doi.org/10.1002/essoar.10502065.3
+        - img:
+          citation: Nguyen, A.T., P. Heimbach, V. Garg, V. Ocana , C. Lee, and L. Rainville (2020). Impact of synthetic Arctic Argo-type floats in a coupled ocean-sea ice state estimation framework. J. Atmos. Ocean Technol., accepted.
+          url:
+        - img:
+          citation: Nguyen, A.T., R. Woodgate, and P. Heimbach (2020). Elucidating large-scale atmospheric controls on Bering Strait throughflow variability using a data-constrained ocean model and its adjoint. Earth and Space Science Open Archive.
+          url: https://doi.org/10.1002/essoar.10502464.1
         - img:
           citation: Smith, T., & Heimbach, P. (2019). Atmospheric Origins of Variability in the South Atlantic Meridional Overturning Circulation. Journal of Climate, 32(5), 1483–1500.
           url: https://doi.org/10.1175/JCLI-D-18-0311.1
