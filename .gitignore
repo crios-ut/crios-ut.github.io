@@ -1,3 +1,24 @@
+
+# Random hidden files from OS and IDE's
+.DS_STORE
+.idea/
+*~
+*.vi
+Thumbs.db
+._*
+.cache
+.project
+*.sublime-project
+*.sublime-workspace
+nbproject
+.tmproj
+.settings
+*.esproj
+
+
+# Stuff that shows up from local build
+vendor
+.bundle/
 _site
 .sass-cache
 .jekyll-metadata
