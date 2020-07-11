@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< Updated upstream
     <list default="true" id="9fa71eb3-d1c7-4417-947b-ab03ed33dbae" name="Default Changelist" comment="" />
+=======
+    <list default="true" id="6a7b71a7-b043-4787-9e90-e776c8496796" name="Default Changelist" comment="" />
+>>>>>>> Stashed changes
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,7 +14,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+<<<<<<< Updated upstream
   <component name="ProjectId" id="1eHKFPbudlOiULQgX61gthhLBNW" />
+=======
+  <component name="ProjectId" id="1eQtbPD2tFFIMe4FCwwyQ9EamKT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+>>>>>>> Stashed changes
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -20,21 +29,32 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
+<<<<<<< Updated upstream
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/assets/img/team" />
     </key>
   </component>
+=======
+>>>>>>> Stashed changes
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+<<<<<<< Updated upstream
       <changelist id="9fa71eb3-d1c7-4417-947b-ab03ed33dbae" name="Default Changelist" comment="" />
       <created>1593972973243</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1593972973243</updated>
+=======
+      <changelist id="6a7b71a7-b043-4787-9e90-e776c8496796" name="Default Changelist" comment="" />
+      <created>1594265714216</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594265714216</updated>
+>>>>>>> Stashed changes
     </task>
     <servers />
   </component>
