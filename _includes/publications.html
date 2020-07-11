@@ -15,9 +15,13 @@
         {% endif %}
 	  </div>
       <div class="right">
-        <p>{{ paper.citation }}
-        <a href={{paper.url}}>{{paper.url}}</a>
-        </p>
+         {% if paper.url != null %}
+           <p>{{ paper.citation }}
+             <a href={{paper.url}}>{{paper.url}}</a>
+           </p>
+         {% else %}
+           <p>{{ paper.citation }}</p>
+         {% endif %}
 	  </div>
 	</div>
   {% endfor %}
