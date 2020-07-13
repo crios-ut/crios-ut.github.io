@@ -66,10 +66,9 @@ team:
             icon: fab fa-github
       - name: "Helen Pillar"
         role: "Postdoc"
-        image: assets/img/team/helenpillar.png
+        image: assets/img/team/helenpillar.jpg
         social:
-          - url: 
-            icon: 
+
 publications:
     title: "Publications"
     url: publications
