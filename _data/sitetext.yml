@@ -64,6 +64,12 @@ team:
         social:
           - url: https://github.com/ArashBigdeli/
             icon: fab fa-github
+      - name: "Helen Pillar"
+        role: "Postdoc"
+        image: assets/img/team/helenpillar.png
+        social:
+          - url: 
+            icon: 
 publications:
     title: "Publications"
     url: publications
