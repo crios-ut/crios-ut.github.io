@@ -15,10 +15,16 @@ The video installations, photographic series, and data visualizations on display
 [Exhibition website](utvac.org/event/exploring-arctic-ocean)
 More installation views on [Flickr](flic.kr/s/aHsmubJbyH)
 
-image: assets/img/outreach/ExploringAO-Norn_et_al_2018.jpg
-image: assets/img/outreach/ExploringAO-CRIOS_2018.jpg
-image: assets/img/outreach/ExploringAO-Linder_2018.jpg
-image: assets/img/outreach/ExploringAO-Becker_2018.jpg
-image: assets/img/outreach/ExploringAO-Quigley_2018.jpg
-image: assets/img/outreach/ExploringAO-Scanlab_2018.jpg
-image: assets/img/outreach/ExploringAO-Linke_Heimbach_2018.jpg
+![](assets/img/outreach/ExploringAO-Norn_et_al_2018.jpg)
+
+![](assets/img/outreach/ExploringAO-CRIOS_2018.jpg)
+
+![](assets/img/outreach/ExploringAO-Linder_2018.jpg)
+
+![](assets/img/outreach/ExploringAO-Becker_2018.jpg)
+
+![](assets/img/outreach/ExploringAO-Quigley_2018.jpg)
+
+![](assets/img/outreach/ExploringAO-Scanlab_2018.jpg)
+
+![](assets/img/outreach/ExploringAO-Linke_Heimbach_2018.jpg)
