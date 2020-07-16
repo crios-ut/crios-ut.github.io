@@ -10,9 +10,12 @@ about:
     image: assets/img/team/crios.jpg
     text: "The Computational Research in Ice and Ocean Systems (CRIOS) group at the 
     <a href='https://www.oden.utexas.edu/'>
-    Oden Institute for Computational Engineering & Sciences</a> 
-    <a href='https://www.utexas.edu'>(UT Austin)</a> 
-    applies advanced mathematical methods and simulation techniques to improve our understanding of the role of the ocean, sea ice and polar ice sheets in the global climate system."
+    Oden Institute for Computational Engineering and Sciences</a>,
+    <a href='https://www.utexas.edu'>(University of Texas at Austin)</a>
+    <br>
+    <br>
+    We apply advanced computational methods to improve our understanding of the role of the ocean, sea ice and polar ice sheets in the global climate system. The group’s research rests on the recognition that these Earth system components remain insufficiently sampled by observations. Using Bayesian inverse methods and scientific machine learning, we work toward optimal extraction of information contained in available observations through formal synthesis with known dynamics that are encapsulated in the governing equations of motion and rendered in state-of-the-art numerical models. Improved mechanistic understanding along with uncertainty characterization are essential prerequisites for developing robust climate predictions with quantified uncertainties. CRIOS is involved in a number of formal and informal, national and international research collaborations, including the UK, Norway, Germany, Japan, and Australia."
+    
     # The group’s research rests on the recognition that these Earth system components remain insufficiently sampled by observations. So the group works toward optimal extraction of information contained in available observations through formal synthesis with known dynamics. The dynamics, in turn, is encapsulated in the governing equations of motion and rendered in state-of-the-art numerical models. Improved mechanistic understanding along with uncertainty characterization are essential prerequisites for developing robust climate predictions with quantified uncertainties. CRIOS is involved in a number of formal and informal, national and international research collaborations, including the UK, Norway, Germany, Japan, and Australia. The group is pursuing several main research thrusts.
 
 
@@ -42,12 +45,28 @@ team:
         role: "Queen of the North"
         image: assets/img/team/annguyen.jpg
         social:
+      - name: "Susan M. Rodriguez"
+        role: "The CEO"
+        image: assets/img/team/susanrodriguez-2.jpg
+        social:
+          - url: https://www.oden.utexas.edu/people/368/
+            icon: fas fa-globe
+      - name: "Arash Bigdeli"
+        role: "Postdoc"
+        image: assets/img/team/Arash.png
+        social:
+          - url: https://github.com/ArashBigdeli/
+            icon: fab fa-github
       - name: "Nora Loose"
         role: "Postdoc"
         image: assets/img/team/noraloose.jpg
         social:
           - url: https://noraloose.github.io
             icon: fas fa-globe
+      - name: "Helen Pillar"
+        role: "Postdoc"
+        image: assets/img/team/helenpillar.jpg
+        social:
       - name: "Timothy Smith"
         role: "Graduate Research Assistant"
         image: assets/img/team/timsmith.jpg
@@ -58,16 +77,9 @@ team:
             icon: fab fa-github
             #- url: https://orcid.org/0000-0003-4463-6126
             #  icon: fab fa-orcid
-      - name: "Arash Bigdeli"
-        role: "Postdoc"
-        image: assets/img/team/Arash.png
-        social:
-          - url: https://github.com/ArashBigdeli/
-            icon: fab fa-github
-      - name: "Helen Pillar"
-        role: "Postdoc"
-        image: assets/img/team/helenpillar.jpg
-        social:
+      - name: "David Trossman"
+        role: "Research Scientist"
+        image: assets/img/team/davidtrossman.jpg
 
 publications:
     title: "Publications"
@@ -82,8 +94,13 @@ publications:
         # 3. It's safest to put the citation in between quotes ""
         #
         - img:
+          citation: <strong>2020</strong>
+        - img:
           citation: "Goldberg, D.N., T.A. Smith, S.H.K. Narayanan, P. Heimbach, and M. Morlighem (2020). Bathymetric influences on Antarctic ice-shelf melt rates. Earth and Space Science Open Archive."
           url: https://doi.org/10.1002/essoar.10503016.1
+        - img:
+          citation: "Hamlington, B. D., A. S. Gardner, E. Ivins, J. T. M. Lenaerts, J. T. Reager, D. S. Trossman, E. D. Zaron, S. Adhikari, A. Arendt, A. Aschwanden, B. D. Beckley, D. P. S. Bekaert, G. Blewitt, L. Caron, H. A. Chandanpurkar, K. Christianson, R. I. Cullather, R. M. DeConto, J. T. Fasullo, T. Frederikse, J. T. Freymueller, D. M. Gilford, M. Girotto, W. C. Hammond, R. Hock, N. Holschuh, R. E. Kopp, F. Landerer, E. Larour, D. Menemenlis, M. Merrifield, J. X. Mitrovica, R. S. Nerem, I. J. Nias, V. Nieves, S. Nowicki, K. Pangaluru, C. G. Piecuch, D. R. Rounce, N.-J. Schlegel, H. Seroussi, M. Shirzaei, I. Velicogna, N. Vinogradova, T. Wahl, D. N. Wiese, M. J. Willis (2020). Understanding of contemporary regional sea-level change and the implications for the future. Reviews of Geophysics, 58, e2019RG000672"
+          url: https://doi.org/10.1029/2019RG000672
         - img:
           citation: "Logan, L.C., S.H.K. Narayanan, R. Greve, and P. Heimbach (2020). SICOPOLIS-AD v1: an open-source adjoint modeling framework for ice sheet simulation enabled by the algorithmic differentiation tool OpenAD. Geosci. Model Dev., 13, 1845-1864."
           url: https://doi.org/10.5194/gmd-13-1845-2020
@@ -91,14 +108,37 @@ publications:
           citation: "Loose, N., Heimbach, P., Pillar, H., & Nisancioglu, K. (2020). Quantifying Dynamical Proxy Potential through Shared Adjustment Physics in the North Atlantic. Earth and Space Science Open Archive."
           url: https://doi.org/10.1002/essoar.10502065.3
         - img:
-          citation: "Nguyen, A.T., P. Heimbach, V. Garg, V. Ocana , C. Lee, and L. Rainville (2020). Impact of synthetic Arctic Argo-type floats in a coupled ocean-sea ice state estimation framework. J. Atmos. Ocean Technol., accepted."
-          url:
+          citation: "Nguyen, A.T., P. Heimbach, V. Garg, V. Ocana , C. Lee, and L. Rainville (2020). Impact of synthetic Arctic Argo-type floats in a coupled ocean-sea ice state estimation framework. J. Atmos. Ocean Technol., in press."
+          url: https://doi.org/10.1175/JTECH-D-19-0159.1
         - img:
           citation: "Nguyen, A.T., R. Woodgate, and P. Heimbach (2020). Elucidating large-scale atmospheric controls on Bering Strait throughflow variability using a data-constrained ocean model and its adjoint. Earth and Space Science Open Archive."
           url: https://doi.org/10.1002/essoar.10502464.1
         - img:
+          citation: <strong>2019</strong>
+        - img:
+          citation: "Arbic, B. K., O. B. Fringer, J. M. Klymak, F. T. Mayer, D. S. Trossman, P. Zhu (2019). Connecting process models of topographic wave drag to global eddying general circulation models. Oceanography, 32(4), 146–155"
+          url: https://doi.org/10.5670/oceanog.2019.420
+        - img:
+          citation: "Johnston, T. M. S., M. C. Schönau, T. Paluszkiewicz, J. A. MacKinnon, B. K. Arbic, P. L. Colin, M. H. Alford, M. Andres, L. Centurioni, K. R. Helfrich, V. Hormann, P. F. J. Lermusiaux, R. C. Musgrave, B. S. Powell, B. Qiu, D. L. Rudnick, H. L. Simmons, L. St. Laurent, D. S. Trossman, G. Voet, H. W. Wijesekera, K. Zeiden (2019). An Introduction and Highlights from Flow Encountering Abrupt Topography (FLEAT): A Multi-Scale Observational and Modelling Program to Under- stand the Effects of Topographic Flow in the Western North Pacific. Oceanography, 32(4), 10–21"
+          url: https://doi.org/10.5670/oceanog.2019.407
+        - img:
+          citation: "Lee, C. M., Starkweather, S., Eicken, H., Timmermans, M.-L., Wilkinson, J., Sandven, S., et al. (2019). A Framework for the Development, Design and Implementation of a Sustained Arctic Ocean Observing System. Frontiers in Marine Science, 6, 484"
+          url: http://doi.org/10.3389/fmars.2019.00451
+        - img:
           citation: "Smith, T., & Heimbach, P. (2019). Atmospheric Origins of Variability in the South Atlantic Meridional Overturning Circulation. Journal of Climate, 32(5), 1483–1500."
           url: https://doi.org/10.1175/JCLI-D-18-0311.1
+        - img:
+          citation: "Trossman, D. S. and R. H. Tyler (2019). Predictability of Ocean Heat Content from Electrical Conductance. Journal of Geophysical Research-Oceans, 124, 667–679."
+          url: https://doi.org/10.1029/2018JC014740
+        - img:
+          citation: <strong>2018</strong>
+        - img:
+          citation: "Bigdeli, A., Hara, T., Loose, B., & Nguyen, A. T. (2018). Wave Attenuation and Gas Exchange Velocity in Marginal Sea Ice Zone. Journal of Geophysical Research: Oceans, 123(3), 2293–2304."
+          url: http://doi.org/10.1002/2017JC013380
+        - img:
+          citation: "Palter, J. B. and D. S. Trossman (2018). The Sensitivity of Future Ocean Oxygen Concentrations to Changes in Ocean Circulation. Global Biogeochemical Cycles, 32."
+          url: https://doi.org/10.1002/2017GB005777
+          
 
 footer:
     legal: "Privacy Policy"
