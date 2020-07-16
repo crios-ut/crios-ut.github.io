@@ -4,7 +4,7 @@ subtitle: Visual Arts Center, UT Austin, Sept - Dec 2018
 image: assets/img/outreach/ExploringAO_Flyer_2018.jpg
 
 caption:
-  title: Exploring the Arctic Ocean*
+  title: Exploring the Arctic Ocean
   subtitle: Exhibition, Visual Arts Center, UT Austin, Sept - Dec 2018
   thumbnail: assets/img/outreach/ExploringAO_Overview_2018.jpg
 ---
