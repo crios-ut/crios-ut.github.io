@@ -1,7 +1,7 @@
 ---
 title: Arctic Atlantification
 subtitle: Data Visualization
-image: assets/img/outreach/ArcticAtlantification_installation_shot.png
+image: assets/img/outreach/ArcticAtlantification_screenshot.png
 date: 2018-08-01
 
 caption:
