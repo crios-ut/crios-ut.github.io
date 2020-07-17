@@ -1,5 +1,6 @@
 <!-- Outreach Modals -->
-{% for event in site.outreach %}
+{% assign outreach_list = site.outreach | sort: site.outreach.date | reverse %}
+{% for event in outreach_list %}
   <div class="outreach-modal modal fade" id="q{{ forloop.index }}" tabindex="-1" role="dialog" aria-hidden="true">
     <div class="modal-dialog">
       <div class="modal-content">
