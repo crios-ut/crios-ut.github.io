@@ -2,6 +2,7 @@
 title: Arctic works at the Oden Institute
 subtitle: Permanent Installation of works by artists Lize Mogel (US) and Olaf Otto Becker (GER)
 image: assets/img/outreach/Mogel_UN_Symbol.jpg
+date: 2019-12-01
 
 caption:
   title: Arctic works at the Oden Institute

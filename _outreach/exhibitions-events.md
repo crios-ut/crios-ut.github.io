@@ -2,6 +2,7 @@
 title: Exploring the Arctic Ocean
 subtitle: Programs and Events, UT Campus, Sept - Dec 2018
 image: assets/img/outreach/ExploringAO_Flyer_2018.jpg
+date: 2018-12-01
 
 caption:
   title: Exploring the Arctic Ocean
