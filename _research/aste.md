@@ -1,15 +1,12 @@
 ---
 title: ASTE
-subtitle: The Arctic has never looked so good
+subtitle: The Arctic Subpolar gyre sTate Estimate
 image: assets/img/research/aste.png
-alt: The Arctic has never looked so good
+alt: An estimate of the Arctic and Subpolar ocean state constrained by observations
+date: 2020-05-01
 
 caption:
   title: ASTE
-  subtitle: The Arctic has never looked so good
+  subtitle: The Arctic Subpolar gyre sTate Estimate
   thumbnail: assets/img/research/aste.png
 ---
-Use this area to describe your project. **Markdown** supported. This entry (project1.md) uses links for the image sources. All other projects in the portfolio use local images. Both work just fine! Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
-
-{:.list-inline}
-- Date: June 2020

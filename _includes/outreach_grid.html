@@ -8,7 +8,8 @@
       </div>
     </div>
     <div class="row">
-	{% for event in site.outreach %}
+    {% assign outreach_list = site.outreach | sort: site.outreach.date | reverse %}
+	{% for event in outreach_list %}
       <div class="col-md-4 col-sm-6 outreach-item">
         <a class="outreach-link" data-toggle="modal" href="#q{{ forloop.index }}">
           <div class="outreach-hover">
