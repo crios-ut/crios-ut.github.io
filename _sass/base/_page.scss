@@ -21,9 +21,13 @@ a {
 
 
 h1,
-h2,
+h2{ 
+    font-weight: 400;
+}
 h3,
-h4,
+h4{
+    font-weight: 400;
+}
 h5,
 h6 {
   font-weight: 700;
@@ -33,17 +37,18 @@ h6 {
 .page-section {
   padding: 100px 0;
   h2.section-heading {
+    color: #212529;
     font-size: 40px;
+    font-weight: 400;
     margin-top: 0;
     margin-bottom: 15px;
   }
   h3.section-subheading {
     font-size: 16px;
     font-weight: 400;
-    font-style: italic;
     margin-bottom: 75px;
     text-transform: none;
-    @include serif-font;
+    @include body-font;
   }
 }
 @media(min-width:768px) {

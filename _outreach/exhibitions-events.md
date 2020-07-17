@@ -1,18 +1,20 @@
 ---
 title: Exploring the Arctic Ocean
 subtitle: Programs and Events, UT Campus, Sept - Dec 2018
-image: assets/img/outreach/ExploringAO_Flyer_2018.jpg
+image: assets/img/outreach/arctic-poster_cropped.jpg
 date: 2018-12-01
 
 caption:
   title: Exploring the Arctic Ocean
   subtitle: Programs and Events, UT Campus, Sept - Dec 2018
-  thumbnail: assets/img/outreach/ExploringAO_Overview_2018.jpg
+  thumbnail: assets/img/outreach/arctic-poster_cropped.jpg
 ---
 The exhibition *Exploring the Arctic Ocean* was accompanied by an interdisciplinary series of programs, which included artist’s talks, lectures, gallery tours, studio visits, and a panel discussion. All events were organized as cross-departmental collaborations and were hosted by the Moody College of Communication, the Department of Art and Art History, the Texas Advanced Computing Center, the Jackson School of Geosciences, the Center for Space Research, the Department of Geography and the Environment, and the Harry Ransom Center. 
+<br>
 In addition, the Visual Arts Center offered educational programs geared towards visitor groups of all ages. 
 
 [@ExhArcticOcean](https://twitter.com/exharcticocean?lang=en)
+<br>
 [Exhibition website](http://utvac.org/event/exploring-arctic-ocean)
 
 

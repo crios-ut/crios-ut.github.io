@@ -9,12 +9,13 @@
   </div>
   {% for paper in site.data.sitetext.publications.papers %}
     <div class="row">
+        <!--
       <div class="left">
         {% if paper.img != null and paper.img != "" %}
           <img src={{paper.img}}>
         {% endif %}
-	  </div>
-      <div class="right">
+      </div>-->
+      <!--<div class="right">-->
          {% if paper.url != null %}
            <p>{{ paper.citation }}
              <a href={{paper.url}}>{{paper.url}}</a>
@@ -22,7 +23,7 @@
          {% else %}
            <p>{{ paper.citation }}</p>
          {% endif %}
-	  </div>
+         <!--</div>-->
 	</div>
   {% endfor %}
 </section>

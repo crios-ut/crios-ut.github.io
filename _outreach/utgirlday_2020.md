@@ -18,12 +18,12 @@ CRIOS giving oceanography demos at [UT's annual Girl Day event](https://girlday.
 
 <img class="img-fluid" src="assets/img/outreach/UT_GIRL_DAY_2020_02.jpg">
 
-<img class="img-fluid" src="assets/img/outreach/UT_GIRL_DAY_2020_Cover.jpg">
+<img class="img-fluid" src="assets/img/outreach/UT_GIRL_DAY_2020_Cover.JPG">
 
 <img class="img-fluid" src="assets/img/outreach/UT_GIRL_DAY_2020_04.jpg">
 
 <img class="img-fluid" src="assets/img/outreach/UT_GIRL_DAY_2020_05.jpg">
 
-<img class="img-fluid" src="assets/img/outreach/UT_GIRL_DAY_2020_06.jpg">
+<img class="img-fluid" src="assets/img/outreach/UT_GIRL_DAY_2020_06.JPG">
 
 
