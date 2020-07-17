@@ -1,11 +1,11 @@
 ---
 title: Arctic Atlantification
-subtitle: Visualizing Changes in the Arctic Ocean
+subtitle: Data Visualization
 image: assets/img/outreach/ArcticAtlantification_installation_shot.png
 
 caption:
   title: Arctic Atlantification
-  subtitle: Visualizing Changes in the Arctic Ocean
+  subtitle: Data Visualization
   thumbnail: assets/img/outreach/ArcticAtlantification_screenshot.png
 ---
 In collaboration with visualization specialist Greg Foss from the Visualization Lab of the Texas Advanced Computing Center (TACC) at The University of Texas at Austin, An T. Nguyen and Patrick Heimbach produced the animated data visualization “Arctic Atlantification,“ which introduces CRIOS research in an intriguing manner. The animation is a sequence of graphic renderings of a computer simulation, which shows the water temperatures of the Arctic Ocean at a given time. The color of each pixel reﬂects a temperature value deﬁned in a legend. By putting the images into a time sequence, the evolution of temperatures over time becomes visible. 
