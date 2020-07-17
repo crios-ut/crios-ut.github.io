@@ -12,8 +12,8 @@ In tandem with their research project “Arctic System Change Through Synthesis 
 The video installations, photographic series, and data visualizations on display dealt with the inherent dynamics of the Arctic Ocean’s unique but changing environment, its increasingly important geopolitical role, and its many cultural meanings. The strategies and goals that constituted the works in the exhibition represented a diverse spectrum: Some works exposed scientiﬁc practices and data collection, making them visible and available for scrutiny; others adapted scientiﬁc methods, such as data visualization, as aesthetic practices to challenge traditional modes of representation. In presenting these different projects side by side, *Exploring the Arctic Ocean* sought to broaden the perspective of the Arctic Ocean and to emphasize its global importance. The exhibition was curated by Ulrike Heine a visual studies scholar and independent curator with focus on the intersection of contemporary art, scientific knowledge production, and ecological concerns. 
 
 [@ExhArcticOcean](https://twitter.com/exharcticocean?lang=en)
-[Exhibition website](utvac.org/event/exploring-arctic-ocean)
-More installation views on [Flickr](flic.kr/s/aHsmubJbyH)
+[Exhibition website](http://utvac.org/event/exploring-arctic-ocean)
+More installation views on [Flickr](http://flic.kr/s/aHsmubJbyH)
 
 <p class="text-muted">
   <img class="img-fluid" src="assets/img/outreach/ExploringAO-Norn_et_al_2018.jpg">
