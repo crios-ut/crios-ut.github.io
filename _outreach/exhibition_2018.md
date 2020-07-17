@@ -1,5 +1,5 @@
 ---
-title: Exhibition *Exploring the Arctic Ocean*
+title: Exhibition <em>Exploring the Arctic Ocean</em>
 subtitle: Visual Arts Center, UT Austin, Sept - Dec 2018
 image: assets/img/outreach/ExploringAO_Flyer_2018.jpg
 
@@ -17,36 +17,36 @@ More installation views on [Flickr](flic.kr/s/aHsmubJbyH)
 
 <p class="text-muted">
   <img class="img-fluid" src="assets/img/outreach/ExploringAO-Norn_et_al_2018.jpg">
-  Annesofie Norn/Ole Kristensen/Daniel Plewe, *Longing Fast Forward*, 2011 – 2015
+  Annesofie Norn/Ole Kristensen/Daniel Plewe, <em>Longing Fast Forward</em>, 2011 – 2015
 </p>
 
 <p class="text-muted">
   <img class="img-fluid" src="assets/img/outreach/ExploringAO-CRIOS_2018.jpg">
-  Left: CRIOS, *Visualizing Ocean Circulation, from Numbers to Pictures*, 2018. Right: Nguyen/Heimbach and Greg Voss, TACC, UT Austin: *Arctic Atlantification*, 2018
+  Left: CRIOS, <em>Visualizing Ocean Circulation, from Numbers to Pictures</em>, 2018. Right: Nguyen/Heimbach and Greg Voss, TACC, UT Austin: <em>Arctic Atlantification</em>, 2018
 </p>
 
 <p class="text-muted">
   <img class="img-fluid" src="assets/img/outreach/ExploringAO-Linder_2018.jpg">
-  Chris Linder, *Live from the Poles*, 2007 – 2009
+  Chris Linder, <em>Live from the Poles</em>, 2007 – 2009
 </p>
 
 <p class="text-muted">
   <img class="img-fluid" src="assets/img/outreach/ExploringAO-Becker_2018.jpg">
-  Olaf Otto Becker, *Broken Line*, 2003 – 2006
+  Olaf Otto Becker, <em>Broken Line</em>, 2003 – 2006
 </p>
 
 <p class="text-muted">
   <img class="img-fluid" src="assets/img/outreach/ExploringAO-Quigley_2018.jpg">
-  John Quigley, *Melting Vitruvian Man*, 2011. 
+  John Quigley, <em>Melting Vitruvian Man</em>, 2011. 
 </p>
 
 <p class="text-muted">
   <img class="img-fluid" src="assets/img/outreach/ExploringAO-ScanLab_2018.jpg">
-  ScanLAB Projects, *Arctic Works (FLOE A2_002 Stamukha)*, 2013
+  ScanLAB Projects, <em>Arctic Works (FLOE A2_002 Stamukha)</em>, 2013
 </p>
 
 <p class="text-muted">
   <img class="img-fluid" src="assets/img/outreach/ExploringAO-Linke_Heimbach_2018.jpg">
-  Armin Linke, *Arctic Continua*, 2018
+  Armin Linke, <em>Arctic Continua</em>, 2018
 </p>
 
