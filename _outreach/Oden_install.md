@@ -20,7 +20,7 @@ Lize Mogel is a counter-cartographer: As part of a collective effort working tow
 </p>
 
 <p class="text-muted">
-  <img class="img-fluid" src="assets/img/outreach/Becker_Oden.png">
+  <img class="img-fluid" src="assets/img/outreach/Becker_Oden.jpg">
   Becker's photographs installed at Oden
 </p>
 
