@@ -12,7 +12,7 @@ In collaboration with visualization specialist Greg Foss from the Visualization 
 Presented as a large video projection and accompanied by an accessible video-audio narrative produced by the CRIOS group, the visualization became the core element of the exhibition Exploring the Arctic Ocean on view at the Visual Arts Center from September through December 2018. “Arctic Atlantification” also won the “SC18 Scientific Visualization and Data Analytics Award” at the annual Supercomputing Conference in 2018. 
 
 <p class="text-muted">
-  <img class="img-fluid" src="assets/img/outreach/ArcticAtlantification_installation_shot.jpg">
-  Left: CRIOS group, *Visualizing Ocean Circulation, from Numbers to Pictures*, 2018. Audio slideshow, ca. 10 min.
-  Right: Nguyen/Heimbach and Greg Foss, TACC, UT Austin, *Arctic Atlantification*, 2018. Video animation of model simulation output, approx. 2:15 min.
+  <img class="img-fluid" src="assets/img/outreach/ArcticAtlantification_installation_shot.png">
+  Left: CRIOS group, <em>Visualizing Ocean Circulation, from Numbers to Pictures</em>, 2018. Audio slideshow, ca. 10 min.
+  Right: Nguyen/Heimbach and Greg Foss, TACC, UT Austin, <em>Arctic Atlantification</em>, 2018. Video animation of model simulation output, approx. 2:15 min.
 </p>
