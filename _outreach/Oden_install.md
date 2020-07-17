@@ -6,7 +6,7 @@ date: 2019-12-01
 
 caption:
   title: Arctic works at the Oden Institute
-  subtitle: Permanent Installation of works by artists Lize Mogel (US) and Olaf Otto Becker (GER)
+  subtitle: Permanent Installation of works by artists Lize Mogel and Olaf Otto Becker
   thumbnail: assets/img/outreach/Mogel_UN_Symbol.jpg
 ---
 Following the exhibition *Exploring the Arctic Ocean*, two of the participating artists, American conceptual artist Lize Mogel and German photographer Olaf Otto Becker loaned their works to the Oden Institute. Four photographs from Becker’s photographic series *Broken Line* and a map showing the Arctic Ocean, a center piece of Mogel’s multimedia installation *Area of Detail,* are on display on the 4th floor of the Peter O’Donnell Jr. Building. 
