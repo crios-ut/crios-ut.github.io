@@ -12,15 +12,14 @@
       <div class="col-md-4 col-sm-6 research-item">
         <a class="research-link" data-toggle="modal" href="#p{{ forloop.index }}">
           <div class="research-hover">
-            <div class="research-hover-content">
-              <i class="{{ site.data.style.research-icon | default: "fas fa-plus fa-3x" }}"></i>
+            <div class="research-hover-content" display="flex" justify-content="center" align-items="center">
+	      <p style="color:gray;">{{project.caption.subtitle}}</p>
+	      <br>
             </div>
           </div>
           <img class="img-fluid" src="{{ project.caption.thumbnail }}" alt="">
           <p style="background-color:SlateGrey; text-align:center; color:white;"><br>{{ project.caption.title }}<br></p>
         </a>
-        <div class="research-caption">
-        </div>
       </div>
 	{% endfor %}
     </div>
