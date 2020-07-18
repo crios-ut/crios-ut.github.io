@@ -8,7 +8,8 @@
       </div>
     </div>
     <div class="row">
-	{% for project in site.research %}
+	{% assign research_list = site.research | sort: site.research.date | reverse %}
+	{% for project in research_list %}
       <div class="col-md-4 col-sm-6 research-item">
         <a class="research-link" data-toggle="modal" href="#p{{ forloop.index }}">
           <div class="research-hover">
