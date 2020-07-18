@@ -3,6 +3,7 @@ title: Atlantic Meridional Overturning Circulation
 subtitle: Exploring timescales and pathways of variability in Atlantic Overturning and inter-basin exchange
 image: assets/img/research/south_atlantic_sst_currents_labeled_square.png
 alt: Exploring timescales and pathways of variability in Atlantic Overturning and inter-basin exchange
+date: 2020-02-01
 
 caption:
   title: Atlantic Meridional Overturning Circulation
