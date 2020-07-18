@@ -103,7 +103,7 @@ http://localhost:4000)
     `crios_teammate` with `hpillar`, and `their_dev_branch` with
     `hpedits_crios_webpage`.
 
-<img src="assets/img/PR_Screenshot_1.png" style="width:50%;">
+     <img src="assets/img/PR_Screenshot_1.png" width="50%">
 
 3. Use the above instructions to locally build the website, make sure it looks good,
     links go where they should, images show up, and no errors show up in the 
