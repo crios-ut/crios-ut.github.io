@@ -103,7 +103,9 @@ http://localhost:4000)
     `crios_teammate` with `hpillar`, and `their_dev_branch` with
     `hpedits_crios_webpage`.
 
+     <p align="center">
      <img src="assets/img/PR_Screenshot_1.png" width="50%">
+     </p>
 
 3. Use the above instructions to locally build the website, make sure it looks good,
     links go where they should, images show up, and no errors show up in the 
@@ -113,7 +115,9 @@ http://localhost:4000)
 4. If files need to be fixed, either ask them to or modify them yourself,
     respectfully! ;) . It is easiest to modify files directly on the web browser.
     
-<img src="assets/img/PR_Screenshot_2.png" style="width:50%;">
+    <p align="center">
+      <img src="assets/img/PR_Screenshot_2.png" width="50%">
+    </p>
 
 5. If everything looks good, go ahead and merge the PR. It seems cleanest to use the
     "Squash and Merge" option (see below), which squashes all of the commits
@@ -121,4 +125,6 @@ http://localhost:4000)
     to the master branch commit history. Note that closing the PR
     essentially removes it.
 
-<img src="assets/img/PR_Screenshot_3.png" style="width:50%;">
+    <p align="center">
+      <img src="assets/img/PR_Screenshot_3.png" width="50%">
+    </p>
