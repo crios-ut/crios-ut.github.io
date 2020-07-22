@@ -80,6 +80,14 @@ team:
       - name: "David Trossman"
         role: "Research Scientist"
         image: assets/img/team/davidtrossman.jpg
+      - name: "Ivana Escobar"
+        role: "Graduate Research Assistant"
+        image: assets/img/team/ivanaescobar.jpg
+        social:
+          - url: https://www.oden.utexas.edu/people/1496/
+            icon: fas fa-globe
+          - url: https://github.com/IvanaEscobar
+            icon: fab fa-github
 
 publications:
     title: "Publications"
