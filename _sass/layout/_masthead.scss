@@ -11,11 +11,10 @@ header.masthead {
     padding-top: 150px;
     padding-bottom: 100px;
     .intro-lead-in {
-      font-size: 22px;
-      font-style: italic;
+      font-size: 24px;
       line-height: 22px;
       margin-bottom: 25px;
-      @include serif-font;
+      @include body-font;
     }
     .intro-heading {
       font-size: 50px;
@@ -32,11 +31,11 @@ header.masthead {
       padding-top: 300px;
       padding-bottom: 200px;
       .intro-lead-in {
-        font-size: 40px;
-        font-style: italic;
+        font-size: 45px;
+        font-weight: 800;
         line-height: 40px;
         margin-bottom: 25px;
-        @include serif-font;
+        @include body-font;
       }
       .intro-heading {
         font-size: 75px;

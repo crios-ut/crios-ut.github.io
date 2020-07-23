@@ -16,8 +16,10 @@
                 <!-- Project Details Go Here -->
                 <h2 class="text-uppercase">{{ event.title }}</h2>
                 <p class="item-intro text-muted">{{ event.subtitle }}</p>
-                <img class="img-fluid d-block mx-auto" src="{{ event.image }}" alt="{{ event.alt }}">
-    			<p>{{ event.content }}</p>
+                <div class="modal-body" style="text-align:left;">
+                  <img class="img-fluid d-block mx-auto" src="{{ event.image }}" alt="{{ event.alt }}">
+    			  <p>{{ event.content }}</p>
+                </div>
                 <button class="btn btn-primary" data-dismiss="modal" type="button">
                   <i class="fas fa-times"></i>
                   Close</button>
