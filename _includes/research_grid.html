@@ -7,23 +7,21 @@
         <h3 class="section-subheading text-muted">{{ site.data.sitetext.research.text | markdownify }}</h3>
       </div>
     </div>
-    <div class="row">
-	{% assign research_list = site.research | sort: site.research.date | reverse %}
-	{% for project in research_list %}
-      <div class="col-md-4 col-sm-6 research-item">
-        <a class="research-link" data-toggle="modal" href="#p{{ forloop.index }}">
-          <div class="research-hover">
-            <div class="research-hover-content" display="flex" justify-content="center" align-items="center">
-	      <p style="color:gray;">{{project.caption.subtitle}}</p>
-	      <br>
-            </div>
-          </div>
-          <img class="img-fluid" src="{{ project.caption.thumbnail }}" alt="">
-          <p style="background-color:SlateGrey; text-align:center; color:white;"><br>{{ project.caption.title }}<br></p>
-        </a>
-      </div>
-	{% endfor %}
-    </div>
+    <div class="research-items">
+	  {% assign research_list = site.research | sort: site.research.date | reverse %}
+	  {% for project in research_list %}
+	  <div class="research-item">
+		<img class="img-fluid" src="{{ project.caption.thumbnail }}" alt="">
+	<div class="text">
+		<h3>{{project.caption.title}}</h3>
+	<p>
+		{{project.caption.subtitle}}
+		<a data-toggle="modal" href="#p{{ forloop.index }}"> Read more </a>
+	 </p>
+	  </div>
+	  </div>
+	  {% endfor %}
+	  </div>
   </div>
 </section>
 {% include modals_research.html %}
