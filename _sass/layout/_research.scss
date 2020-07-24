@@ -13,17 +13,25 @@ section#research {
       width:auto;
       height: 200px;
     }
-    &:nth-child(2n+1){
-      img{
-        order:0
-      }
+   
       .text{
-        order:1
+        flex-grow:1;
       }
-    }
+    
     @media (min-width:768px){
       .text{
       margin-left: 15px
+      }
+    
+     &:nth-child(2n){
+      img{
+        order:1
+      }
+       .text{
+         order:0;
+           margin-left:0;
+           margin-right: 15px;
+         }
       }
     }
     .research-link {
