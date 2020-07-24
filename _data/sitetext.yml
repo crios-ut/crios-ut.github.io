@@ -64,7 +64,7 @@ team:
           - url: https://noraloose.github.io
             icon: fas fa-globe
       - name: "Helen Pillar"
-        role: "Postdoc"
+        role: "Research Fellow"
         image: assets/img/team/helenpillar.jpg
         social:
       - name: "Timothy Smith"
@@ -102,9 +102,10 @@ publications:
         # 3. It's safest to put the citation in between quotes ""
         #
         - citation: <strong>Submitted</strong>
+        - citation: "Bigdeli, A., A.T. Nguyen, H.R. Pillar, V. Ocana, and P. Heimbach (2020). Atmospheric Warming Drives Growth in Arctic Sea-Ice: A Key Role for Snow. Submitted to Geophysical Research Letters."
         - citation: "Goldberg, D.N., T.A. Smith, S.H.K. Narayanan, P. Heimbach, and M. Morlighem (2020). Bathymetric influences on Antarctic ice-shelf melt rates. Earth and Space Science Open Archive."
           url: https://doi.org/10.1002/essoar.10503016.1
-        - citation: "Loose, N., Heimbach, P., Pillar, H., and Nisancioglu, K. (2020). Quantifying Dynamical Proxy Potential through Shared Adjustment Physics in the North Atlantic. Earth and Space Science Open Archive."
+        - citation: "Loose, N., P. Heimbach, H.R. Pillar, and K. Nisancioglu (2020). Quantifying Dynamical Proxy Potential through Shared Adjustment Physics in the North Atlantic. Earth and Space Science Open Archive."
           url: https://doi.org/10.1002/essoar.10502065.3
         - citation: "Nguyen, A.T., R. Woodgate, and P. Heimbach (2020). Elucidating large-scale atmospheric controls on Bering Strait throughflow variability using a data-constrained ocean model and its adjoint. Earth and Space Science Open Archive."
           url: https://doi.org/10.1002/essoar.10502464.1
@@ -119,7 +120,7 @@ publications:
         - citation: <strong>2019</strong>
         - citation: "Arbic, B. K., O. B. Fringer, J. M. Klymak, F. T. Mayer, D. S. Trossman, P. Zhu (2019). Connecting process models of topographic wave drag to global eddying general circulation models. Oceanography, 32(4), 146–155"
           url: https://doi.org/10.5670/oceanog.2019.420
-        - citation: "Fox-Kemper, B., A. Adcroft, C.W. Boening, E.P. Chassignet, E. Curchitser, G. Danabasoglu, C. Eden, M.H. England, R. Gerdes, R.J. Greatbatch, S.M. Griffies, R.W. Hallberg, E. Han- ert, P. Heimbach, H.T. Hewitt, C.N. Hill, Y. Komuro, S. Legg, J. Le Sommer, S. Masina, S.J. Marsland, S.G. Penny, F. Qiao, T.D. Ringler, A.M. Treguier, H. Tsujino, P. Uotila, and S.G. Yeager, 2019: Challenges and Prospects in Ocean Circulation Models. Frontiers in Marine Science, 6, 65"
+        - citation: "Fox-Kemper, B., A. Adcroft, C.W. Boening, E.P. Chassignet, E. Curchitser, G. Danabasoglu, C. Eden, M.H. England, R. Gerdes, R.J. Greatbatch, S.M. Griffies, R.W. Hallberg, E. Han- ert, P. Heimbach, H.T. Hewitt, C.N. Hill, Y. Komuro, S. Legg, J. Le Sommer, S. Masina, S.J. Marsland, S.G. Penny, F. Qiao, T.D. Ringler, A.M. Treguier, H. Tsujino, P. Uotila, and S.G. Yeager (2019): Challenges and Prospects in Ocean Circulation Models. Frontiers in Marine Science, 6, 65"
           url: https://www.frontiersin.org/articles/10.3389/fmars.2019.00065
         - citation: "Frajka-Williams, E., and 39 co-authors, 2019: Atlantic Meridional Overturning Circulation: Observed transports and mechanisms. Frontiers in Marine Science, 6, 260"
           url: https://www.frontiersin.org/articles/10.3389/fmars.2019.00260
@@ -147,6 +148,8 @@ publications:
           url: https://doi.org/10.1029/2018JC014740
         - citation: "Villas Boas, B., and 25 others, 2019: Integrated observations and modeling of winds, currents, and waves: requirements and challenges for the next decade. Front. Mar. Sci., 6, 425"
           url: https://www.frontiersin.org/articles/10.3389/fmars.2019.00425
+        - citation: "Madsen, M.V., H.C. Steen-Larsen, M. Horhold, J. Box, S.M.P Berben, E. Capron, A.-K. Faber, A. Hubbard, M.F. Jensen, T.R. Jones, S. Kipfstufl, I. Koldtoft, H.R. Pillar, B.H. Vaughn, D. Vladimirova, and D. Dahl-Jensen (2019). Evidence of Isotopic Fractionation During Vapor Exchange Between the Atmosphere and the Snow Surface in Greenland. J. Geophys. Res. Atmos., 124, 2932-2945."
+          url: https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2018JD029619
         - citation: "Yosuke, F., and 28 others, 2019: Observing System Evaluation Based on Ocean Data Assimilation and Prediction Systems: On-going Challenges and Future Vision for Designing/Supporting Ocean Observational Networks. Front. Mar. Sci., 6, 417"
           url: https://www.frontiersin.org/articles/10.3389/fmars.2019.00417
         - citation: "Zanna, L., S. Khatiwala, J. Gregory, J. Ison, and P. Heimbach, 2019: Estimates and Attribution of Atlantic Ocean Heat Content and Sea Level Change. Proc. Natl. Acad. Sci. USA, 116(4), 1126-1131"
