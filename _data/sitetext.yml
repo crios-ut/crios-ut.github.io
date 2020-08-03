@@ -88,7 +88,7 @@ team:
             icon: fas fa-globe
           - url: https://github.com/IvanaEscobar
             icon: fab fa-github
-       - name: "Ulrike Heine"
+      - name: "Ulrike Heine"
         role: "Outreach Consultant"
         image: assets/img/team/UlrikeHeine.jpg
         social:
