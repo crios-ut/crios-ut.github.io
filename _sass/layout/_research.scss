@@ -1,8 +1,39 @@
 // Styling for the research section
 section#research {
   .research-item {
+    display: flex;
+    @media (max-width:767px){
+      flex-wrap:wrap
+    }
+    width: 100%;
     right: 0;
     margin: 0 0 15px;
+    
+    img{
+      width:auto;
+      height: 200px;
+    }
+   
+      .text{
+        flex-grow:1;
+      }
+    
+    @media (min-width:768px){
+      .text{
+      margin-left: 15px
+      }
+    
+     &:nth-child(2n){
+      img{
+        order:1
+      }
+       .text{
+         order:0;
+           margin-left:0;
+           margin-right: 15px;
+         }
+      }
+    }
     .research-link {
       position: relative;
       display: block;
