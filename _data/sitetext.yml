@@ -1,8 +1,8 @@
 header:
     title: Computational Research in Ice and Ocean Systems<br>CRIOS
     text: 
-    button: Research
-    buttonlink: "research" # "#{section}" or "URL/page link"
+    button: #Research
+    buttonlink: #"research" # "#{section}" or "URL/page link"
 
 about:
     title: "About Us"
