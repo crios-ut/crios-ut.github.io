@@ -2,6 +2,9 @@ nav:
   - title: "About Us"
     section: about
 
+  - title: "News"
+    url: news
+
   - title: "Research"
     url: research
     

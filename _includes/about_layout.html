@@ -8,30 +8,7 @@
       </div>
       <div class="row">
 
-          <!-- Side by side: image next to twitter feed -->
-        <div class="left75">
-            <img src="{{site.data.sitetext.about.image | relative_url}}" style="width:100%">
-          <body> {{site.data.sitetext.about.text | default: "" }}
-          </body>
-        </div>
-
-        <div class="right23">
-            <!-- Code to vertically align this content... somehow difficult!
-             style="display: flex; align-items: center;
-             vertical-align:middle; text-align:center">-->
-
-             <!-- the table/table cell,etc are all to center the content on mobile-->
-           <div class="twitterborder">
-             <div class="table">
-               <div class="table-cell">
-                 <a class="twitter-timeline tw-align-center"  data-height="600"  href="https://twitter.com/ExhArcticOcean">Tweets by CRIOS</a> 
-                 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-               </div>
-             </div>
-           </div>
-
-          <!-- Image above text, nothing next to image -->
-          <!--
+        <!-- Image above text, nothing next to image -->
         <div style="display:flex;align-items:center;text-align:center;">
             <img src="{{site.data.sitetext.about.image | relative_url}}" style="width:100%">
         </div>
@@ -39,9 +16,6 @@
             <body> <p> {{site.data.sitetext.about.text | default: "" }}</p>
           </body>
         </div>
-          -->
-
-        </div>
-
+      </div>
   </section>
 <!-- End About -->
