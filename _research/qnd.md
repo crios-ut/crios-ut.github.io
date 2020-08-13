@@ -1,6 +1,7 @@
 ---
 title: Quantitative Network Design
-subtitle:  
+subtitle:   
+teaser: To understand the Earth’s changing climate, it is important to estimate how much heat the ocean takes up from the atmosphere and how the ocean recirculates the heat around the globe. Directly obtaining these estimates from measurements is complicated because oceanographers cannot measure the ocean everywhere and at all times...
 image: assets/img/research/Obs_System_650_square.jpg
 alt: 
 date: 2020-03-01
