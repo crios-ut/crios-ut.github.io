@@ -90,6 +90,10 @@ team:
             icon: fas fa-globe
           - url: https://github.com/IvanaEscobar
             icon: fab fa-github
+      - name: "Yanzhou Wei"
+        role: "Postdoc"
+        image: assets/img/team/WeiYanzhou.jpg
+        social:
       - name: "Ulrike Heine"
         role: "Outreach Consultant"
         image: assets/img/team/UlrikeHeine.jpg
@@ -99,7 +103,7 @@ team:
 publications:
     title: "Publications"
     url: publications
-    text: "Papers from our group"
+    text: 
     papers:
         # Instructions
         # ------------
