@@ -1,5 +1,5 @@
 ---
-title: Atlantic Meridional Overturning Circulation
+title: Decipering the Atlantic Meridional Overturning Circulation
 subtitle: 
 teaser: The ocean's overturning circulation redistributes heat, salt and dissolved chemicals around the globe, from the surface to great depths. Variations in overturning have been linked to significant climate change on a range of timescales, but the underlying mechanisms remain under investigation ...
 image: assets/img/research/south_atlantic_sst_currents_labeled_square.png
@@ -7,7 +7,7 @@ alt: Exploring timescales and pathways of variability in Atlantic Overturning an
 date: 2020-02-01
 
 caption:
-  title: Atlantic Meridional Overturning Circulation
+  title: Deciphering the Atlantic Meridional Overturning Circulation
   subtitle: Exploring timescales and pathways of variability in Atantic Overturning and inter-basin exchange
   thumbnail: assets/img/research/south_atlantic_sst_currents_labeled_square.png
 ---

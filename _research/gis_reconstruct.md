@@ -1,12 +1,12 @@
 ---
-title: GIS Reconstruction
+title: Bayesian Inverse Methods for Ice Sheet Model Calibration and Reconstruction
 subtitle: subtitle
 image: assets/img/research/radar_cic_square.jpg
 alt: alt
 date: 2019-01-01
 
 caption:
-  title: GIS Reconstruction
+  title: Bayesian Inverse Methods for Ice Sheet Model Calibration and Reconstruction
   subtitle: subtitle
   thumbnail: assets/img/research/radar_cic_square.jpg
 ---

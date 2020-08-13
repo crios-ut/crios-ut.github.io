@@ -1,12 +1,12 @@
 ---
-title: Ice - Ocean Interactions
+title: Ice Sheet-Ocean Interactions Around Antartica and Greenland
 subtitle: Inferring the link between oceanic conditions and iceshelf melting in Antarctica
 image: assets/img/research/meltrate_and_barostf.png
 alt: subtitle
 date: 2020-01-01
 
 caption:
-  title: Ice - Ocean Interactions
+  title: Ice Sheet-Ocean Interactions Around Antartica and Greenland
   subtitle: Inferring the link between oceanic conditions and iceshelf melting in Antarctica
   thumbnail: assets/img/research/iceberg_credit.jpg
 ---
