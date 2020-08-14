@@ -90,6 +90,10 @@ team:
             icon: fas fa-globe
           - url: https://github.com/IvanaEscobar
             icon: fab fa-github
+      - name: "Feras Habbal"
+        role: "Postdoc"
+        image: assets/img/team/FerasHabbal.jpg
+        social:
       - name: "Yanzhou Wei"
         role: "Postdoc"
         image: assets/img/team/WeiYanzhou.jpg
