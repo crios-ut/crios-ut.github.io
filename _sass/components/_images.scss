@@ -1,0 +1,9 @@
+.image-caption {
+    font-size: 0.9em;
+    background: mix($primary, white, 10%);
+    padding: 1em;
+}
+
+.modal-content img + .image-caption {
+    margin-top: -20px;
+}

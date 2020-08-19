@@ -21,6 +21,7 @@ $bottom-image: "{{ site.data.style.bottom-image }}";
 @import "components/buttons.scss";
 @import "components/navbar.scss";
 @import "components/client-scroll.scss";
+@import "components/images";
 
 // Layout
 @import "layout/masthead.scss";

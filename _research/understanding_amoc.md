@@ -4,6 +4,7 @@ subtitle:
 teaser: The ocean's overturning circulation redistributes heat, salt and dissolved chemicals around the globe, from the surface to great depths. Variations in overturning have been linked to significant climate change on a range of timescales, but the underlying mechanisms remain under investigation ...
 image: assets/img/research/south_atlantic_sst_currents_labeled_square.png
 alt: Exploring timescales and pathways of variability in Atlantic Overturning and inter-basin exchange
+image_caption: Exploring timescales and pathways of variability in Atlantic Overturning and inter-basin exchange
 date: 2020-02-01
 
 caption:
