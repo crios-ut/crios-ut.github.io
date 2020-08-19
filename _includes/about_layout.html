@@ -9,12 +9,11 @@
       <div class="row">
 
         <!-- Image above text, nothing next to image -->
-        <div style="display:flex;align-items:center;text-align:center;">
+        <div>
             <img src="{{site.data.sitetext.about.image | relative_url}}" style="width:100%">
         </div>
-        <div style="display:flex;align-items:center;text-align:center;margin-top:20px;">
-            <body> <p> {{site.data.sitetext.about.text | default: "" }}</p>
-          </body>
+        <div style="margin-top:20px;">
+          <p>{{site.data.sitetext.about.text | default: "" }}</p>
         </div>
       </div>
   </section>

@@ -9,6 +9,8 @@ header.masthead {
   background-position: center center;
   background-size: cover;
   position: relative;
+  padding-bottom: 56.25%;
+
 
   .intro-text {
     padding-top: 150px;
@@ -27,6 +29,40 @@ header.masthead {
       @include heading-font;
     }
   }
+
+  video {
+    width: 100%;
+    height: auto;
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+
+  video + .container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    opacity: 0;
+  }
+}
+
+// show masthead text if video cannot be started by js
+.no-js header.masthead video + .container {
+  opacity: 1;
+}
+
+@media (prefers-reduced-motion) {
+  header.masthead video + .container {
+    opacity: 1;
+  }
+}
+
+// start animation for masthead text fade-in
+header.masthead.play-video video + .container {
+  animation: title-fade-in 10s linear;
+  animation-fill-mode: forwards;
 }
 
 @media(min-width:768px) {
@@ -50,21 +86,14 @@ header.masthead {
       }
     }
   }
+}
 
-  video {
-    width: 100%;
-    height: auto;
-    display: block;
-  }
-
-  video + .container {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    animation: title-fade-in 9.5s linear;
+@media (max-width: 991px) {
+  .navbar.fixed-top + header.masthead {
+    margin-top: 56px; 
   }
 }
+
 
 @keyframes title-fade-in {
   0% {
