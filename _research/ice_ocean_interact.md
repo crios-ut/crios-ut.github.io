@@ -1,14 +1,14 @@
 ---
 title: Ice Sheet-Ocean Interactions Around Antartica and Greenland
-subtitle: Inferring the link between oceanic conditions and iceshelf melting in Antarctica
+subtitle: 
 image: assets/img/research/meltrate_and_barostf.png
 alt: subtitle
 date: 2020-01-01
 
 caption:
   title: Ice Sheet-Ocean Interactions Around Antartica and Greenland
-  subtitle: Inferring the link between oceanic conditions and iceshelf melting in Antarctica
-  thumbnail: assets/img/research/iceberg_credit.jpg
+  subtitle: 
+  thumbnail: assets/img/research/meltrate_and_barostf.png
 ---
 
 The Antarctic ice sheet gains and loses mass respectively via snowfall and
