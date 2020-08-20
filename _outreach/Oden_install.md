@@ -6,7 +6,7 @@ date: 2019-12-01
 
 caption:
   title: Arctic works at the Oden Institute
-  subtitle: Permanent Installation of works by artists Lize Mogel and Olaf Otto Becker
+  subtitle: 
   thumbnail: assets/img/outreach/Mogel_UN_Symbol.jpg
 ---
 Following the exhibition *Exploring the Arctic Ocean*, two of the participating artists, American conceptual artist Lize Mogel and German photographer Olaf Otto Becker loaned their works to the Oden Institute. Four photographs from Becker’s photographic series *Broken Line* and a map showing the Arctic Ocean, a center piece of Mogel’s multimedia installation *Area of Detail,* are on display on the 4th floor of the Peter O’Donnell Jr. Building. 
@@ -20,17 +20,17 @@ Lize Mogel is a counter-cartographer: As part of a collective effort working tow
   <p class="image-caption">Olaf Otto Becker, <em>Broken Line</em> (four photographs), 2003 – 2006, installed at Visual Arts Center</p>
 </div>
 
-<p class="text-muted">
+<div class="text-muted">
   <img class="img-fluid" src="assets/img/outreach/Becker_Oden.jpg">
-  Becker's photographs installed at Oden
-</p>
+  <p class="image-caption">Becker's photographs installed at Oden</p>
+</div>
 
-<p class="text-muted">
+<div class="text-muted">
   <img class="img-fluid" src="assets/img/outreach/Mogel_Map_rotating.jpg">
-  Lize Mogel, <em>Area of Detail</em>, rotating map, 2008/2018
-</p>
+  <p class="image-caption">Lize Mogel, <em>Area of Detail</em>, rotating map, 2008/2018</p>
+</div>
 
-<p class="text-muted">
+<div class="text-muted">
   <img class="img-fluid" src="assets/img/outreach/Mogel_Installation.jpg">
-  Lize Mogel, <em>Area of Detail</em>, 2008/2018. Installation at UT Visual Arts Center
-</p>
+  <p class="image-caption">Lize Mogel, <em>Area of Detail</em>, 2008/2018. Installation at UT Visual Arts Center</p>
+</div>

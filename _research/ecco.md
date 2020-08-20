@@ -1,6 +1,7 @@
 ---
 title: Global Ocean Parameter and State Estimation
 subtitle: 
+teaser: Because of the formidable challenge of observing the full-depth global ocean circulation in its spatial detail and the many time scales of oceanic motions, numerical simulations play an essential role in quantifying patterns of climate variability and change ...
 image: assets/img/research/placeholder.jpg
 alt: 
 date: 2020-05-01
