@@ -1,12 +1,17 @@
 ---
-title: Global Ocean State Estimation (ECCO)
+title: Global Ocean Parameter and State Estimation
 subtitle: 
 image: assets/img/research/placeholder.jpg
 alt: 
 date: 2020-05-01
 
 caption:
-  title: Global Ocean State Estimation (ECCO)
+  title: Global Ocean Parameter and State Estimation
   subtitle: 
   thumbnail: assets/img/research/placeholder.jpg
 ---
+
+Because of the formidable challenge of observing the full-depth global ocean circulation in its spatial detail and the many time scales of oceanic motions, numerical simulations play an essential role in quantifying patterns of climate variability and change. For the same reason, predictive capabilities are confounded by the high-dimensional space of uncertain inputs required to perform such simulations. Inverse methods optimally extract and blend information from observations and models. Formal parameter calibration and state estimation, in particular, enables rigorously calibrated and initialized predictive models to optimally learn from sparse, heterogeneous data while satisfying fundamental equations of motion. 
+
+The CRIOS group is a core member of the NASA-funded “Estimating the Circulation and Climate of the Ocean” (ECCO) consortium. The project seeks to produce best possible estimates of the time-evolving global ocean and sea ice circulation over the last several decades through combining all major satellite and in-situ observational networks that form the Global Ocean Observing System (GOOS) into a coherent dynamical framework provided by an ocean model, the Massachusetts Institute of Technology general circulation model (MITgcm). ECCO’s assimilation framework is based on the adjoint method, one of the arguably most advanced data assimilation methods. The formal process of achieving this data-model synthesis is called optimal estimation, or, more loosely, data assimilation. ECCO covers the period 1992 onward, the beginning of which coincides with the first dedicated ocean satellite altimetric mission (TOPEX/POSEIDON) and the decade of the World Ocean Circulation Experiment (WOCE).
+
