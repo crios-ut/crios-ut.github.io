@@ -1,16 +1,20 @@
 // Styling for the research section
 section#research {
+  .research-items{
+    margin-top: 60px;
+  }
   .research-item {
     display: flex;
+    align-items: center;
     @media (max-width:767px){
       flex-wrap:wrap
     }
     width: 100%;
     right: 0;
-    margin: 0 0 60px;
+    margin: 0 0 80px;
     //border: 1px solid $primary;
-    padding: 10px;
-    background: mix($primary, white, 10%);
+    //padding: 10px;
+    //background: mix($primary, white, 10%);
 
     img{
       width:auto;
@@ -23,10 +27,10 @@ section#research {
     
     @media (min-width:768px){
       .text{
-      margin-left: 15px
+      margin-left: 40px
       }
     &:nth-child(2n+1){
-    text-align: right;  
+    text-align: left;  
     }
      &:nth-child(2n){
       img{
@@ -35,7 +39,7 @@ section#research {
        .text{
          order:0;
            margin-left:0;
-           margin-right: 15px;
+           margin-right: 40px;
          }
       }
     }

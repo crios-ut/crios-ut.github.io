@@ -15,10 +15,10 @@ For his series *Broken Line*, Olaf Otto Becker photographed the landscape along 
 
 Lize Mogel is a counter-cartographer: As part of a collective effort working toward social change, Mogel uses cartographic conventions — including data, images, and language — to analyze and dissect power dynamics. In 2008, Mogel conceived *Area of Detail*, a project that scrutinizes the United Nations’ role as a regulatory body in the Arctic and examines the metaphorical meanings of its emblem, a world map as seen from its northernmost point. 
 
-<p class="text-muted">
+<div class="text-muted">
   <img class="img-fluid" src="assets/img/outreach/Becker_installation.jpg">
-  Olaf Otto Becker, <em>Broken Line</em> (four photographs), 2003 – 2006, installed at Visual Arts Center
-</p>
+  <p class="image-caption">Olaf Otto Becker, <em>Broken Line</em> (four photographs), 2003 – 2006, installed at Visual Arts Center</p>
+</div>
 
 <p class="text-muted">
   <img class="img-fluid" src="assets/img/outreach/Becker_Oden.jpg">
