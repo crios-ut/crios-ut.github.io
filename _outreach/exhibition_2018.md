@@ -22,38 +22,38 @@ The exhibition was curated by Ulrike Heine a visual studies scholar and independ
 <br>
 More installation views on [Flickr](http://flic.kr/s/aHsmubJbyH)
 
-<p class="text-muted">
+<div class="text-muted">
   <img class="img-fluid" src="assets/img/outreach/ExploringAO-Norn_et_al_2018.jpg">
-  Annesofie Norn/Ole Kristensen/Daniel Plewe, <em>Longing Fast Forward</em>, 2011 – 2015
-</p>
+  <p class="image-caption">Annesofie Norn/Ole Kristensen/Daniel Plewe, <em>Longing Fast Forward</em>, 2011 – 2015</p>
+</div>
 
-<p class="text-muted">
+<div class="text-muted">
   <img class="img-fluid" src="assets/img/outreach/ExploringAO-CRIOS_2018.jpg">
-  Left: CRIOS, <em>Visualizing Ocean Circulation, from Numbers to Pictures</em>, 2018. Right: Nguyen/Heimbach and Greg Voss, TACC, UT Austin: <em>Arctic Atlantification</em>, 2018
-</p>
+  <p class="image-caption">Left: CRIOS, <em>Visualizing Ocean Circulation, from Numbers to Pictures</em>, 2018. Right: Nguyen/Heimbach and Greg Voss, TACC, UT Austin: <em>Arctic Atlantification</em>, 2018</p>
+</div>
 
-<p class="text-muted">
+<div class="text-muted">
   <img class="img-fluid" src="assets/img/outreach/ExploringAO-Linder_2018.jpg">
-  Chris Linder, <em>Live from the Poles</em>, 2007 – 2009
-</p>
+  <p class="image-caption">Chris Linder, <em>Live from the Poles</em>, 2007 – 2009</p>
+</div>
 
-<p class="text-muted">
+<div class="text-muted">
   <img class="img-fluid" src="assets/img/outreach/ExploringAO-Becker_2018.jpg">
-  Olaf Otto Becker, <em>Broken Line</em>, 2003 – 2006
-</p>
+  <p class="image-caption">Olaf Otto Becker, <em>Broken Line</em>, 2003 – 2006</p>
+</div>
 
-<p class="text-muted">
+<div class="text-muted">
   <img class="img-fluid" src="assets/img/outreach/ExploringAO-Quigley_2018.jpg">
-  John Quigley, <em>Melting Vitruvian Man</em>, 2011. 
-</p>
+  <p class="image-caption">John Quigley, <em>Melting Vitruvian Man</em>, 2011</p> 
+</div>
 
-<p class="text-muted">
+<div class="text-muted">
   <img class="img-fluid" src="assets/img/outreach/ExploringAO-Scanlab_2018.jpg">
-  ScanLAB Projects, <em>Arctic Works (FLOE A2_002 Stamukha)</em>, 2013
-</p>
+  <p class="image-caption">ScanLAB Projects, <em>Arctic Works (FLOE A2_002 Stamukha)</em>, 2013</p>
+</div>
 
-<p class="text-muted">
+<div class="text-muted">
   <img class="img-fluid" src="assets/img/outreach/ExploringAO-Linke_Heimbach_2018.jpg">
-  Armin Linke, <em>Arctic Continua</em>, 2018
-</p>
+  <p class="image-caption">Armin Linke, <em>Arctic Continua</em>, 2018</p>
+</div>
 
