@@ -77,6 +77,10 @@ team:
             icon: fab fa-github
             #- url: https://orcid.org/0000-0003-4463-6126
             #  icon: fab fa-orcid
+      - name: "Victor Ocaña"
+        role: "Research Scientist"
+        image: assets/img/team/victorocana.jpg
+        social:
       - name: "David Trossman"
         role: "Research Scientist"
         image: assets/img/team/davidtrossman.jpg
@@ -192,8 +196,14 @@ publications:
           url: http://doi.org/10.1016/j.ocemod.2018.10.006
         #
         - citation: <strong>2017</strong>
-        - citation: "T.B.D."
-        - citation: "..."
+        - citation: "Bigdeli, A., B. Loose, A. T. Nguyen, and S. T. Cole, 2017: Numerical Investigation of the Arctic Ice-Ocean Boundary Layer and Implications for Air-Sea Gas Fluxes. Ocean Sciences, 13, 1–15"
+          url: https://doi.org/10.5194/os-13-61-2017
+        - citation: "Spreen, G., R. Kwok, D. Menemenlis, and A. T. Nguyen, 2017: Sea Ice Deformation in a Coupled Ocean-Sea Ice Model and in Satellite Remote Sensing Data. The Cryosphere, 11,1553–1573"
+          url: https://doi.org/10.5194/tc-11-1553-2017
+        #
+        - citation: <strong>2016</strong>
+        - citation: "Aksenov, Y., M. Karcher, A. Proshutinsky, R. Gerdes, B. de Cuevas, E. Golubeva, F. Kauker, A.	T. Nguyen, G. A. Platov, M. Wadley, E. Watanabe, and A. C. Coward, 2016:  Arctic Pathways of Pacific Water: Arctic Ocean Model Intercomparison Experiments. Journal of Geophysical Research, 121(1), 27–59"
+          url: https://doi.org/10.1002/2015JC011299
         #
         - citation: <strong>Technical Reports</strong>
         - citation: "2020: ECCO Consortium; I. Fukumori, O. Wang, I. Fenty, G. Forget, P. Heimbach, and R.M. Ponte, 2020: Synopsis of the ECCO Central Production Global Ocean and Sea-Ice State Estimate, Version 4 Release 4"
