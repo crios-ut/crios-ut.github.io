@@ -5,7 +5,7 @@ teaser: The ocean's overturning circulation redistributes heat, salt and dissolv
 image: assets/img/research/south_atlantic_sst_currents_labeled_square.png
 alt: Exploring timescales and pathways of variability in Atlantic Overturning and inter-basin exchange
 image_caption: Exploring timescales and pathways of variability in Atlantic Overturning and inter-basin exchange
-date: 2020-02-01
+date: 2020-08-28
 
 caption:
   title: Deciphering the Atlantic Meridional Overturning Circulation

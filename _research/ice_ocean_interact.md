@@ -4,7 +4,7 @@ subtitle:
 teaser: The Antarctic ice sheet gains and loses mass respectively via snowfall and gravity driven ice streams which flow from land to the sea. Ice shelves form where these streams reach the sea, floating over the ocean due to the density difference between ice and seawater.
 image: assets/img/research/meltrate_and_barostf.png
 alt: subtitle
-date: 2020-01-01
+date: 2020-08-27
 
 caption:
   title: Ice Sheet-Ocean Interactions Around Antartica and Greenland

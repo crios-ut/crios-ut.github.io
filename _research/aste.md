@@ -4,7 +4,7 @@ subtitle:
 teaser: Observations made since the turn of the 21st century indicate that the Arctic physical environment and associated ecosystems are undergoing remarkable changes. To understand these ongoing and predict future changes we need to be able to quantify how much of Arctic climate variability and change is linked to the ocean circulation, ...
 image: assets/img/research/arctic_viz_square.png
 alt: 
-date: 2020-05-01
+date: 2020-08-30
 
 caption:
   title: Coupled Arctic Ocean-Sea Ice Data Assimilation

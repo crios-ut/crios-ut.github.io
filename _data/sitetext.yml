@@ -57,12 +57,32 @@ team:
         social:
           - url: https://github.com/ArashBigdeli/
             icon: fab fa-github
+      - name: "Ivana Escobar"
+        role: "Graduate Research Assistant"
+        image: assets/img/team/ivanaescobar.jpg
+        social:
+          - url: https://www.oden.utexas.edu/people/1496/
+            icon: fas fa-globe
+          - url: https://github.com/IvanaEscobar
+            icon: fab fa-github
+      - name: "Feras Habbal"
+        role: "Postdoc"
+        image: assets/img/team/FerasHabbal.jpg
+        social:
+      - name: "Ulrike Heine"
+        role: "Outreach Consultant"
+        image: assets/img/team/UlrikeHeine.jpg
+        social:
       - name: "Nora Loose"
         role: "Postdoc"
         image: assets/img/team/noraloose.jpg
         social:
           - url: https://noraloose.github.io
             icon: fas fa-globe
+      - name: "Victor Ocaña"
+        role: "Research Scientist"
+        image: assets/img/team/victorocana.jpg
+        social:
       - name: "Helen Pillar"
         role: "Research Fellow"
         image: assets/img/team/helenpillar.jpg
@@ -77,33 +97,17 @@ team:
             icon: fab fa-github
             #- url: https://orcid.org/0000-0003-4463-6126
             #  icon: fab fa-orcid
-      - name: "Victor Ocaña"
-        role: "Research Scientist"
-        image: assets/img/team/victorocana.jpg
-        social:
       - name: "David Trossman"
         role: "Research Scientist"
         image: assets/img/team/davidtrossman.jpg
-      - name: "Ivana Escobar"
-        role: "Graduate Research Assistant"
-        image: assets/img/team/ivanaescobar.jpg
-        social:
-          - url: https://www.oden.utexas.edu/people/1496/
-            icon: fas fa-globe
-          - url: https://github.com/IvanaEscobar
-            icon: fab fa-github
-      - name: "Feras Habbal"
-        role: "Postdoc"
-        image: assets/img/team/FerasHabbal.jpg
-        social:
       - name: "Yanzhou Wei"
         role: "Postdoc"
         image: assets/img/team/WeiYanzhou.jpg
         social:
-      - name: "Ulrike Heine"
-        role: "Outreach Consultant"
-        image: assets/img/team/UlrikeHeine.jpg
-        social:
+      - name: "Sarah Williamson"
+        role: "PhD Student"
+        image: assets/img/team/sarahwilliamson.jpg
+
         
         
 publications:
@@ -122,15 +126,22 @@ publications:
         - citation: "Bigdeli, A., A.T. Nguyen, H.R. Pillar, V. Ocana, and P. Heimbach (2020). Atmospheric Warming Drives Growth in Arctic Sea-Ice: A Key Role for Snow. Submitted to Geophysical Research Letters."
         - citation: "Goldberg, D.N., T.A. Smith, S.H.K. Narayanan, P. Heimbach, and M. Morlighem (2020). Bathymetric influences on Antarctic ice-shelf melt rates. Earth and Space Science Open Archive."
           url: https://doi.org/10.1002/essoar.10503016.1
-        - citation: "Loose, N., P. Heimbach, H.R. Pillar, and K. Nisancioglu (2020). Quantifying Dynamical Proxy Potential through Shared Adjustment Physics in the North Atlantic. Earth and Space Science Open Archive."
-          url: https://doi.org/10.1002/essoar.10502065.3
         - citation: "Nguyen, A.T., R. Woodgate, and P. Heimbach (2020). Elucidating large-scale atmospheric controls on Bering Strait throughflow variability using a data-constrained ocean model and its adjoint. Earth and Space Science Open Archive."
           url: https://doi.org/10.1002/essoar.10502464.1
+        #
         - citation: <strong>2020</strong>
+        - citation: "ECCO Consortium; I. Fukumori, O. Wang, I. Fenty, G. Forget, P. Heimbach, and R.M. Ponte, 2020: Synopsis of the ECCO Central Production Global Ocean and Sea-Ice State Estimate, Version 4 Release 4"
+          url: https://doi.org/10.5281/zenodo.3765929
         - citation: "Hamlington, B. D., A. S. Gardner, E. Ivins, J. T. M. Lenaerts, J. T. Reager, D. S. Trossman, E. D. Zaron, S. Adhikari, A. Arendt, A. Aschwanden, B. D. Beckley, D. P. S. Bekaert, G. Blewitt, L. Caron, H. A. Chandanpurkar, K. Christianson, R. I. Cullather, R. M. DeConto, J. T. Fasullo, T. Frederikse, J. T. Freymueller, D. M. Gilford, M. Girotto, W. C. Hammond, R. Hock, N. Holschuh, R. E. Kopp, F. Landerer, E. Larour, D. Menemenlis, M. Merrifield, J. X. Mitrovica, R. S. Nerem, I. J. Nias, V. Nieves, S. Nowicki, K. Pangaluru, C. G. Piecuch, D. R. Rounce, N.-J. Schlegel, H. Seroussi, M. Shirzaei, I. Velicogna, N. Vinogradova, T. Wahl, D. N. Wiese, M. J. Willis (2020). Understanding of contemporary regional sea-level change and the implications for the future. Reviews of Geophysics, 58, e2019RG000672"
           url: https://doi.org/10.1029/2019RG000672
+        - citation: "Logan, L.C., Narayanan, S.H.K., Greve, R., and Heimbach, P., 2020: Sicopolis-AD: Quick-Start Manual, Revision 0.11. Argonne National Lab Technical Report ANL/MCS-TM-382 Rev 0.11, 14 pp"
+          url: https://doi.org/10.2172/1617372
         - citation: "Logan, L.C., S.H.K. Narayanan, R. Greve, and P. Heimbach (2020). SICOPOLIS-AD v1: an open-source adjoint modeling framework for ice sheet simulation enabled by the algorithmic differentiation tool OpenAD. Geosci. Model Dev., 13, 1845-1864."
           url: https://doi.org/10.5194/gmd-13-1845-2020
+        - citation: "Loose, N., P. Heimbach, H. Pillar, and K. Nisancioglu, 2020: Quantifying Dynamical Proxy Potential through Shared Adjustment Physics in the North Atlantic. J. Geophys. Res., in press" 
+          url: https://doi.org/10.1029/2020JC016112
+        - citation: "Moon, T., T. Scambos, W. Abdalati, A. Ahlstrom, R. Bindschadler, J. Gambill, P. Heimbach, R. Hock, K. Langley, I. Miller, and M. Truffer, 2020: Ending a sea of confusion: A scientist perspective on lessons and opportunities in sea level change communication. Environment Magazine, in press"
+          url: https://doi.org/10.1080/00139157.2020.1791627
         - citation: "Nguyen, A.T., P. Heimbach, V. Garg, V. Ocana , C. Lee, and L. Rainville (2020). Impact of synthetic Arctic Argo-type floats in a coupled ocean-sea ice state estimation framework. J. Atmos. Ocean Technol., in press."
           url: https://doi.org/10.1175/JTECH-D-19-0159.1
         #

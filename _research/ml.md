@@ -3,7 +3,7 @@ title: Scientific Machine Learning in Ocean and Cryospheric Research
 subtitle: subtitle
 image: assets/img/research/placeholder.jpg
 alt: alt
-date: 2018-01-01
+date: 2020-08-24
 
 caption:
   title: Scientific Machine Learning in Ocean and Cryospheric Research
