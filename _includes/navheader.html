@@ -34,10 +34,13 @@
   
   <!-- Header -->
   <header class="masthead">
+    <video src="assets/video/crios-44-54.mp4" muted poster="assets/img/arctic_preview.jpg" 
+           data-small-src="assets/video/crios-44-54_720p.mp4" data-small-media="(max-width: 1280px)"
+           id="start-video"></video>
     <div class="container">
       <div class="intro-text">
 	  {%- if site.data.sitetext.header.title -%}
-        <div class="intro-lead-in">{{ site.data.sitetext.header.title | markdownify }}</div>
+        <div class="intro-lead-in"><h1 class="text-uppercase">{{ site.data.sitetext.header.title }}</h1></div>
 	  {%- endif -%}
 	  {%- if site.data.sitetext.header.text -%}
         <div class="intro-heading text-uppercase">{{ site.data.sitetext.header.text | markdownify }}</div>

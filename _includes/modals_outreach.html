@@ -14,11 +14,14 @@
             <div class="col-lg-8 mx-auto">
               <div class="modal-body">
                 <!-- Project Details Go Here -->
-                <h2 class="text-uppercase">{{ event.title }}</h2>
+                <h2 class="text">{{ event.title }}</h2>
                 <p class="item-intro text-muted">{{ event.subtitle }}</p>
                 <div class="modal-body" style="text-align:left;">
                   <img class="img-fluid d-block mx-auto" src="{{ event.image }}" alt="{{ event.alt }}">
-    			  <p>{{ event.content }}</p>
+                  {% if event.image_caption %}
+                  <p class="image-caption">{{ event.image_caption }}</p>
+                  {% endif %}
+                  <div>{{ event.content | markdownify}}</div>
                 </div>
                 <button class="btn btn-primary" data-dismiss="modal" type="button">
                   <i class="fas fa-times"></i>

@@ -6,12 +6,22 @@ body {
 
 p {
   line-height: 1.75;
+  font-weight: 300
 }
 
 a {
   color: $primary;
   &:hover {
     color: darken($primary, 10%);
+  }
+}
+p a {
+  color:currentColor;
+  border-bottom: 1.5px solid indianred;
+  &:hover {
+    color: indianred;
+    text-decoration:none
+    
   }
 }
 
@@ -21,12 +31,14 @@ a {
 
 
 h1,
-h2{ 
-    font-weight: 400;
+h2 { 
+    font-weight: 600;
+    @include heading-font;
 }
 h3,
-h4{
-    font-weight: 400;
+h4 { 
+  font-weight: 400;
+  @include heading-font;
 }
 h5,
 h6 {
@@ -39,9 +51,9 @@ h6 {
   h2.section-heading {
     color: #212529;
     font-size: 40px;
-    font-weight: 400;
+    font-weight: 600;
     margin-top: 0;
-    margin-bottom: 15px;
+    margin-bottom: 60px;
   }
   h3.section-subheading {
     font-size: 16px;
@@ -74,4 +86,13 @@ img::selection {
 
 img::-moz-selection {
   background: transparent;
+}
+
+.intro {
+  font-size: 1.1em;
+  text-align: center;
+  max-width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 40px
 }

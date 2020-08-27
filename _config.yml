@@ -31,6 +31,7 @@ analytics:
 collections:
   research:
   outreach:
+  news:
 
 markdown: kramdown
 

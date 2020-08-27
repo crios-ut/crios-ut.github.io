@@ -3,13 +3,32 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-12 text-center">
-          <h2 class="section-heading text-uppercase">{{ site.data.sitetext.news.title | default: "News" }}</h2>
+          <h2 class="section-heading">{{ site.data.sitetext.news.title | default: "News" }}</h2>
         </div>
       </div>
 
       <!-- the table/table cell,etc are all to center the content on mobile-->
-      </br>
-      <div class="row" style="justify-content: center;">
+      <br>
+      
+      <div class="row news-row" style="justify-content: center;">
+      <!--
+        <div class="blog">
+          {% assign news_list = site.news | sort: site.news.date | reverse %}
+          {% for entry in news_list %}
+          <div class="blog-entry">
+            <h3>{{ entry.title }}</h3>
+            <p class="blog-entry--meta">
+              <span class="date">{{ entry.date | date: "%m/%d/%Y"}}</span>
+              <span class="author">{{ entry.author }}</span>
+            </p>
+            <div class="blog-entry--contents">
+              {{ entry.content }}
+            </div>
+          </div>
+          {% endfor %}
+        </div>
+        -->
+        
         <div class="twitterborder">
           <div class="table">
             <div class="table-cell">
@@ -19,6 +38,7 @@
            </div>
          </div>
        </div>
+    
     </div>
   </section>
 <!-- End News -->

@@ -1,0 +1,10 @@
+.image-caption {
+    font-size: 0.7em;
+    color:#6c757d;
+    //padding: 1em;
+    margin-top: 10px;
+}
+
+.modal-content img + .image-caption {
+    margin-top: -20px;
+}

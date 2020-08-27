@@ -1,6 +1,14 @@
 section#news {
-
   @include body-font;
+
+  .blog {
+    width: 80%;
+  }
+
+  .news-row {
+    display: flex;
+  }
+
   .twitterborder {
     width: 50%;
     float: center;
@@ -41,6 +49,7 @@ section#news {
   }
 
   @media only screen and (max-width: 600px) {
+  
     .left75 {
       width: 100%;
     }
@@ -61,13 +70,35 @@ section#news {
       display:table-cell;
       vertical-align: middle;
 }
-  .twitterborder {
-    width: 100%;
-    float: center;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
-}
+    .blog {
+      width: 100%;
+    }
+
+    .news-row {
+      display: block;
+    }
+
+    .twitterborder {
+      width: 100%;
+      float: center;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+    }
   }
+}
+
+.blog-entry--meta {
+  font-size: 0.9em;
+
+  .author:not(:empty) {
+    border-left: 1px solid #999;
+    padding-left: 0.4em;
+  }
+}
+
+// an entry that follows a previous entry element
+.blog-entry + .blog-entry {
+  margin-top: 3em;
 }

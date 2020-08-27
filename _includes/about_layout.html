@@ -3,19 +3,21 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-12 text-center">
-          <h2 class="section-heading text-uppercase">{{ site.data.sitetext.about.title | default: "About Us" }}</h2>
+          <h2 class="section-heading">{{ site.data.sitetext.about.title | default: "About Us" }}</h2>
         </div>
       </div>
       <div class="row">
-
+        <div style="margin-top:20px;">
+          <p class="intro">{{site.data.sitetext.about.text | default: "" }}</p>
+        </div>
         <!-- Image above text, nothing next to image -->
-        <div style="display:flex;align-items:center;text-align:center;">
+        <div>
             <img src="{{site.data.sitetext.about.image | relative_url}}" style="width:100%">
         </div>
-        <div style="display:flex;align-items:center;text-align:center;margin-top:20px;">
-            <body> <p> {{site.data.sitetext.about.text | default: "" }}</p>
-          </body>
-        </div>
+        {% if site.data.sitetext.about.image_caption %}
+        <p class="image-caption">{{ site.data.sitetext.about.image_caption }}</p>
+        {% endif %}
+        
       </div>
   </section>
 <!-- End About -->

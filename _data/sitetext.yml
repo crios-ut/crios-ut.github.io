@@ -1,5 +1,5 @@
 header:
-    title: Computational Research in Ice and Ocean Systems<br>CRIOS
+    title: Computational Research <br>in Ice and Ocean Systems
     text: 
     button: #Research
     buttonlink: #"research" # "#{section}" or "URL/page link"
@@ -8,13 +8,7 @@ about:
     title: "About Us"
     section: about
     image: assets/img/team/crios.jpg
-    text: "The Computational Research in Ice and Ocean Systems (CRIOS) group at the 
-    <a href='https://www.oden.utexas.edu/'>
-    Oden Institute for Computational Engineering and Sciences</a>,
-    <a href='https://www.utexas.edu'>The University of Texas at Austin</a>.
-    <br>
-    <br>
-    We apply advanced computational methods to improve our understanding of the role of the ocean, sea ice and polar ice sheets in the global climate system. The group’s research rests on the recognition that these Earth system components remain insufficiently sampled by observations. Using Bayesian inverse methods and scientific machine learning, we work toward optimal extraction of information contained in available observations through formal synthesis with known dynamics that are encapsulated in the governing equations of motion and rendered in state-of-the-art numerical models. Improved mechanistic understanding along with uncertainty characterization are essential prerequisites for developing robust climate predictions with quantified uncertainties. CRIOS is involved in a number of formal and informal, national and international research collaborations, including the UK, Norway, Germany, Japan, and Australia."
+    text: "The Computational Research in Ice and Ocean group (CRIOS) at the <a href='https://www.oden.utexas.edu/'> Oden Institute for Computational Engineering and Sciences</a>, <a href='https://www.utexas.edu'> The University of Texas at Austin</a> applies advanced computational methods to improve the understanding of the role of the global ocean, sea ice and the polar ice sheets in the climate system. Using Bayesian inverse methods and scientific machine learning, in particular, we work toward optimal extraction of information contained in observations and in the governing equations of motion, rendered as numerical models. Improved mechanistic understanding is essential for developing robust climate reconstructions and predictions with quantified uncertainties. Within UT Austin, CRIOS members are affiliated with the <a href='https://www.jsg.utexas.edu/'> Jackson School of Geosciences</a> and the <a href='https://ig.utexas.edu/'> Institute for Geophysics</a>, the Oden Institute’s <a href='https://www.oden.utexas.edu/research/centers-groups/scientific-machine-learning/'> Center for Scientific Machine Learning</a> and the <a href='https://www.oden.utexas.edu/research/centers-groups/ccgo/'> Center for Computational Geosciences and Optimization</a>. CRIOS is also involved in a number of national and international research collaborations."
     
     # The group’s research rests on the recognition that these Earth system components remain insufficiently sampled by observations. So the group works toward optimal extraction of information contained in available observations through formal synthesis with known dynamics. The dynamics, in turn, is encapsulated in the governing equations of motion and rendered in state-of-the-art numerical models. Improved mechanistic understanding along with uncertainty characterization are essential prerequisites for developing robust climate predictions with quantified uncertainties. CRIOS is involved in a number of formal and informal, national and international research collaborations, including the UK, Norway, Germany, Japan, and Australia. The group is pursuing several main research thrusts.
 
@@ -59,12 +53,36 @@ team:
         social:
           - url: https://github.com/ArashBigdeli/
             icon: fab fa-github
+      - name: "Ivana Escobar"
+        role: "Graduate Research Assistant"
+        image: assets/img/team/ivanaescobar.jpg
+        social:
+          - url: https://www.oden.utexas.edu/people/1496/
+            icon: fas fa-globe
+          - url: https://github.com/IvanaEscobar
+            icon: fab fa-github
+      - name: "Shreyas Gaikwad"
+        role: "PhD Student"
+        image: assets/img/team/ShreyasGaikwad.jpg
+        social:
+      - name: "Feras Habbal"
+        role: "Postdoc"
+        image: assets/img/team/FerasHabbal.jpg
+        social:
+      - name: "Ulrike Heine"
+        role: "Outreach Consultant"
+        image: assets/img/team/UlrikeHeine.jpg
+        social:
       - name: "Nora Loose"
         role: "Postdoc"
         image: assets/img/team/noraloose.jpg
         social:
           - url: https://noraloose.github.io
             icon: fas fa-globe
+      - name: "Victor Ocaña"
+        role: "Research Scientist"
+        image: assets/img/team/victorocana.jpg
+        social:
       - name: "Helen Pillar"
         role: "Research Fellow"
         image: assets/img/team/helenpillar.jpg
@@ -82,24 +100,20 @@ team:
       - name: "David Trossman"
         role: "Research Scientist"
         image: assets/img/team/davidtrossman.jpg
-      - name: "Ivana Escobar"
+      - name: "Yanzhou Wei"
+        role: "Postdoc"
+        image: assets/img/team/WeiYanzhou.jpg
+        social:
+      - name: "Sarah Williamson"
         role: "Graduate Research Assistant"
-        image: assets/img/team/ivanaescobar.jpg
-        social:
-          - url: https://www.oden.utexas.edu/people/1496/
-            icon: fas fa-globe
-          - url: https://github.com/IvanaEscobar
-            icon: fab fa-github
-      - name: "Ulrike Heine"
-        role: "Outreach Consultant"
-        image: assets/img/team/UlrikeHeine.jpg
-        social:
+        image: assets/img/team/sarahwilliamson.jpg
+
         
         
 publications:
     title: "Publications"
     url: publications
-    text: "Papers from our group"
+    text: 
     papers:
         # Instructions
         # ------------
@@ -109,85 +123,108 @@ publications:
         # 3. It's safest to put the citation in between quotes ""
         #
         - citation: <strong>Submitted</strong>
-        - citation: "Bigdeli, A., A.T. Nguyen, H.R. Pillar, V. Ocana, and P. Heimbach (2020). Atmospheric Warming Drives Growth in Arctic Sea-Ice: A Key Role for Snow. Submitted to Geophysical Research Letters."
-        - citation: "Goldberg, D.N., T.A. Smith, S.H.K. Narayanan, P. Heimbach, and M. Morlighem (2020). Bathymetric influences on Antarctic ice-shelf melt rates. Earth and Space Science Open Archive."
+        - citation: "Bigdeli, A., A.T. Nguyen, H.R. Pillar, V. Ocana, and P. Heimbach, 2020: Atmospheric Warming Drives Growth in Arctic Sea-Ice: A Key Role for Snow. Submitted to <em>Geophysical Research Letters</em>"
+        - citation: "Goldberg, D.N., T.A. Smith, S.H.K. Narayanan, P. Heimbach, and M. Morlighem, 2020: Bathymetric influences on Antarctic ice-shelf melt rates. <em>Earth and Space Science Open Archive</em>"
           url: https://doi.org/10.1002/essoar.10503016.1
-        - citation: "Loose, N., P. Heimbach, H.R. Pillar, and K. Nisancioglu (2020). Quantifying Dynamical Proxy Potential through Shared Adjustment Physics in the North Atlantic. Earth and Space Science Open Archive."
-          url: https://doi.org/10.1002/essoar.10502065.3
-        - citation: "Nguyen, A.T., R. Woodgate, and P. Heimbach (2020). Elucidating large-scale atmospheric controls on Bering Strait throughflow variability using a data-constrained ocean model and its adjoint. Earth and Space Science Open Archive."
+        - citation: "Nguyen, A.T., R. Woodgate, and P. Heimbach, 2020: Elucidating large-scale atmospheric controls on Bering Strait throughflow variability using a data-constrained ocean model and its adjoint. <em>Earth and Space Science Open Archive</em>"
           url: https://doi.org/10.1002/essoar.10502464.1
+        #
         - citation: <strong>2020</strong>
-        - citation: "Hamlington, B. D., A. S. Gardner, E. Ivins, J. T. M. Lenaerts, J. T. Reager, D. S. Trossman, E. D. Zaron, S. Adhikari, A. Arendt, A. Aschwanden, B. D. Beckley, D. P. S. Bekaert, G. Blewitt, L. Caron, H. A. Chandanpurkar, K. Christianson, R. I. Cullather, R. M. DeConto, J. T. Fasullo, T. Frederikse, J. T. Freymueller, D. M. Gilford, M. Girotto, W. C. Hammond, R. Hock, N. Holschuh, R. E. Kopp, F. Landerer, E. Larour, D. Menemenlis, M. Merrifield, J. X. Mitrovica, R. S. Nerem, I. J. Nias, V. Nieves, S. Nowicki, K. Pangaluru, C. G. Piecuch, D. R. Rounce, N.-J. Schlegel, H. Seroussi, M. Shirzaei, I. Velicogna, N. Vinogradova, T. Wahl, D. N. Wiese, M. J. Willis (2020). Understanding of contemporary regional sea-level change and the implications for the future. Reviews of Geophysics, 58, e2019RG000672"
+        - citation: "ECCO Consortium; I. Fukumori, O. Wang, I. Fenty, G. Forget, P. Heimbach, and R.M. Ponte, 2020: Synopsis of the ECCO Central Production Global Ocean and Sea-Ice State Estimate, Version 4 Release 4"
+          url: https://doi.org/10.5281/zenodo.3765929
+        - citation: "Hamlington, B. D., A. S. Gardner, E. Ivins, J. T. M. Lenaerts, J. T. Reager, D. S. Trossman, E. D. Zaron, S. Adhikari, A. Arendt, A. Aschwanden, B. D. Beckley, D. P. S. Bekaert, G. Blewitt, L. Caron, H. A. Chandanpurkar, K. Christianson, R. I. Cullather, R. M. DeConto, J. T. Fasullo, T. Frederikse, J. T. Freymueller, D. M. Gilford, M. Girotto, W. C. Hammond, R. Hock, N. Holschuh, R. E. Kopp, F. Landerer, E. Larour, D. Menemenlis, M. Merrifield, J. X. Mitrovica, R. S. Nerem, I. J. Nias, V. Nieves, S. Nowicki, K. Pangaluru, C. G. Piecuch, D. R. Rounce, N.-J. Schlegel, H. Seroussi, M. Shirzaei, I. Velicogna, N. Vinogradova, T. Wahl, D. N. Wiese, M. J. Willis, 2020: Understanding of contemporary regional sea-level change and the implications for the future. <em>Reviews of Geophysics</em>, 58, e2019RG000672"
           url: https://doi.org/10.1029/2019RG000672
-        - citation: "Logan, L.C., S.H.K. Narayanan, R. Greve, and P. Heimbach (2020). SICOPOLIS-AD v1: an open-source adjoint modeling framework for ice sheet simulation enabled by the algorithmic differentiation tool OpenAD. Geosci. Model Dev., 13, 1845-1864."
+        - citation: "Logan, L.C., Narayanan, S.H.K., Greve, R., and Heimbach, P., 2020: Sicopolis-AD: Quick-Start Manual, Revision 0.11. Argonne National Lab Technical Report ANL/MCS-TM-382 Rev 0.11, 14 pp"
+          url: https://doi.org/10.2172/1617372
+        - citation: "Logan, L.C., S.H.K. Narayanan, R. Greve, and P. Heimbach, 2020: SICOPOLIS-AD v1: an open-source adjoint modeling framework for ice sheet simulation enabled by the algorithmic differentiation tool OpenAD. <em>Geosci. Model Dev.</em>, 13, 1845-1864."
           url: https://doi.org/10.5194/gmd-13-1845-2020
-        - citation: "Nguyen, A.T., P. Heimbach, V. Garg, V. Ocana , C. Lee, and L. Rainville (2020). Impact of synthetic Arctic Argo-type floats in a coupled ocean-sea ice state estimation framework. J. Atmos. Ocean Technol., in press."
+        - citation: "Loose, N., P. Heimbach, H. Pillar, and K. Nisancioglu, 2020: Quantifying Dynamical Proxy Potential through Shared Adjustment Physics in the North Atlantic. <em>J. Geophys. Res.</em>, in press" 
+          url: https://doi.org/10.1029/2020JC016112
+        - citation: "Moon, T., T. Scambos, W. Abdalati, A. Ahlstrom, R. Bindschadler, J. Gambill, P. Heimbach, R. Hock, K. Langley, I. Miller, and M. Truffer, 2020: Ending a sea of confusion: A scientist perspective on lessons and opportunities in sea level change communication. <em>Environment Magazine</em>, in press"
+          url: https://doi.org/10.1080/00139157.2020.1791627
+        - citation: "Nguyen, A.T., P. Heimbach, V. Garg, V. Ocana , C. Lee, and L. Rainville, 2020: Impact of synthetic Arctic Argo-type floats in a coupled ocean-sea ice state estimation framework. <em>J. Atmos. Ocean Technol.</em>, in press."
           url: https://doi.org/10.1175/JTECH-D-19-0159.1
         #
         - citation: <strong>2019</strong>
-        - citation: "Arbic, B. K., O. B. Fringer, J. M. Klymak, F. T. Mayer, D. S. Trossman, P. Zhu (2019). Connecting process models of topographic wave drag to global eddying general circulation models. Oceanography, 32(4), 146–155"
+        - citation: "Arbic, B. K., O. B. Fringer, J. M. Klymak, F. T. Mayer, D. S. Trossman, P. Zhu, 2019: Connecting process models of topographic wave drag to global eddying general circulation models. <em>Oceanography</em>, 32(4), 146–155"
           url: https://doi.org/10.5670/oceanog.2019.420
-        - citation: "Fox-Kemper, B., A. Adcroft, C.W. Boening, E.P. Chassignet, E. Curchitser, G. Danabasoglu, C. Eden, M.H. England, R. Gerdes, R.J. Greatbatch, S.M. Griffies, R.W. Hallberg, E. Han- ert, P. Heimbach, H.T. Hewitt, C.N. Hill, Y. Komuro, S. Legg, J. Le Sommer, S. Masina, S.J. Marsland, S.G. Penny, F. Qiao, T.D. Ringler, A.M. Treguier, H. Tsujino, P. Uotila, and S.G. Yeager (2019): Challenges and Prospects in Ocean Circulation Models. Frontiers in Marine Science, 6, 65"
+        - citation: "Fox-Kemper, B., A. Adcroft, C.W. Boening, E.P. Chassignet, E. Curchitser, G. Danabasoglu, C. Eden, M.H. England, R. Gerdes, R.J. Greatbatch, S.M. Griffies, R.W. Hallberg, E. Han- ert, P. Heimbach, H.T. Hewitt, C.N. Hill, Y. Komuro, S. Legg, J. Le Sommer, S. Masina, S.J. Marsland, S.G. Penny, F. Qiao, T.D. Ringler, A.M. Treguier, H. Tsujino, P. Uotila, and S.G. Yeager, 2019: Challenges and Prospects in Ocean Circulation Models. <em>Front. Mar. Sci.</em>, 6, 65"
           url: https://www.frontiersin.org/articles/10.3389/fmars.2019.00065
-        - citation: "Frajka-Williams, E., and 39 co-authors, 2019: Atlantic Meridional Overturning Circulation: Observed transports and mechanisms. Frontiers in Marine Science, 6, 260"
+        - citation: "Frajka-Williams, E., and 39 co-authors, 2019: Atlantic Meridional Overturning Circulation: Observed transports and mechanisms. <em>Front. Mar. Sci.</em>, 6, 260"
           url: https://www.frontiersin.org/articles/10.3389/fmars.2019.00260
-        - citation: "Heimbach, P., I. Fukumori, C.N. Hill, R.M. Ponte, D. Stammer, J.-M. Campin, B. Cornuelle, I. Fenty, G. Forget, A. Koehl, M. Mazloff, D. Menemenlis, A.T. Nguyen, C. Piecuch, D. Trossman, A. Verdy, O. Wang, and H. Zhang, 2019: Putting it all together: Adding value to the global ocean and climate observing systems with complete self-consistent ocean state and parameter estimates. Frontiers in Marine Science, 6, 55"
+        - citation: "Heimbach, P., I. Fukumori, C.N. Hill, R.M. Ponte, D. Stammer, J.-M. Campin, B. Cornuelle, I. Fenty, G. Forget, A. Koehl, M. Mazloff, D. Menemenlis, A.T. Nguyen, C. Piecuch, D. Trossman, A. Verdy, O. Wang, and H. Zhang, 2019: Putting it all together: Adding value to the global ocean and climate observing systems with complete self-consistent ocean state and parameter estimates. <em>Front. Mar. Sci.</em>, 6, 55"
           url: https://www.frontiersin.org/articles/10.3389/fmars.2019.00055
-        - citation: "Huang, T., M. DeBellis, I., Fenty, P. Heimbach, J.C. Jacob, O. Wang, and E. Yam, 2019: Analytics Center Framework for Estimating the Circulation and Climate of the Ocean. 2019 IEEE International Geoscience and Remote Sensing Symposium (IGARSS 2019), Yokohama, Japan"
+        - citation: "Huang, T., M. DeBellis, I., Fenty, P. Heimbach, J.C. Jacob, O. Wang, and E. Yam, 2019: Analytics Center Framework for Estimating the Circulation and Climate of the Ocean. <em>2019 IEEE International Geoscience and Remote Sensing Symposium (IGARSS 2019), Yokohama, Japan</em>"
           url: https://doi.org/10.1109/IGARSS.2019.8897904
-        - citation: "Johnston, T. M. S., M. C. Schönau, T. Paluszkiewicz, J. A. MacKinnon, B. K. Arbic, P. L. Colin, M. H. Alford, M. Andres, L. Centurioni, K. R. Helfrich, V. Hormann, P. F. J. Lermusiaux, R. C. Musgrave, B. S. Powell, B. Qiu, D. L. Rudnick, H. L. Simmons, L. St. Laurent, D. S. Trossman, G. Voet, H. W. Wijesekera, K. Zeiden (2019). An Introduction and Highlights from Flow Encountering Abrupt Topography (FLEAT): A Multi-Scale Observational and Modelling Program to Under- stand the Effects of Topographic Flow in the Western North Pacific. Oceanography, 32(4), 10–21"
+        - citation: "Johnston, T. M. S., M. C. Schönau, T. Paluszkiewicz, J. A. MacKinnon, B. K. Arbic, P. L. Colin, M. H. Alford, M. Andres, L. Centurioni, K. R. Helfrich, V. Hormann, P. F. J. Lermusiaux, R. C. Musgrave, B. S. Powell, B. Qiu, D. L. Rudnick, H. L. Simmons, L. St. Laurent, D. S. Trossman, G. Voet, H. W. Wijesekera, K. Zeiden, 2019: An Introduction and Highlights from Flow Encountering Abrupt Topography (FLEAT): A Multi-Scale Observational and Modelling Program to Under- stand the Effects of Topographic Flow in the Western North Pacific. <em>Oceanography</em>, 32(4), 10–21"
           url: https://doi.org/10.5670/oceanog.2019.407
-        - citation: "Lee, C. M., Starkweather, S., Eicken, H., Timmermans, M.-L., Wilkinson, J., Sandven, S., et al. (2019). A Framework for the Development, Design and Implementation of a Sustained Arctic Ocean Observing System. Frontiers in Marine Science, 6, 484"
+        - citation: "Lee, C. M., Starkweather, S., Eicken, H., Timmermans, M.-L., Wilkinson, J., Sandven, S., et al., 2019: A Framework for the Development, Design and Implementation of a Sustained Arctic Ocean Observing System. <em>Front. Mar. Sci.</em>, 6, 484"
           url: http://doi.org/10.3389/fmars.2019.00451
-        - citation: "Levin, L.A., B.A. Bett, A.R. Gates, P. Heimbach, B. Howe, F. Janssen, A. McCurdy, H.A. Ruhl, P. Snelgrove, K.I. Stocks, and 28 others, 2019: Global Observational Needs in the Deep Ocean. Frontiers in Marine Science, 6, 241"
+        - citation: "Levin, L.A., B.A. Bett, A.R. Gates, P. Heimbach, B. Howe, F. Janssen, A. McCurdy, H.A. Ruhl, P. Snelgrove, K.I. Stocks, and 28 others, 2019: Global Observational Needs in the Deep Ocean. <em>Front. Mar. Sci.</em>, 6, 241"
           url: https://www.frontiersin.org/articles/10.3389/fmars.2019.00241
-        - citation: "Penny, S., and 30 others, 2019: Observational Needs for improving Ocean and Coupled Reanalysis, S2S Prediction, and Decadal Prediction. Frontiers in Marine Science, 6, 391"
+        - citation: "Penny, S., and 30 others, 2019: Observational Needs for improving Ocean and Coupled Reanalysis, S2S Prediction, and Decadal Prediction. <em>Front. Mar. Sci.</em>, 6, 391"
           url: https://www.frontiersin.org/articles/10.3389/fmars.2019.00391
-        - citation: "Quinn, K.Q., R.M. Ponte, P. Heimbach, I. Fukumori, and J.-M. Campin, 2019: Ocean angular momentum from a recent global state estimate, with assessment of uncertainties. Geophys. J. Int., 216(1), 584-597"
+        - citation: "Quinn, K.Q., R.M. Ponte, P. Heimbach, I. Fukumori, and J.-M. Campin, 2019: Ocean angular momentum from a recent global state estimate, with assessment of uncertainties. <em>Geophys. J. Int.</em>, 216(1), 584-597"
           url: http://doi.org/10.1093/gji/ggy452
-        - citation: "Smith, T., and Heimbach, P. (2019). Atmospheric Origins of Variability in the South Atlantic Meridional Overturning Circulation. Journal of Climate, 32(5), 1483–1500."
+        - citation: "Smith, T., and Heimbach, P., 2019: Atmospheric Origins of Variability in the South Atlantic Meridional Overturning Circulation. <em>Journal of Climate</em>, 32(5), 1483–1500."
           url: https://doi.org/10.1175/JCLI-D-18-0311.1
-        - citation: "Sonnewald, M., C. Wunsch, and P. Heimbach, 2019: Unsupervised Learning Reveals Geography of Global Ocean Dynamical Regions. Earth and Space Science, 6(5), 784-794"
+        - citation: "Sonnewald, M., C. Wunsch, and P. Heimbach, 2019: Unsupervised Learning Reveals Geography of Global Ocean Dynamical Regions. <em>Earth and Space Science</em>, 6(5), 784-794"
           url: https://doi.org/10.1029/2018EA000519
-        - citation: "Straneo, F., D.A. Sutherland, L.A. Stearns, G. Catania, P. Heimbach, T. Moon, M.R. Cape, K.L. Laidre, D. Barber, S. Rysgaard, R. Mottram, S.M. Olsen, M.J. Hopwood, and L. Meire, 2019: The case for a sustained Greenland Ice sheet-Ocean Observing System. Front. Mar. Sci., 6, 138"
+        - citation: "Straneo, F., D.A. Sutherland, L.A. Stearns, G. Catania, P. Heimbach, T. Moon, M.R. Cape, K.L. Laidre, D. Barber, S. Rysgaard, R. Mottram, S.M. Olsen, M.J. Hopwood, and L. Meire, 2019: The case for a sustained Greenland Ice sheet-Ocean Observing System. <em>Front. Mar. Sci.</em>, 6, 138"
           url: https://www.frontiersin.org/articles/10.3389/fmars.2019.00138
-        - citation: "Trossman, D. S. and R. H. Tyler (2019). Predictability of Ocean Heat Content from Electrical Conductance. Journal of Geophysical Research-Oceans, 124, 667–679."
+        - citation: "Trossman, D. S. and R. H. Tyler, 2019: Predictability of Ocean Heat Content from Electrical Conductance. <em>Journal of Geophysical Research-Oceans</em>, 124, 667–679."
           url: https://doi.org/10.1029/2018JC014740
-        - citation: "Villas Boas, B., and 25 others, 2019: Integrated observations and modeling of winds, currents, and waves: requirements and challenges for the next decade. Front. Mar. Sci., 6, 425"
+        - citation: "Villas Boas, B., and 25 others, 2019: Integrated observations and modeling of winds, currents, and waves: requirements and challenges for the next decade. <em>Front. Mar. Sci.</em>, 6, 425"
           url: https://www.frontiersin.org/articles/10.3389/fmars.2019.00425
-        - citation: "Madsen, M.V., H.C. Steen-Larsen, M. Horhold, J. Box, S.M.P Berben, E. Capron, A.-K. Faber, A. Hubbard, M.F. Jensen, T.R. Jones, S. Kipfstufl, I. Koldtoft, H.R. Pillar, B.H. Vaughn, D. Vladimirova, and D. Dahl-Jensen (2019). Evidence of Isotopic Fractionation During Vapor Exchange Between the Atmosphere and the Snow Surface in Greenland. J. Geophys. Res. Atmos., 124, 2932-2945."
+        - citation: "Madsen, M.V., H.C. Steen-Larsen, M. Horhold, J. Box, S.M.P Berben, E. Capron, A.-K. Faber, A. Hubbard, M.F. Jensen, T.R. Jones, S. Kipfstufl, I. Koldtoft, H.R. Pillar, B.H. Vaughn, D. Vladimirova, and D. Dahl-Jensen, 2019: Evidence of Isotopic Fractionation During Vapor Exchange Between the Atmosphere and the Snow Surface in Greenland. <em>J. Geophys. Res. Atmos.</em>, 124, 2932-2945."
           url: https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2018JD029619
-        - citation: "Yosuke, F., and 28 others, 2019: Observing System Evaluation Based on Ocean Data Assimilation and Prediction Systems: On-going Challenges and Future Vision for Designing/Supporting Ocean Observational Networks. Front. Mar. Sci., 6, 417"
+        - citation: "Yosuke, F., and 28 others, 2019: Observing System Evaluation Based on Ocean Data Assimilation and Prediction Systems: On-going Challenges and Future Vision for Designing/Supporting Ocean Observational Networks. <em>Front. Mar. Sci.</em>, 6, 417"
           url: https://www.frontiersin.org/articles/10.3389/fmars.2019.00417
-        - citation: "Zanna, L., S. Khatiwala, J. Gregory, J. Ison, and P. Heimbach, 2019: Estimates and Attribution of Atlantic Ocean Heat Content and Sea Level Change. Proc. Natl. Acad. Sci. USA, 116(4), 1126-1131"
+        - citation: "Zanna, L., S. Khatiwala, J. Gregory, J. Ison, and P. Heimbach, 2019: Estimates and Attribution of Atlantic Ocean Heat Content and Sea Level Change. <em>Proc. Natl. Acad. Sci. USA</em>, 116(4), 1126-1131"
           url: http://doi.org/10.1073/pnas.1808838115
 
         #
         - citation: <strong>2018</strong>
-        - citation: "Bigdeli, A., Hara, T., Loose, B., and Nguyen, A. T. (2018). Wave Attenuation and Gas Exchange Velocity in Marginal Sea Ice Zone. Journal of Geophysical Research: Oceans, 123(3), 2293–2304."
+        - citation: "Bigdeli, A., Hara, T., Loose, B., and Nguyen, A. T., 2018: Wave Attenuation and Gas Exchange Velocity in Marginal Sea Ice Zone. <em>J. Geophys. Res.: Oceans</em>, 123(3), 2293–2304."
           url: http://doi.org/10.1002/2017JC013380
-        - citation: "Fukumori, I., P. Heimbach, R.M. Ponte, and C. Wunsch, 2018: A Dynamically-Consistent Ocean Climatology and Its Temporal Variations. Bull. Amer. Met. Soc., 99(10), 2107-2128"
+        - citation: "Fukumori, I., P. Heimbach, R.M. Ponte, and C. Wunsch, 2018: A Dynamically-Consistent Ocean Climatology and Its Temporal Variations. <em>Bull. Amer. Met. Soc.</em>, 99(10), 2107-2128"
           url: http://doi.org/10.1175/BAMS-D-17-0213.1
-        - citation: "Goldberg, D.N., K. Snow, P. Holland, J.R. Jordan, J.-M. Campin, P. Heimbach, R. Arthern, and A. Jenkins, 2018: On representing grounding line migration in synchronous coupling between a marine ice sheet model and a z-coordinate ocean model. Ocean Modelling, 125, 45-60"
+        - citation: "Goldberg, D.N., K. Snow, P. Holland, J.R. Jordan, J.-M. Campin, P. Heimbach, R. Arthern, and A. Jenkins, 2018: On representing grounding line migration in synchronous coupling between a marine ice sheet model and a z-coordinate ocean model. <em>Ocean Modelling</em>, 125, 45-60"
           url: http://doi.org/10.1016/j.ocemod.2018.03.005
-        - citation: "Jordan, J.R., P.R. Holland, D. Goldberg, K. Snow, R. Arthern, J.-M. Campin, P. Heimbach, and A. Jenkins, 2018: Ocean-forced ice-shelf thinning in a synchronously coupled ice-ocean model. J. Geophys. Res., 123(2), 864-882"
+        - citation: "Jordan, J.R., P.R. Holland, D. Goldberg, K. Snow, R. Arthern, J.-M. Campin, P. Heimbach, and A. Jenkins, 2018: Ocean-forced ice-shelf thinning in a synchronously coupled ice-ocean model. <em>J. Geophys. Res.</em>, 123(2), 864-882"
           url: http://doi.org/10.1002/2017JC013251
-        - citation: "Kalmikov, A. G. and P. Heimbach, 2018: On Barotropic Mechanisms of Uncertainty Propagation in Estimation of Drake Passage Transport. arXiv"
+        - citation: "Kalmikov, A. G. and P. Heimbach, 2018: On Barotropic Mechanisms of Uncertainty Propagation in Estimation of Drake Passage Transport. <em>arXiv</em>"
           url: https://arxiv.org/abs/1804.06033
-        - citation: "Khatiwala S., H. Graven, S. Payne, and P. Heimbach, 2018: Changes to the Air‐Sea Flux and Distribution of Radiocarbon in the Ocean Over the 21st Century. Geophys. Res. Lett., 45"
+        - citation: "Khatiwala S., H. Graven, S. Payne, and P. Heimbach, 2018: Changes to the Air‐Sea Flux and Distribution of Radiocarbon in the Ocean Over the 21st Century. <em>Geophys. Res. Lett.</em>, 45"
           url: http://doi.org/10.1029/2018GL078172
-        - citation: "Palter, J. B. and D. S. Trossman (2018). The Sensitivity of Future Ocean Oxygen Concentrations to Changes in Ocean Circulation. Global Biogeochemical Cycles, 32."
+        - citation: "Palter, J. B. and D. S. Trossman, 2018: The Sensitivity of Future Ocean Oxygen Concentrations to Changes in Ocean Circulation. <em>Global Biogeochemical Cycles</em>, 32."
           url: https://doi.org/10.1002/2017GB005777
-        - citation: "Pillar, H.R., H.R. Johnson, D.P. Marshall, P. Heimbach, and S. Takao, 2018: Impacts of Atmospheric Reanalysis Uncertainty on AMOC Estimates at 25N. J. Clim., 31(21), 8719-8744"
+        - citation: "Pillar, H.R., H.R. Johnson, D.P. Marshall, P. Heimbach, and S. Takao, 2018: Impacts of Atmospheric Reanalysis Uncertainty on AMOC Estimates at 25N. <em>J. Clim.</em>, 31(21), 8719-8744"
           url: https://doi.org/10.1175/JCLI-D-18-0241.1
-        - citation: "Sonnewald, M., C. Wunsch, and P. Heimbach, 2018: Linear predictability: A sea surface height case study. J. Clim., 31(7), 2599-2611"
+        - citation: "Sonnewald, M., C. Wunsch, and P. Heimbach, 2018: Linear predictability: A sea surface height case study. <em>J. Clim.</em>, 31(7), 2599-2611"
           url: http://doi.org/10.1175/JCLI-D-17-0142.1
-        - citation: "Strobach, E., A. Molod, G. Forget, J.-M. Campin, C. Hill, D. Menemenlis, and P. Heimbach, 2018: Comparison of MERRA-2 and ECCO-v4 ocean surface heat fluxes: Consequences of different forcing methods on ocean circulation. Ocean Modelling, 132, 91-111"
+        - citation: "Strobach, E., A. Molod, G. Forget, J.-M. Campin, C. Hill, D. Menemenlis, and P. Heimbach, 2018: Comparison of MERRA-2 and ECCO-v4 ocean surface heat fluxes: Consequences of different forcing methods on ocean circulation. <em>Ocean Modelling</em>, 132, 91-111"
           url: http://doi.org/10.1016/j.ocemod.2018.10.006
         #
         - citation: <strong>2017</strong>
-        - citation: "T.B.D."
-        - citation: "..."
+        - citation: "Bigdeli, A., B. Loose, A. T. Nguyen, and S. T. Cole, 2017: Numerical Investigation of the Arctic Ice-Ocean Boundary Layer and Implications for Air-Sea Gas Fluxes. <em>Ocean Sciences</em>, 13, 1–15"
+          url: https://doi.org/10.5194/os-13-61-2017
+        - citation: "Spreen, G., R. Kwok, D. Menemenlis, and A. T. Nguyen, 2017: Sea Ice Deformation in a Coupled Ocean-Sea Ice Model and in Satellite Remote Sensing Data. <em>The Cryosphere</em>, 11,1553–1573"
+          url: https://doi.org/10.5194/tc-11-1553-2017
+        #
+        - citation: <strong>2016</strong>
+        - citation: "Aksenov, Y., M. Karcher, A. Proshutinsky, R. Gerdes, B. de Cuevas, E. Golubeva, F. Kauker, A.	T. Nguyen, G. A. Platov, M. Wadley, E. Watanabe, and A. C. Coward, 2016:  Arctic Pathways of Pacific Water: Arctic Ocean Model Intercomparison Experiments. <em>J. Geophys. Res.</em>, 121(1), 27–59"
+          url: https://doi.org/10.1002/2015JC011299
+        - citation: "Stammer, D., M. Balmaseda, P. Heimbach, A.Koehl, and A. Weaver, 2016: Ocean Data Assimilation in Support of Climate Applications: Status and Perspectives. <em>Ann. Rev. Mar. Sci.</em>., 8, 491-518"
+          url: https://doi.org/10.1146/annurev-marine-122414-034113
+        #
+        - citation: <strong>2015</strong>
+        - citation: "Buckley, M., R.M. Ponte, G. Forget, and P. Heimbach, 2015: Determining the origins of advective heat transport variability in the North Atlantic. <em>J. Clim.</em>, 18(10), 3943-3956"
+          url: https://doi.org/10.1175/JCLI-D-14-00579.1
+        - citation: "Forget, G., J.M. Campin, P. Heimbach, C.N. Hill, R.M. Ponte, and C. Wunsch, 2015: ECCO version 4: an integrated framework for non-linear inverse modeling and global ocean state estimation. <em>Geosci. Model Dev.</em>, 8, 3071-3104"
+          url: https://doi.org/10.5194/gmd-8-3071-2015
+        - citation: "Goldberg, D., P. Heimbach, I. Joughin, and B. Smith, 2015: Committed retreat of Smith, Pope, and Kohler Glaciers over the next 30 years inferred by transient model calibration. <em>The Cryosphere</em>, 9, 2429-2446"
+          url: https://doi.org/10.5194/tc-9-2429-2015
         #
         - citation: <strong>Technical Reports</strong>
         - citation: "2020: ECCO Consortium; I. Fukumori, O. Wang, I. Fenty, G. Forget, P. Heimbach, and R.M. Ponte, 2020: Synopsis of the ECCO Central Production Global Ocean and Sea-Ice State Estimate, Version 4 Release 4"
