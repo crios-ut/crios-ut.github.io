@@ -9,7 +9,7 @@ caption:
   subtitle: 
   thumbnail: assets/img/outreach/Mogel_UN_Symbol.jpg
 ---
-Following the exhibition *Exploring the Arctic Ocean*, two of the participating artists, American conceptual artist Lize Mogel and German photographer Olaf Otto Becker loaned their works to the Oden Institute. Four photographs from Becker’s photographic series *Broken Line* and a map showing the Arctic Ocean, a center piece of Mogel’s multimedia installation *Area of Detail,* are on display on the 4th floor of the Peter O’Donnell Jr. Building. 
+Following the exhibition *Exploring the Arctic Ocean*, two of the participating artists, American conceptual artist [Lize Mogel](http://publicgreen.com/) and German photographer [Olaf Otto Becker](https://www.olafottobecker.de/) loaned their works to the Oden Institute. Four photographs from Becker’s photographic series *Broken Line* and a map showing the Arctic Ocean, a center piece of Mogel’s multimedia installation *Area of Detail*, are on display on the 4th floor of the Peter O’Donnell Jr. Building. 
 
 For his series *Broken Line*, Olaf Otto Becker photographed the landscape along the coastline of Greenland while traveling thousands of miles in a Zodiac raft. The slow pace of his journey and laborious process of producing his images with a large-format camera reverberate in Becker’s carefully composed photographs. The four photographs on view at the Oden Institute are a small selection from Broken Line that show distinct features of the Arctic Ocean and its shore. 
 
