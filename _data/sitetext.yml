@@ -126,8 +126,6 @@ publications:
         - citation: "Bigdeli, A., A.T. Nguyen, H.R. Pillar, V. Ocana, and P. Heimbach, 2020: Atmospheric Warming Drives Growth in Arctic Sea-Ice: A Key Role for Snow. Submitted to <em>Geophysical Research Letters</em>"
         - citation: "Goldberg, D.N., T.A. Smith, S.H.K. Narayanan, P. Heimbach, and M. Morlighem, 2020: Bathymetric influences on Antarctic ice-shelf melt rates. <em>Earth and Space Science Open Archive</em>"
           url: https://doi.org/10.1002/essoar.10503016.1
-        - citation: "Nguyen, A.T., R. Woodgate, and P. Heimbach, 2020: Elucidating large-scale atmospheric controls on Bering Strait throughflow variability using a data-constrained ocean model and its adjoint. <em>Earth and Space Science Open Archive</em>"
-          url: https://doi.org/10.1002/essoar.10502464.1
         #
         - citation: <strong>2020</strong>
         - citation: "ECCO Consortium; I. Fukumori, O. Wang, I. Fenty, G. Forget, P. Heimbach, and R.M. Ponte, 2020: Synopsis of the ECCO Central Production Global Ocean and Sea-Ice State Estimate, Version 4 Release 4"
@@ -138,12 +136,14 @@ publications:
           url: https://doi.org/10.2172/1617372
         - citation: "Logan, L.C., S.H.K. Narayanan, R. Greve, and P. Heimbach, 2020: SICOPOLIS-AD v1: an open-source adjoint modeling framework for ice sheet simulation enabled by the algorithmic differentiation tool OpenAD. <em>Geosci. Model Dev.</em>, 13, 1845-1864."
           url: https://doi.org/10.5194/gmd-13-1845-2020
-        - citation: "Loose, N., P. Heimbach, H. Pillar, and K. Nisancioglu, 2020: Quantifying Dynamical Proxy Potential through Shared Adjustment Physics in the North Atlantic. <em>J. Geophys. Res.</em>, in press" 
+        - citation: "Loose, N., P. Heimbach, H. Pillar, and K. Nisancioglu, 2020: Quantifying Dynamical Proxy Potential through Shared Adjustment Physics in the North Atlantic. <em>J. Geophys. Res.</em>, 125(9)" 
           url: https://doi.org/10.1029/2020JC016112
-        - citation: "Moon, T., T. Scambos, W. Abdalati, A. Ahlstrom, R. Bindschadler, J. Gambill, P. Heimbach, R. Hock, K. Langley, I. Miller, and M. Truffer, 2020: Ending a sea of confusion: A scientist perspective on lessons and opportunities in sea level change communication. <em>Environment Magazine</em>, in press"
+        - citation: "Moon, T., T. Scambos, W. Abdalati, A. Ahlstrom, R. Bindschadler, J. Gambill, P. Heimbach, R. Hock, K. Langley, I. Miller, and M. Truffer, 2020: Ending a sea of confusion: A scientist perspective on lessons and opportunities in sea level change communication. <em>Environment Magazine</em>, 62(5), 4-15"
           url: https://doi.org/10.1080/00139157.2020.1791627
-        - citation: "Nguyen, A.T., P. Heimbach, V. Garg, V. Ocana , C. Lee, and L. Rainville, 2020: Impact of synthetic Arctic Argo-type floats in a coupled ocean-sea ice state estimation framework. <em>J. Atmos. Ocean Technol.</em>, in press."
+        - citation: "Nguyen, A.T., P. Heimbach, V. Garg, V. Ocana , C. Lee, and L. Rainville, 2020: Impact of synthetic Arctic Argo-type floats in a coupled ocean-sea ice state estimation framework. <em>J. Atmos. Ocean Technol.</em>, 37(8), 1477-1495."
           url: https://doi.org/10.1175/JTECH-D-19-0159.1
+        - citation: "Nguyen, A.T., R. Woodgate, and P. Heimbach, 2020: Elucidating large-scale atmospheric controls on Bering Strait throughflow variability using a data-constrained ocean model and its adjoint. <em>J. Geophys. Res.</em>"
+          url: https://doi.org/10.1029/2020JC016213
         #
         - citation: <strong>2019</strong>
         - citation: "Arbic, B. K., O. B. Fringer, J. M. Klymak, F. T. Mayer, D. S. Trossman, P. Zhu, 2019: Connecting process models of topographic wave drag to global eddying general circulation models. <em>Oceanography</em>, 32(4), 146–155"
