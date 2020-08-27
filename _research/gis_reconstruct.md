@@ -16,6 +16,6 @@ The Greenland ice sheet has emerged as a significant contributor to present-day,
 The inverse problem poses a fundamental challenge: can we infer initial and surface boundary conditions, such that simulations based on these inputs match the available observations or proxy data? Solving this inverse problem will enable us to make several key scientific advances. Firstly, we will develop a time-evolving state of the Greenland ice sheet that is consistent with the time history encapsulated in the isochrone data. Secondly, we will infer a set of optimal model parameters (i.e., model calibration) and time-varying optimal surface forcings that are consistent with the underlying ice sheet evolution (i.e., reconstruction of a consistent climate forcing history). And, thirdly, we will develop a realistic transient simulation of the ice sheet over the Holocene period, leading into a present state that may serve as well-balanced initial condition for prediction, and for which initialization shocks or artificial model drift are expected to be minimal, by construction. A key computational ingredient that enables our proposed work is the development of a time-dependent adjoint model of an ice sheet model that is able to evolve internal ice age structures.
 
 {:.list-inline}
-- Related CRIOS publications: 
+- Related CRIOS publications: Logan et al., <em>Geosci. Model Dev.</em> (2020).
 
 

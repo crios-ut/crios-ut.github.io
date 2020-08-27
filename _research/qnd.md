@@ -3,7 +3,7 @@ title: Quantitative Observing System Design
 subtitle:   
 teaser: To understand the Earth’s changing climate, it is important to estimate how much heat the ocean takes up from the atmosphere and how the ocean recirculates the heat around the globe. Directly obtaining these estimates from measurements is complicated because oceanographers cannot measure the ocean everywhere and at all times ...
 image: assets/img/research/QND.jpg
-image_caption: COULD YOU ADD CAPTION?
+image_caption: The Global Ocean Observing System (GOOS) consists of an eclectic mix of satellite and in-situ platforms. Designing optimal observing strategies that account for complementarity and redundancy of observational assets is an unsolved scientific and computational challenge.
 alt: 
 date: 2020-08-29
 
@@ -19,4 +19,4 @@ To tackle these questions, our group performs quantitative network design, throu
 
 
 {:.list-inline}
-- Related CRIOS publications: : Loose et al., 2020.
+- Related CRIOS publications: Loose et al., <em>J. Geophys. Res</em> (2020); Yosuke et al., <em>Front. Mar. Sci.</em> (2019); Kalmikov and Heimbach (2018).

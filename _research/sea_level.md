@@ -17,4 +17,4 @@ Understanding and predicting global and regional sea level rise and coastal floo
 
 
 {:.list-inline}
-- Related CRIOS publications: 
+- Related CRIOS publications: Hamlington et al., <em>Rev. Geophys.</em> (2020); Moon et al., <em>Environment Magazine</em> (2020); Trossman et al., <em>J. Geophys. Res.</em> (2019); Zanna et al., <em>Proc. Natl. Acad. Sci. USA</em> (2019); Sonnewald et al., <em>J. Clim.</em> (2018); Storto et al., <em>Clim. Dyn.</em> (2017); Ocana et al., <em>J. Geophys. Res.</em> (2016). 
