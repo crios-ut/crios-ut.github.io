@@ -10,13 +10,19 @@ if ('scrollRestoration' in history) {
         return;
     }
     if (matchMedia('(prefers-reduced-motion)').matches) {
+        video.parentNode.classList.add('skip-video');
         return;
     }
     if (matchMedia(video.getAttribute('data-small-media')).matches) {
         video.src = video.getAttribute('data-small-src');
     }
     video.autoplay = true;
+    // skip the video if play event doesnt happen in 3 seconds
+    var playTimeout = setTimeout(function(){
+        video.parentNode.classList.add('skip-video');
+    }, 3e3);
     video.addEventListener('play', function () {
         video.parentNode.classList.add('play-video');
+        clearTimeout(playTimeout);
     });
 })(document.querySelector('#start-video'));
