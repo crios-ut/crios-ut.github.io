@@ -49,6 +49,7 @@ header.masthead {
 }
 
 // show masthead text if video cannot be started by js
+header.masthead.skip-video video + .container,
 .no-js header.masthead video + .container {
   opacity: 1;
 }
