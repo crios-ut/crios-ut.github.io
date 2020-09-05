@@ -49,6 +49,7 @@ header.masthead {
 }
 
 // show masthead text if video cannot be started by js
+header.masthead.skip-video video + .container,
 .no-js header.masthead video + .container {
   opacity: 1;
 }
@@ -95,6 +96,34 @@ header.masthead.play-video video + .container {
 @media (max-width: 991px) {
   .navbar.fixed-top + header.masthead {
     margin-top: 56px; 
+  }
+}
+
+@media (min-width: 1920px) {
+  header.masthead {
+    .intro-text {
+      .intro-lead-in {
+        h1{
+          font-size: 4.9rem;
+          line-height: 1.3;
+        }
+      }
+    }
+  }
+}
+
+@media (max-width: 480px) {
+  header.masthead {
+    .intro-text {
+      padding-top: 100px;
+      padding-bottom: 20px;
+      .intro-lead-in {
+        h1{
+          font-size: 1.9rem;
+          line-height: 1.3;
+        }
+      }
+    }
   }
 }
 

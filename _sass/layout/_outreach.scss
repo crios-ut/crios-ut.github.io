@@ -80,6 +80,10 @@ section#outreach {
     h2 {
       font-size: 3em;
       margin-bottom: 15px;
+      @media (max-width:767px){
+        font-size: 1.5em
+      }
+    }
     }
     p {
       margin-bottom: 30px;
@@ -134,5 +138,4 @@ section#outreach {
         background-color: $gray-900;
       }
     }
-  }
 }

@@ -19,6 +19,11 @@ section#research {
     img{
       width:auto;
       height: 200px;
+      @media (max-width:767px){
+        width:100%;
+        height:auto;
+        margin-bottom:1.8em
+      }
     }
    
       .text{
@@ -120,6 +125,9 @@ section#research {
     h2 {
       font-size: 3em;
       margin-bottom: 15px;
+      @media (max-width:767px){
+        font-size: 1.5em
+      }
     }
     p {
       margin-bottom: 30px;

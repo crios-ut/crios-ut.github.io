@@ -215,7 +215,9 @@ publications:
         - citation: <strong>2016</strong>
         - citation: "Aksenov, Y., M. Karcher, A. Proshutinsky, R. Gerdes, B. de Cuevas, E. Golubeva, F. Kauker, A.	T. Nguyen, G. A. Platov, M. Wadley, E. Watanabe, and A. C. Coward, 2016:  Arctic Pathways of Pacific Water: Arctic Ocean Model Intercomparison Experiments. <em>J. Geophys. Res.</em>, 121(1), 27–59"
           url: https://doi.org/10.1002/2015JC011299
-        - citation: "Stammer, D., M. Balmaseda, P. Heimbach, A.Koehl, and A. Weaver, 2016: Ocean Data Assimilation in Support of Climate Applications: Status and Perspectives. <em>Ann. Rev. Mar. Sci.</em>., 8, 491-518"
+        - citation: "Ocaña, V., E. Zorita, and P. Heimbach 2016: Stochastic secular trends in sea level rise, <em>J. Geophys. Res. Oceans</em>, 121"
+          url: https://doi.org/10.1002/2015JC011301
+        - citation: "Stammer, D., M. Balmaseda, P. Heimbach, A.Koehl, and A. Weaver, 2016: Ocean Data Assimilation in Support of Climate Applications. Status and Perspectives. <em>Ann. Rev. Mar. Sci.</em>., 8, 491-518"
           url: https://doi.org/10.1146/annurev-marine-122414-034113
         #
         - citation: <strong>2015</strong>
