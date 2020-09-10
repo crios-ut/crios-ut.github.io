@@ -91,7 +91,7 @@ team:
         role: "Graduate Research Assistant"
         image: assets/img/team/timsmith.jpg
         social:
-          - url: https://www.oden.utexas.edu/people/1366/
+          - url: https://timothyas.github.io
             icon: fas fa-globe
           - url: https://github.com/timothyas
             icon: fab fa-github
