@@ -16,7 +16,7 @@ The video installations, photographic series, and data visualizations on display
 The exhibition was curated by Ulrike Heine a visual studies scholar and independent curator with focus on the intersection of contemporary art, scientific knowledge production, and ecological concerns. 
 
 More information:<br>
-[@ExhArcticOcean](https://twitter.com/exharcticocean?lang=en)
+[@crios_utaustin](https://twitter.com/crios_utaustin?lang=en)
 <br>
 Installation views on [Flickr](http://flic.kr/s/aHsmubJbyH)
 

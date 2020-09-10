@@ -12,7 +12,7 @@ caption:
 The exhibition [*Exploring the Arctic Ocean*](http://utvac.org/event/exploring-arctic-ocean) was accompanied by an interdisciplinary series of programs, which included artist’s talks, lectures, gallery tours, studio visits, and a panel discussion. All events were organized as cross-departmental collaborations and were hosted by the Moody College of Communication, the Department of Art and Art History, the Texas Advanced Computing Center, the Jackson School of Geosciences, the Center for Space Research, the Department of Geography and the Environment, and the Harry Ransom Center. In addition, the Visual Arts Center offered educational programs geared towards visitor groups of all ages. 
 
 More information:<br>
-[@ExhArcticOcean](https://twitter.com/exharcticocean?lang=en)
+[@crios_utaustin](https://twitter.com/crios_utaustin?lang=en)
 
 
 <div class="text-muted">
