@@ -122,14 +122,17 @@ publications:
         # 2. Order doesn't matter, but each new entry is designated with a "-"
         # 3. It's safest to put the citation in between quotes ""
         #
-        - citation: <strong>Submitted</strong>
-        - citation: "Bigdeli, A., A.T. Nguyen, H.R. Pillar, V. Ocana, and P. Heimbach, 2020: Atmospheric Warming Drives Growth in Arctic Sea-Ice: A Key Role for Snow. Submitted to <em>Geophysical Research Letters</em>"
-        - citation: "Goldberg, D.N., T.A. Smith, S.H.K. Narayanan, P. Heimbach, and M. Morlighem, 2020: Bathymetric influences on Antarctic ice-shelf melt rates. <em>Earth and Space Science Open Archive</em>"
-          url: https://doi.org/10.1002/essoar.10503016.1
+        - citation: <h5>Submitted</h5>
+        - citation: "Trossman, D.S., T. Haine, A.F. Waterhouse, A. Bigdeli, M. Mazloff, C.B. Whalen, A.T. Nguyen, P. Heimbach, and R. Kovach, 2020: Tracer and observationally-derived constraints on horizontal and diapycnal diffusivities in ocean models. <em>Journal of Advances in Modeling Earth Systems</em>, submitted."
+          url: https://doi.org/10.1002/essoar.10502123.3
         #
-        - citation: <strong>2020</strong>
+        - citation: <h5>2020</h5>
+        - citation: "Bigdeli, A., A.T. Nguyen, H.R. Pillar, V. Ocana, and P. Heimbach, 2020: Atmospheric Warming Drives Growth in Arctic Sea-Ice: A Key Role for Snow. <em>Geophys. Res. Lett.</em>, in press."
+          url: https://doi.org/10.1029/2020GL090236
         - citation: "ECCO Consortium; I. Fukumori, O. Wang, I. Fenty, G. Forget, P. Heimbach, and R.M. Ponte, 2020: Synopsis of the ECCO Central Production Global Ocean and Sea-Ice State Estimate, Version 4 Release 4"
           url: https://doi.org/10.5281/zenodo.3765929
+        - citation: "Goldberg, D.N., T.A. Smith, S.H.K. Narayanan, P. Heimbach, and M. Morlighem, 2020: Bathymetric influences on Antarctic ice-shelf melt rates. <em>J. Geophys. Res.</em>, accepted."
+          url: https://doi.org/10.1002/essoar.10503016.3
         - citation: "Hamlington, B. D., A. S. Gardner, E. Ivins, J. T. M. Lenaerts, J. T. Reager, D. S. Trossman, E. D. Zaron, S. Adhikari, A. Arendt, A. Aschwanden, B. D. Beckley, D. P. S. Bekaert, G. Blewitt, L. Caron, H. A. Chandanpurkar, K. Christianson, R. I. Cullather, R. M. DeConto, J. T. Fasullo, T. Frederikse, J. T. Freymueller, D. M. Gilford, M. Girotto, W. C. Hammond, R. Hock, N. Holschuh, R. E. Kopp, F. Landerer, E. Larour, D. Menemenlis, M. Merrifield, J. X. Mitrovica, R. S. Nerem, I. J. Nias, V. Nieves, S. Nowicki, K. Pangaluru, C. G. Piecuch, D. R. Rounce, N.-J. Schlegel, H. Seroussi, M. Shirzaei, I. Velicogna, N. Vinogradova, T. Wahl, D. N. Wiese, M. J. Willis, 2020: Understanding of contemporary regional sea-level change and the implications for the future. <em>Reviews of Geophysics</em>, 58, e2019RG000672"
           url: https://doi.org/10.1029/2019RG000672
         - citation: "Logan, L.C., Narayanan, S.H.K., Greve, R., and Heimbach, P., 2020: Sicopolis-AD: Quick-Start Manual, Revision 0.11. Argonne National Lab Technical Report ANL/MCS-TM-382 Rev 0.11, 14 pp"
@@ -142,10 +145,10 @@ publications:
           url: https://doi.org/10.1080/00139157.2020.1791627
         - citation: "Nguyen, A.T., P. Heimbach, V. Garg, V. Ocana , C. Lee, and L. Rainville, 2020: Impact of synthetic Arctic Argo-type floats in a coupled ocean-sea ice state estimation framework. <em>J. Atmos. Ocean Technol.</em>, 37(8), 1477-1495."
           url: https://doi.org/10.1175/JTECH-D-19-0159.1
-        - citation: "Nguyen, A.T., R. Woodgate, and P. Heimbach, 2020: Elucidating large-scale atmospheric controls on Bering Strait throughflow variability using a data-constrained ocean model and its adjoint. <em>J. Geophys. Res.</em>"
+        - citation: "Nguyen, A.T., R. Woodgate, and P. Heimbach, 2020: Elucidating large-scale atmospheric controls on Bering Strait throughflow variability using a data-constrained ocean model and its adjoint. <em>J. Geophys. Res.</em>, 125(9)."
           url: https://doi.org/10.1029/2020JC016213
         #
-        - citation: <strong>2019</strong>
+        - citation: <h5>2019</h5>
         - citation: "Arbic, B. K., O. B. Fringer, J. M. Klymak, F. T. Mayer, D. S. Trossman, P. Zhu, 2019: Connecting process models of topographic wave drag to global eddying general circulation models. <em>Oceanography</em>, 32(4), 146–155"
           url: https://doi.org/10.5670/oceanog.2019.420
         - citation: "Fox-Kemper, B., A. Adcroft, C.W. Boening, E.P. Chassignet, E. Curchitser, G. Danabasoglu, C. Eden, M.H. England, R. Gerdes, R.J. Greatbatch, S.M. Griffies, R.W. Hallberg, E. Han- ert, P. Heimbach, H.T. Hewitt, C.N. Hill, Y. Komuro, S. Legg, J. Le Sommer, S. Masina, S.J. Marsland, S.G. Penny, F. Qiao, T.D. Ringler, A.M. Treguier, H. Tsujino, P. Uotila, and S.G. Yeager, 2019: Challenges and Prospects in Ocean Circulation Models. <em>Front. Mar. Sci.</em>, 6, 65"
@@ -184,7 +187,7 @@ publications:
           url: http://doi.org/10.1073/pnas.1808838115
 
         #
-        - citation: <strong>2018</strong>
+        - citation: <h5>2018</h5>
         - citation: "Bigdeli, A., Hara, T., Loose, B., and Nguyen, A. T., 2018: Wave Attenuation and Gas Exchange Velocity in Marginal Sea Ice Zone. <em>J. Geophys. Res.: Oceans</em>, 123(3), 2293–2304."
           url: http://doi.org/10.1002/2017JC013380
         - citation: "Fukumori, I., P. Heimbach, R.M. Ponte, and C. Wunsch, 2018: A Dynamically-Consistent Ocean Climatology and Its Temporal Variations. <em>Bull. Amer. Met. Soc.</em>, 99(10), 2107-2128"
@@ -206,13 +209,13 @@ publications:
         - citation: "Strobach, E., A. Molod, G. Forget, J.-M. Campin, C. Hill, D. Menemenlis, and P. Heimbach, 2018: Comparison of MERRA-2 and ECCO-v4 ocean surface heat fluxes: Consequences of different forcing methods on ocean circulation. <em>Ocean Modelling</em>, 132, 91-111"
           url: http://doi.org/10.1016/j.ocemod.2018.10.006
         #
-        - citation: <strong>2017</strong>
+        - citation: <h5>2017</h5>
         - citation: "Bigdeli, A., B. Loose, A. T. Nguyen, and S. T. Cole, 2017: Numerical Investigation of the Arctic Ice-Ocean Boundary Layer and Implications for Air-Sea Gas Fluxes. <em>Ocean Sciences</em>, 13, 1–15"
           url: https://doi.org/10.5194/os-13-61-2017
         - citation: "Spreen, G., R. Kwok, D. Menemenlis, and A. T. Nguyen, 2017: Sea Ice Deformation in a Coupled Ocean-Sea Ice Model and in Satellite Remote Sensing Data. <em>The Cryosphere</em>, 11,1553–1573"
           url: https://doi.org/10.5194/tc-11-1553-2017
         #
-        - citation: <strong>2016</strong>
+        - citation: <h5>2016</h5>
         - citation: "Aksenov, Y., M. Karcher, A. Proshutinsky, R. Gerdes, B. de Cuevas, E. Golubeva, F. Kauker, A.	T. Nguyen, G. A. Platov, M. Wadley, E. Watanabe, and A. C. Coward, 2016:  Arctic Pathways of Pacific Water: Arctic Ocean Model Intercomparison Experiments. <em>J. Geophys. Res.</em>, 121(1), 27–59"
           url: https://doi.org/10.1002/2015JC011299
         - citation: "Ocaña, V., E. Zorita, and P. Heimbach 2016: Stochastic secular trends in sea level rise, <em>J. Geophys. Res. Oceans</em>, 121"
@@ -220,7 +223,7 @@ publications:
         - citation: "Stammer, D., M. Balmaseda, P. Heimbach, A.Koehl, and A. Weaver, 2016: Ocean Data Assimilation in Support of Climate Applications. Status and Perspectives. <em>Ann. Rev. Mar. Sci.</em>., 8, 491-518"
           url: https://doi.org/10.1146/annurev-marine-122414-034113
         #
-        - citation: <strong>2015</strong>
+        - citation: <h5>2015</h5>
         - citation: "Buckley, M., R.M. Ponte, G. Forget, and P. Heimbach, 2015: Determining the origins of advective heat transport variability in the North Atlantic. <em>J. Clim.</em>, 18(10), 3943-3956"
           url: https://doi.org/10.1175/JCLI-D-14-00579.1
         - citation: "Forget, G., J.M. Campin, P. Heimbach, C.N. Hill, R.M. Ponte, and C. Wunsch, 2015: ECCO version 4: an integrated framework for non-linear inverse modeling and global ocean state estimation. <em>Geosci. Model Dev.</em>, 8, 3071-3104"
@@ -228,7 +231,7 @@ publications:
         - citation: "Goldberg, D., P. Heimbach, I. Joughin, and B. Smith, 2015: Committed retreat of Smith, Pope, and Kohler Glaciers over the next 30 years inferred by transient model calibration. <em>The Cryosphere</em>, 9, 2429-2446"
           url: https://doi.org/10.5194/tc-9-2429-2015
         #
-        - citation: <strong>Technical Reports</strong>
+        - citation: <h5>Technical Reports</h5>
         - citation: "2020: ECCO Consortium; I. Fukumori, O. Wang, I. Fenty, G. Forget, P. Heimbach, and R.M. Ponte, 2020: Synopsis of the ECCO Central Production Global Ocean and Sea-Ice State Estimate, Version 4 Release 4"
           url: http://doi.org/10.5281/zenodo.3765929
         - citation: "2019: Levin, L., Ruhl, H., Heimbach, P., McCurdy, A., and Smith, L., 2019: Deep Ocean Ob- serving Strategy: Science and Implementation Guide. Paris, France, GOOS, Deep Ocean Observing Strategy (DOOS) Project, 68 pp."
