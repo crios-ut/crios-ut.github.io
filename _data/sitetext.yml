@@ -123,7 +123,9 @@ publications:
         # 3. It's safest to put the citation in between quotes ""
         #
         - citation: <h5>Submitted</h5>
-        - citation: "Trossman, D.S., T. Haine, A.F. Waterhouse, A. Bigdeli, M. Mazloff, C.B. Whalen, A.T. Nguyen, P. Heimbach, and R. Kovach, 2020: Tracer and observationally-derived constraints on horizontal and diapycnal diffusivities in ocean models. <em>Journal of Advances in Modeling Earth Systems</em>, submitted."
+        - citation: "Loose, N. and P. Heimbach, 2020: Leveraging Uncertainty Quantification to Design Ocean Climate Observing Systems. <em>J. Adv. Model. Earth Syst.</em>, submitted."
+          url: https://doi.org/10.1002/essoar.10504562.1
+        - citation: "Trossman, D.S., T. Haine, A.F. Waterhouse, A. Bigdeli, M. Mazloff, C.B. Whalen, A.T. Nguyen, P. Heimbach, and R. Kovach, 2020: Tracer and observationally-derived constraints on horizontal and diapycnal diffusivities in ocean models. <em>J. Adv. Model. Earth Syst.</em>, submitted."
           url: https://doi.org/10.1002/essoar.10502123.3
         #
         - citation: <h5>2020</h5>
@@ -131,8 +133,8 @@ publications:
           url: https://doi.org/10.1029/2020GL090236
         - citation: "ECCO Consortium; I. Fukumori, O. Wang, I. Fenty, G. Forget, P. Heimbach, and R.M. Ponte, 2020: Synopsis of the ECCO Central Production Global Ocean and Sea-Ice State Estimate, Version 4 Release 4"
           url: https://doi.org/10.5281/zenodo.3765929
-        - citation: "Goldberg, D.N., T.A. Smith, S.H.K. Narayanan, P. Heimbach, and M. Morlighem, 2020: Bathymetric influences on Antarctic ice-shelf melt rates. <em>J. Geophys. Res.</em>, accepted."
-          url: https://doi.org/10.1002/essoar.10503016.3
+        - citation: "Goldberg, D.N., T.A. Smith, S.H.K. Narayanan, P. Heimbach, and M. Morlighem, 2020: Bathymetric influences on Antarctic ice-shelf melt rates. <em>J. Geophys. Res.</em>, in press."
+          url: https://doi.org/10.1029/2020JC016370
         - citation: "Hamlington, B. D., A. S. Gardner, E. Ivins, J. T. M. Lenaerts, J. T. Reager, D. S. Trossman, E. D. Zaron, S. Adhikari, A. Arendt, A. Aschwanden, B. D. Beckley, D. P. S. Bekaert, G. Blewitt, L. Caron, H. A. Chandanpurkar, K. Christianson, R. I. Cullather, R. M. DeConto, J. T. Fasullo, T. Frederikse, J. T. Freymueller, D. M. Gilford, M. Girotto, W. C. Hammond, R. Hock, N. Holschuh, R. E. Kopp, F. Landerer, E. Larour, D. Menemenlis, M. Merrifield, J. X. Mitrovica, R. S. Nerem, I. J. Nias, V. Nieves, S. Nowicki, K. Pangaluru, C. G. Piecuch, D. R. Rounce, N.-J. Schlegel, H. Seroussi, M. Shirzaei, I. Velicogna, N. Vinogradova, T. Wahl, D. N. Wiese, M. J. Willis, 2020: Understanding of contemporary regional sea-level change and the implications for the future. <em>Reviews of Geophysics</em>, 58, e2019RG000672"
           url: https://doi.org/10.1029/2019RG000672
         - citation: "Logan, L.C., Narayanan, S.H.K., Greve, R., and Heimbach, P., 2020: Sicopolis-AD: Quick-Start Manual, Revision 0.11. Argonne National Lab Technical Report ANL/MCS-TM-382 Rev 0.11, 14 pp"
