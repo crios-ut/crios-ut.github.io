@@ -2,7 +2,7 @@
 #
 # This config file is meant for settings that affect your whole blog, values
 # which you are expected to set up once and rarely edit after that.
-# This file is *NOT* reloaded automatically when you use 'bundle exec jekyll serve'. 
+# This file is *NOT* reloaded automatically when you use 'bundle exec jekyll serve'.
 # If you change this file, please restart the server process.
 
 # Site settings
@@ -18,9 +18,9 @@ url    : "" # the base hostname & protocol for your site, e.g. http://example.co
 baseurl: "" # the subpath of your site, e.g. /blog
 
 title      : CRIOS
-email      : #this is also the email contact forms will go to: heimbach@oden.utexas.edu 
+email      : #this is also the email contact forms will go to: heimbach@oden.utexas.edu
 description: "Computational Research in Ice and Ocean Systems"
-author     : CRIOS 
+author     : CRIOS
 # logo:     #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg
   # height: 60 #height in px, defaults to 52px
@@ -32,6 +32,7 @@ collections:
   research:
   outreach:
   news:
+  videos:
 
 markdown: kramdown
 

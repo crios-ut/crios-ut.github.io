@@ -1,0 +1,160 @@
+.videos img {
+    width: 100%;
+    height: auto;
+}
+
+.video-embed {
+    display: block;
+    position: relative;
+    margin-top: 0.6em;
+    margin-bottom: 0.6em;
+}
+
+a.video-embed {
+    &::before {
+        content: '';
+        display: block;
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-color: $primary;
+        opacity: 0;
+        transition: opacity 0.3s ease-out;
+    }
+
+    &::after {
+        content: "\f04b";
+        display: block;
+        font-family: "Font Awesome 5 Free";
+        color: $primary;
+        font-size: 40px;
+        font-weight: 900;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        padding-left: 43px;
+        width: 120px;
+        height: 75px;
+        line-height: 75px;
+        border-radius: 8px;
+        background-color: $white;
+        opacity: 0;
+        transition: opacity 0.3s ease-out;
+    }
+
+    @media (max-width: 600px) {
+        &:not(:hover):not(:focus)::after {
+            opacity: 0.9;
+            top: 100%;
+            left: 0%;
+            transform: translate(15%, -120%);
+            font-size: 20px;
+            width: 60px;
+            height: 38px;
+            line-height: 38px;
+            padding-left: 22px;
+            border-radius: 4px;
+            box-shadow: 0 0 2px  #bbb;
+        }
+    }
+
+    &:hover,
+    &:focus {
+        &::after {
+            opacity: 1;
+        }
+        &::before {
+            opacity: 0.5;
+        }
+    }
+}
+
+@media (min-width: 768px) {
+    .video--description {
+        font-size: 1.25em;
+    }
+}
+
+.video {
+    margin-bottom: 4rem;
+}
+
+div.video-embed {
+    padding-bottom: 56.25%;
+    position: relative;
+
+    &[data-ratio="4/3"] {
+        padding-bottom: 75%;
+    }
+
+    &[data-ratio="16/10"] {
+        padding-bottom: 62.5%;
+    }
+
+    iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+    }
+}
+
+.videos .tags {
+    margin-bottom: 1.5em;
+    font-size: 120%;
+}
+
+.videos .tags > span:first-child {
+    margin-right: 1em;
+}
+
+.videos .tags .dropdown-toggle {
+    padding: 0.6em 1.4em;
+    max-width: 100%;
+
+    @media (max-width: 640px) {
+        display: flex;
+        align-items: center;
+        width: 100%;
+        margin-top: 0.5em;
+        text-align: left;
+        white-space: normal;
+
+        span:nth-child(2) {
+            margin-left: 0.5em;
+        }
+
+        &:after {
+            margin-left: auto;
+        }
+    }
+}
+
+// TODO remove this after decision is final on how to structure the filter
+.videos label {
+    cursor: pointer;
+
+    &:hover input + span > span:first-child {
+        text-decoration: underline;
+    }
+
+    input {
+         visibility: hidden;
+         position: absolute;
+    }
+
+    input + span {
+        display: inline-block;
+        padding: 0.6em 1em;
+        border-radius: 5px;
+    }
+
+    input:checked + span {
+        background: $primary;
+        color: white;
+    }
+}
