@@ -19,5 +19,8 @@ To tackle these questions, our group performs quantitative observing system desi
 
 
 {:.list-inline}
-- Related CRIOS publications: Loose et al., <em>J. Geophys. Res</em> (2020); Fujii et al., <em>Front. Mar. Sci.</em> (2019); Kalmikov and Heimbach (2018).
+- <h5>Related CRIOS publications:</h5> 
+- Loose and Heimbach, <em>J. Adv. Model. Earth Syst.</em> (2021); 
+- Loose et al., <em>J. Geophys. Res</em> (2020); 
+- Fujii et al., <em>Front. Mar. Sci.</em> (2019); Kalmikov and Heimbach (2018).
 - ["Sensitive Spots ... and How to Find Them,"](https://ecco-group.org/storymaps.cgi?id=43) ArcGis Storymap based on Loose et al., ECCO group website, uploaded August 2020. 

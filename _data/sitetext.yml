@@ -130,6 +130,14 @@ publications:
         - citation: "Trossman, D.S., T. Haine, A.F. Waterhouse, A. Bigdeli, M. Mazloff, C.B. Whalen, A.T. Nguyen, P. Heimbach, and R. Kovach, 2020: Tracer and observationally-derived constraints on horizontal and diapycnal diffusivities in ocean models. <em>J. Adv. Model. Earth Syst.</em>, submitted."
           url: https://doi.org/10.1002/essoar.10502123.3
         #
+	- citation: <h5>2021</h5>
+        - citation: "Loose, N. and P. Heimbach, 2021: Leveraging Uncertainty Quantification to Design Ocean Climate Observing Systems. <em>J. Adv. Model. Earth Syst.</em>, in press."
+          url: https://doi.org/10.1029/2020MS002386
+	- citation: "Nguyen, A. T., H. Pillar, V. Ocana, A. Bigdeli, T. A. Smith, and P. Heimbach, 2021: The Arctic Subpolar gyre sTate Estimate (ASTE): Description and assessment of a data-constrained, dynamically consistent ocean-sea ice estimate for 2002-2017.  <em>J. Adv. Model. Earth Syst.</em>, in press."
+	  url: https://doi.org/10.1029/2020MS002398
+        - citation: "Willcox, K., O. Ghattas, and P. Heimbach, 2021: The imperative of physics-based modeling and inverse theory in the future of computational science. <em>Nature Computational Science</em>, 1, 166-168."
+          url: https://doi.org/10.1038/s43588-021-00040-z
+	#
         - citation: <h5>2020</h5>
         - citation: "Bigdeli, A., A.T. Nguyen, H.R. Pillar, V. Ocana, and P. Heimbach, 2020: Atmospheric Warming Drives Growth in Arctic Sea-Ice: A Key Role for Snow. <em>Geophys. Res. Lett.</em>, in press."
           url: https://doi.org/10.1029/2020GL090236
