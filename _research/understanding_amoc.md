@@ -16,5 +16,11 @@ The ocean's overturning circulation redistributes heat, salt and dissolved chemi
 Most of our group's research on this topic has aimed to unambiguously attribute variations in net overturning and its constituent currents to past changes in external forcing. Our main tool for this task is the [ECCO state estimate](https://ecco-group.org/) and inbuilt adjoint infrastructure, enabling efficient mapping of the timescales and pathways of overturning sensitivity to prior atmospheric changes. These sensitivity distributions provide insights into the underlying adjustment physics and - via convolution with historic atmospheric forcing estimates - enable contributions from wind, heat and freshwater forcing to be both seperately quantified and pinpointed in space and time.   
 
 {:.list-inline}
-- Related CRIOS publications: Frajka-Williams et al., <em>Frontiers in Marine Science</em> (2019); Smith and Heimbach, <em>J. Clim.</em> (2019); Pillar et al., <em>J. Clim.</em> (2018); Lozier et al., <em>Bull. Amer. Met. Soc.</em> (2017); Pillar et al., <em>J. Clim.</em> (2016); Buckley et al., <em>J. Clim.</em> (2015).
-
+- <h5>Related CRIOS publications:</h5> 
+- Kostov et al., <em>Nature Geosci.</em> (2021);
+- Frajka-Williams et al., <em>Frontiers in Marine Science</em> (2019);
+- Smith and Heimbach, <em>J. Clim.</em> (2019);
+- Pillar et al., <em>J. Clim.</em> (2018);
+-  Lozier et al., <em>Bull. Amer. Met. Soc.</em> (2017);
+- Pillar et al., <em>J. Clim.</em> (2016);
+- Buckley et al., <em>J. Clim.</em> (2015).
