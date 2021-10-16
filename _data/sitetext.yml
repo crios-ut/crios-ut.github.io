@@ -27,10 +27,11 @@ outreach:
 
 team:
     title: "Research Group"
-    text: ""
+    textnow: "Current Members"
+    textpast: "Past Members"
     subtext: 
     url: team
-    people:
+    peoplenow:
       - name: "Patrick Heimbach"
         role: "The Boss"
         image: assets/img/team/patrickheimbach.jpg
@@ -47,12 +48,6 @@ team:
         social:
           - url: https://www.oden.utexas.edu/people/368/
             icon: fas fa-globe
-      - name: "Arash Bigdeli"
-        role: "Postdoc"
-        image: assets/img/team/Arash.png
-        social:
-          - url: https://github.com/ArashBigdeli/
-            icon: fab fa-github
       - name: "Ivana Escobar"
         role: "Graduate Research Assistant"
         image: assets/img/team/ivanaescobar.jpg
@@ -69,6 +64,44 @@ team:
         role: "Postdoc"
         image: assets/img/team/FerasHabbal.jpg
         social:
+      - name: "Kylie Kinne"
+        role: "Research Scientist Assistant"
+        image: assets/img/team/KylieKinne.jpeg
+        social:
+      - name: "Helen Pillar"
+        role: "Research Scientist"
+        image: assets/img/team/helenpillar.jpg
+        social:
+      - name: "Kirstin Schulz"
+        role: "Research Fellow"
+        image: assets/img/team/KirstinSchulz-small.jpg
+        social:
+          - url: https://www.awi.de/en/about-us/organisation/staff/kirstin-schulz.html
+            icon: fas fa-globe
+      - name: "Timothy Smith"
+        role: "Graduate Research Assistant"
+        image: assets/img/team/timsmith.jpg
+        social:
+          - url: https://timothyas.github.io
+            icon: fas fa-globe
+          - url: https://github.com/timothyas
+            icon: fab fa-github
+            #- url: https://orcid.org/0000-0003-4463-6126
+            #  icon: fab fa-orcid
+      - name: "Yanzhou Wei"
+        role: "Postdoc"
+        image: assets/img/team/WeiYanzhou.jpg
+        social:
+      - name: "Sarah Williamson"
+        role: "Graduate Research Assistant"
+        image: assets/img/team/sarahwilliamson.jpg
+    peoplepast:
+      - name: "Arash Bigdeli"
+        role: "Postdoc"
+        image: assets/img/team/Arash.png
+        social:
+          - url: https://github.com/ArashBigdeli/
+            icon: fab fa-github
       - name: "Ulrike Heine"
         role: "Outreach Consultant"
         image: assets/img/team/UlrikeHeine.jpg
@@ -83,31 +116,9 @@ team:
         role: "Research Scientist"
         image: assets/img/team/victorocana.jpg
         social:
-      - name: "Helen Pillar"
-        role: "Research Fellow"
-        image: assets/img/team/helenpillar.jpg
-        social:
-      - name: "Timothy Smith"
-        role: "Graduate Research Assistant"
-        image: assets/img/team/timsmith.jpg
-        social:
-          - url: https://timothyas.github.io
-            icon: fas fa-globe
-          - url: https://github.com/timothyas
-            icon: fab fa-github
-            #- url: https://orcid.org/0000-0003-4463-6126
-            #  icon: fab fa-orcid
       - name: "David Trossman"
         role: "Research Scientist"
         image: assets/img/team/davidtrossman.jpg
-      - name: "Yanzhou Wei"
-        role: "Postdoc"
-        image: assets/img/team/WeiYanzhou.jpg
-        social:
-      - name: "Sarah Williamson"
-        role: "Graduate Research Assistant"
-        image: assets/img/team/sarahwilliamson.jpg
-
         
         
 publications:
