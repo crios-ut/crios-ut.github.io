@@ -137,7 +137,13 @@ publications:
         - citation: "Trossman, D.S., T. Haine, A.F. Waterhouse, A. Bigdeli, M. Mazloff, C.B. Whalen, A.T. Nguyen, P. Heimbach, and R. Kovach, 2020: Tracer and observationally-derived constraints on horizontal and diapycnal diffusivities in ocean models. <em>J. Adv. Model. Earth Syst.</em>, submitted."
           url: https://doi.org/10.1002/essoar.10502123.3
         #
+        - citation: <h5>2022</h5>
+        - citation: "Schulz, K., Mohrholz, V., Fer, I., Janout, M. A., Hoppmann, M., Schaffer, J., Koenig, Z., Rabe, B., Heuze, C., Regnery, J., Allerholt, J., Fang, Y.-C., He, H., Kanzow, T., Karam, S., Kuznetsov, I., Kong, B., Liu, H., Muilwijk, M., Schuffenhauer, I., Sukhikh, N., Sundfjord, A., Tippenhauer, S. (2022): Turbulent microstructure profile (MSS) measurements from the MOSAiC drift, Arctic Ocean. PANGAEA."
+        url: https://doi.org/10.1594/PANGAEA.939816
+        #
         - citation: <h5>2021</h5>
+        - citation: "Grabon, J. S., Toole, J. M., Nguyen, A. T. and K. A. Richard (2021): An analysis of Atlantic water in the Arctic Ocean using the Arctic subpolar gyre state estimate and observations, <em>Progress in Oceanography</em>, 198."
+        url: https://doi.org/10.1016/j.pocean.2021.102685
         - citation: "Kostov, Y., H. Johnson, D. Marshall, P. Heimbach, G. Forget, P. Holliday, S. Lozier, F. Li, H. Pillar, and T.A. Smith, 2021: Contrasting sources of variability in subtropical and subpolar Atlantic overturning. <em>Nature Geoscience</em>, in press."
           url: https://doi.org/10.1038/s41561-021-00759-4
         - citation: "Loose, N. and P. Heimbach, 2021: Leveraging Uncertainty Quantification to Design Ocean Climate Observing Systems. <em>J. Adv. Model. Earth Syst.</em>, 13(4), e2020MS002386."
