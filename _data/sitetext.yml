@@ -78,16 +78,9 @@ team:
         social:
           - url: https://www.awi.de/en/about-us/organisation/staff/kirstin-schulz.html
             icon: fas fa-globe
-      - name: "Timothy Smith"
-        role: "Graduate Research Assistant"
-        image: assets/img/team/timsmith.jpg
-        social:
-          - url: https://timothyas.github.io
-            icon: fas fa-globe
-          - url: https://github.com/timothyas
-            icon: fab fa-github
-            #- url: https://orcid.org/0000-0003-4463-6126
-            #  icon: fab fa-orcid
+      - name: "Leslie Smith"
+        role: "Visiting Scholar"
+        image: assets/img/team/LeslieSmith.jpg
       - name: "Yanzhou Wei"
         role: "Postdoc"
         image: assets/img/team/WeiYanzhou.jpg
@@ -116,6 +109,16 @@ team:
         role: "Research Scientist"
         image: assets/img/team/victorocana.jpg
         social:
+      - name: "Timothy Smith"
+        role: "Graduate Research Assistant"
+        image: assets/img/team/timsmith.jpg
+        social:
+          - url: https://timothyas.github.io
+            icon: fas fa-globe
+          - url: https://github.com/timothyas
+            icon: fab fa-github
+            #- url: https://orcid.org/0000-0003-4463-6126
+            #  icon: fab fa-orcid
       - name: "David Trossman"
         role: "Research Scientist"
         image: assets/img/team/davidtrossman.jpg
