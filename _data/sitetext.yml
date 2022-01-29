@@ -42,6 +42,8 @@ team:
         role: "Queen of the North"
         image: assets/img/team/annguyen.jpg
         social:
+          - url: https://www.oden.utexas.edu/people/1464/
+            icon: fas fa-globe
       - name: "Susan M. Rodriguez"
         role: "The CEO"
         image: assets/img/team/susanrodriguez-2.jpg
@@ -49,21 +51,19 @@ team:
           - url: https://www.oden.utexas.edu/people/368/
             icon: fas fa-globe
       - name: "Ivana Escobar"
-        role: "Graduate Research Assistant"
+        role: "Graduate Research Assistant (CSEM)"
         image: assets/img/team/ivanaescobar.jpg
         social:
-          - url: https://www.oden.utexas.edu/people/1496/
+          - url: https://oden.utexas.edu/people/directory/Ivana-Escobar/
             icon: fas fa-globe
           - url: https://github.com/IvanaEscobar
             icon: fab fa-github
       - name: "Shreyas Gaikwad"
-        role: "PhD Student"
+        role: "Graduate Research Assistant (CSEM)"
         image: assets/img/team/ShreyasGaikwad.jpg
         social:
-      - name: "Feras Habbal"
-        role: "Postdoc"
-        image: assets/img/team/FerasHabbal.jpg
-        social:
+          - url: https://oden.utexas.edu/people/directory/Shreyas-Gaikwad/
+            icon: fas fa-globe
       - name: "Kylie Kinne"
         role: "Research Scientist Assistant"
         image: assets/img/team/KylieKinne.jpeg
@@ -72,45 +72,62 @@ team:
         role: "Research Scientist"
         image: assets/img/team/helenpillar.jpg
         social:
+          - url: https://oden.utexas.edu/people/directory/Helen-Pillar/
+            icon: fas fa-globe
       - name: "Kirstin Schulz"
         role: "Research Fellow"
         image: assets/img/team/KirstinSchulz-small.jpg
         social:
-          - url: https://www.awi.de/en/about-us/organisation/staff/kirstin-schulz.html
+          - url: https://oden.utexas.edu/people/directory/Kirstin-Schulz/
             icon: fas fa-globe
       - name: "Leslie Smith"
-        role: "Visiting Scholar"
+        role: "Visiting Scholar, iDOOS"
         image: assets/img/team/LeslieSmith.jpg
       - name: "Yanzhou Wei"
         role: "Postdoc"
         image: assets/img/team/WeiYanzhou.jpg
         social:
+          - url: https://oden.utexas.edu/people/directory/Yanzhou-Wei/
+            icon: fas fa-globe
       - name: "Sarah Williamson"
-        role: "Graduate Research Assistant"
+        role: "Graduate Research Assistant (CSEM)"
         image: assets/img/team/sarahwilliamson.jpg
+        social:
+          - url: https://oden.utexas.edu/people/directory/Sarah-Williamson/
+            icon: fas fa-globe
+      - name: "Joseph Kump"
+        role: "Graduate Research Assistant (CSEM)"
+        image: assets/img/team/josephkump.jpg
+        social:
+          - url: https://oden.utexas.edu/people/directory/Joseph-Kump/
+            icon: fas fa-globe
     peoplepast:
       - name: "Arash Bigdeli"
-        role: "Postdoc"
+        role: "former Postdoc"
         image: assets/img/team/Arash.png
         social:
           - url: https://github.com/ArashBigdeli/
             icon: fab fa-github
+      - name: "Feras Habbal"
+        role: "former Postdoc, now Research Associate at ARL:UT"
+        image: assets/img/team/FerasHabbal.jpg
+        social:
       - name: "Ulrike Heine"
-        role: "Outreach Consultant"
+        role: "former Outreach Consultant"
         image: assets/img/team/UlrikeHeine.jpg
         social:
       - name: "Nora Loose"
-        role: "Postdoc"
+        role: "former Postdoc, now Postdoc at CU Boulder"
         image: assets/img/team/noraloose.jpg
         social:
           - url: https://noraloose.github.io
             icon: fas fa-globe
       - name: "Victor Ocaña"
-        role: "Research Scientist"
+        role: "former Research Scientist"
         image: assets/img/team/victorocana.jpg
         social:
       - name: "Timothy Smith"
-        role: "Graduate Research Assistant"
+        role: "former Graduate Research Assistant, now Research Associate at NOAA/PSL, Boulder, CO"
         image: assets/img/team/timsmith.jpg
         social:
           - url: https://timothyas.github.io
@@ -120,8 +137,11 @@ team:
             #- url: https://orcid.org/0000-0003-4463-6126
             #  icon: fab fa-orcid
       - name: "David Trossman"
-        role: "Research Scientist"
+        role: "former Research Scientist, now Assistant Professor, LSU, Baton Rouge, LA"
         image: assets/img/team/davidtrossman.jpg
+        social:
+          - url: https://sites.google.com/site/davidtrossman
+            icon: fas fa-globe
         
         
 publications:
