@@ -75,7 +75,7 @@ team:
           - url: https://oden.utexas.edu/people/directory/Helen-Pillar/
             icon: fas fa-globe
       - name: "Kirstin Schulz"
-        role: "Research Fellow"
+        role: "Unicorn at Sea"
         image: assets/img/team/KirstinSchulz-small.jpg
         social:
           - url: https://oden.utexas.edu/people/directory/Kirstin-Schulz/
@@ -161,6 +161,14 @@ publications:
           url: https://doi.org/10.1002/essoar.10502123.3
         #
         - citation: <h5>2022</h5>
+        - citation: "Schulz, K., Mohrholz, V., Fer, I., Janout, M., Hoppmann, M., Schaffer, J., Koenig, Z. (2022): A full year of turbulence measurements from a drift campaign in the Arctic Ocean 2019–2020. <em>Scientific Data</em> 9(1), 1-11."
+          url: https://doi.org/10.1038/s41597-022-01574-1
+        - citation: "Kawaguchi, Y., Koenig, Z., Nomura, D., Hoppmann, M., Inoue, J., Fang, Y.-C., Schulz, K., Gallagher, M., Katlein, C., Nicolaus, M., Rabe, B. (2022): Turbulent Mixing during Late Summer in the Ice–Ocean Boundary Layer in the Central Arctic Ocean: Results from the MOSAiC Expedition, <em>JGR:Oceans</em>."
+          url: https://doi.org/10.1029/2021JC017975
+        - citation: "Rabe, B., Heuze, C., Regnery, J., ... Schulz, K., ... (2022): Overview of the MOSAiC expedition: Physical Oceanography. <em>Elementa Science of the Anthropocene</em>, 10(1), 00062."
+          url: https://doi.org/10.1525/elementa.2021.00062
+        - citation: "Schulz, K., Lincoln, B., Povazhnyy, V., Rippeth, T., Lenn, Y.-D., Janout, M., Alkire, M., Scannell, B., Torres-Valdes, D. (2022): Increasing Nutrient Fluxes and Mixing Regime Changes in the Eastern Arctic Ocean, <em>Geophysical Research Letters, 49(5), e2021GL096152."
+          url: https://doi.org/10.1029/2021GL096152
         - citation: "Schulz, K., Mohrholz, V., Fer, I., Janout, M. A., Hoppmann, M., Schaffer, J., Koenig, Z., Rabe, B., Heuze, C., Regnery, J., Allerholt, J., Fang, Y.-C., He, H., Kanzow, T., Karam, S., Kuznetsov, I., Kong, B., Liu, H., Muilwijk, M., Schuffenhauer, I., Sukhikh, N., Sundfjord, A., Tippenhauer, S. (2022): Turbulent microstructure profile (MSS) measurements from the MOSAiC drift, Arctic Ocean. PANGAEA."
           url: https://doi.org/10.1594/PANGAEA.939816
         #
