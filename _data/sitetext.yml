@@ -69,7 +69,7 @@ team:
         image: assets/img/team/KylieKinne.jpeg
         social:
       - name: "Helen Pillar"
-        role: "Research Scientist"
+        role: "Research Associate"
         image: assets/img/team/helenpillar.jpg
         social:
           - url: https://oden.utexas.edu/people/directory/Helen-Pillar/
@@ -161,6 +161,10 @@ publications:
           url: https://doi.org/10.1002/essoar.10502123.3
         #
         - citation: <h5>2022</h5>
+	- citation: "Levin, L., Cimoli, L., Gjerde, K., Harden-Davies, H., Heimbach, P., LaScala-Gruenewald, D., Pachiadaki, M., Pillar, H., Smith, L., Stocks, K., Stopa, J., Wright, D. (2022): Designing, generating, and translating deep-ocean observations for and with international policy makers, <em>ICES Journal of Marine Science</em>, fsac143."
+          url: https://doi.org/10.1093/icesjms/fsac143
+	 - citation: "Smith, L., Cimoli, L., LaScala-Gruenewald, D., Pachiadaki, M., Phillips, M., Pillar, H., Stopa, J., Baumann-Pickering, S., Beaulieu, S., Bell, K., Harden-Davies, H., Gjerde, K., Heimbach, P., Howe, B., Janssen, F., Levin, L., Ruhl, H., Soule, A., Stocks, K., Vardaro, M. (2022): The Deep Ocean Observing Strategy: Addressing Global Challenges in the Deep Sea through Collaboration, <em>Marine Technology Society Journal</em>, 56(3), 50-66."
+          url: https://doi.org/10.4031/MTSJ.56.3.11
         - citation: "Schulz, K., Mohrholz, V., Fer, I., Janout, M., Hoppmann, M., Schaffer, J., Koenig, Z. (2022): A full year of turbulence measurements from a drift campaign in the Arctic Ocean 2019–2020. <em>Scientific Data</em> 9(1), 1-11."
           url: https://doi.org/10.1038/s41597-022-01574-1
         - citation: "Kawaguchi, Y., Koenig, Z., Nomura, D., Hoppmann, M., Inoue, J., Fang, Y.-C., Schulz, K., Gallagher, M., Katlein, C., Nicolaus, M., Rabe, B. (2022): Turbulent Mixing during Late Summer in the Ice–Ocean Boundary Layer in the Central Arctic Ocean: Results from the MOSAiC Expedition, <em>JGR:Oceans</em>."
