@@ -161,8 +161,10 @@ publications:
           url: https://doi.org/10.1002/essoar.10502123.3
         #
         - citation: <h5>2022</h5>
+        - citation: "Rogge, A., Janout, M., Loginova, N., Trudnowska, E., Hörstmann, C., Wekerle, C., Oziel, L., Schourup-Kristensen, V., Ruiz-Castillo, E., Schulz, K., Povazhnyy, V., Iversen M., Waite, A. (2022): Carbon dioxide sink in the Arctic Ocean from cross-shelf transport of dense Barents Sea water. <em>Nature Geoscience</em>."
+          url: https://doi.org/10.1038/s41561-022-01069-z
         - citation: "Schulz, K., Nguyen, A., Pillar, H. (2022): An Improved and Observationally-Constrained Melt Rate Parameterization for Vertical Ice Fronts of Marine Terminating Glaciers. <em>Geophysical Research Letters</em>. 49(18), e2022GL100654."
-        - url: https://doi.org/10.1029/2022GL100654
+          url: https://doi.org/10.1029/2022GL100654
         - citation: "Levin, L., Cimoli, L., Gjerde, K., Harden-Davies, H., Heimbach, P., LaScala-Gruenewald, D., Pachiadaki, M., Pillar, H., Smith, L., Stocks, K., Stopa, J., Wright, D. (2022): Designing, generating, and translating deep-ocean observations for and with international policy makers, <em>ICES Journal of Marine Science</em>, fsac143."
           url: https://doi.org/10.1093/icesjms/fsac143
         - citation: "Smith, L., Cimoli, L., LaScala-Gruenewald, D., Pachiadaki, M., Phillips, M., Pillar, H., Stopa, J., Baumann-Pickering, S., Beaulieu, S., Bell, K., Harden-Davies, H., Gjerde, K., Heimbach, P., Howe, B., Janssen, F., Levin, L., Ruhl, H., Soule, A., Stocks, K., Vardaro, M. (2022): The Deep Ocean Observing Strategy: Addressing Global Challenges in the Deep Sea through Collaboration, <em>Marine Technology Society Journal</em>, 56(3), 50-66."
