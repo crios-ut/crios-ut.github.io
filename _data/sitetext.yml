@@ -38,6 +38,12 @@ team:
         social:
             - url: https://heimbach.wordpress.com/
               icon: fas fa-globe
+      - name: "Sarah Bialik"
+        role: "Senior Research Administrator"
+        image: assets/img/team/sarahbialik.jpg
+        social:
+          - url: https://oden.utexas.edu/people/directory/Sarah%20Bialik/
+            icon: fas fa-globe
       - name: "An Nguyen"
         role: "Queen of the North"
         image: assets/img/team/annguyen.jpg
@@ -86,6 +92,10 @@ team:
         social:
           - url: https://oden.utexas.edu/people/directory/Joseph-Kump/
             icon: fas fa-globe
+      - name: "Justin Campbell"
+        role: "Graduate Research Assistant (CSEM)"
+        image: assets/img/team/justincampbell.jpg
+        social:
     peoplepast:
       - name: "Arash Bigdeli"
         role: "former Postdoc"
