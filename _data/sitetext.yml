@@ -73,8 +73,7 @@ team:
       - name: "Leslie Smith"
         role: "Visiting Scholar, iDOOS"
         image: assets/img/team/LeslieSmith.jpg
-          - url:
-            icon: fas fa-globe
+        social:
       - name: "Sarah Williamson"
         role: "Graduate Research Assistant (CSEM)"
         image: assets/img/team/sarahwilliamson.jpg
