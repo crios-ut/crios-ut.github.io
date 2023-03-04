@@ -40,7 +40,7 @@ team:
               icon: fas fa-globe
       - name: "Sarah Bialik"
         role: "Senior Research Administrator"
-        image: assets/img/team/sarahbialik.jpg
+        image: assets/img/team/sarahbialik_sq.jpg
         social:
           - url: https://oden.utexas.edu/people/directory/Sarah%20Bialik/
             icon: fas fa-globe
@@ -95,6 +95,14 @@ team:
       - name: "Justin Campbell"
         role: "Graduate Research Assistant (CSEM)"
         image: assets/img/team/justincampbell.jpg
+        social:
+      - name: "Matthew Goldberg"
+        role: "Graduate Research Assistant (CSEM)"
+        image: assets/img/team/ocean.jpg
+        social:
+      - name: "Max Trostel"
+        role: "Graduate Research Assistant (CSEM)"
+        image: assets/img/team/ocean.jpg
         social:
     peoplepast:
       - name: "Arash Bigdeli"
