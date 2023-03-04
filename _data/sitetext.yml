@@ -50,20 +50,6 @@ team:
         social:
           - url: https://www.oden.utexas.edu/people/1464/
             icon: fas fa-globe
-      - name: "Ivana Escobar"
-        role: "Graduate Research Assistant (CSEM)"
-        image: assets/img/team/ivanaescobar.jpg
-        social:
-          - url: https://oden.utexas.edu/people/directory/Ivana-Escobar/
-            icon: fas fa-globe
-          - url: https://github.com/IvanaEscobar
-            icon: fab fa-github
-      - name: "Shreyas Gaikwad"
-        role: "Graduate Research Assistant (CSEM)"
-        image: assets/img/team/ShreyasGaikwad.jpg
-        social:
-          - url: https://oden.utexas.edu/people/directory/Shreyas-Gaikwad/
-            icon: fas fa-globe
       - name: "Helen Pillar"
         role: "Research Associate"
         image: assets/img/team/helenpillar.jpg
@@ -80,6 +66,20 @@ team:
         role: "Visiting Scholar, iDOOS"
         image: assets/img/team/LeslieSmith.jpg
         social:
+      - name: "Ivana Escobar"
+        role: "Graduate Research Assistant (CSEM)"
+        image: assets/img/team/ivanaescobar.jpg
+        social:
+          - url: https://oden.utexas.edu/people/directory/Ivana-Escobar/
+            icon: fas fa-globe
+          - url: https://github.com/IvanaEscobar
+            icon: fab fa-github
+      - name: "Shreyas Gaikwad"
+        role: "Graduate Research Assistant (CSEM)"
+        image: assets/img/team/ShreyasGaikwad.jpg
+        social:
+          - url: https://oden.utexas.edu/people/directory/Shreyas-Gaikwad/
+            icon: fas fa-globe
       - name: "Sarah Williamson"
         role: "Graduate Research Assistant (CSEM)"
         image: assets/img/team/sarahwilliamson.jpg
@@ -98,11 +98,11 @@ team:
         social:
       - name: "Matthew Goldberg"
         role: "Graduate Research Assistant (CSEM)"
-        image: assets/img/team/ocean.jpg
+        image: assets/img/team/ocean2.jpg
         social:
       - name: "Max Trostel"
         role: "Graduate Research Assistant (CSEM)"
-        image: assets/img/team/ocean.jpg
+        image: assets/img/team/ocean2.jpg
         social:
     peoplepast:
       - name: "Arash Bigdeli"
