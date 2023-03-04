@@ -44,12 +44,6 @@ team:
         social:
           - url: https://www.oden.utexas.edu/people/1464/
             icon: fas fa-globe
-      - name: "Susan M. Rodriguez"
-        role: "The CEO"
-        image: assets/img/team/susanrodriguez-2.jpg
-        social:
-          - url: https://www.oden.utexas.edu/people/368/
-            icon: fas fa-globe
       - name: "Ivana Escobar"
         role: "Graduate Research Assistant (CSEM)"
         image: assets/img/team/ivanaescobar.jpg
@@ -64,10 +58,6 @@ team:
         social:
           - url: https://oden.utexas.edu/people/directory/Shreyas-Gaikwad/
             icon: fas fa-globe
-      - name: "Kylie Kinne"
-        role: "Research Scientist Assistant"
-        image: assets/img/team/KylieKinne.jpeg
-        social:
       - name: "Helen Pillar"
         role: "Research Associate"
         image: assets/img/team/helenpillar.jpg
@@ -83,11 +73,7 @@ team:
       - name: "Leslie Smith"
         role: "Visiting Scholar, iDOOS"
         image: assets/img/team/LeslieSmith.jpg
-      - name: "Yanzhou Wei"
-        role: "Postdoc"
-        image: assets/img/team/WeiYanzhou.jpg
-        social:
-          - url: https://oden.utexas.edu/people/directory/Yanzhou-Wei/
+          - url:
             icon: fas fa-globe
       - name: "Sarah Williamson"
         role: "Graduate Research Assistant (CSEM)"
@@ -141,6 +127,20 @@ team:
         image: assets/img/team/davidtrossman.jpg
         social:
           - url: https://sites.google.com/site/davidtrossman
+            icon: fas fa-globe
+      - name: "Kylie Kinne"
+        role: "Research Scientist Assistant"
+        image: assets/img/team/KylieKinne.jpeg
+        social:
+      - name: "Yanzhou Wei"
+        role: "Postdoc"
+        image: assets/img/team/WeiYanzhou.jpg
+        social:
+      - name: "Susan M. Rodriguez"
+        role: "The CEO"
+        image: assets/img/team/susanrodriguez-2.jpg
+        social:
+          - url: https://www.oden.utexas.edu/people/368/
             icon: fas fa-globe
         
         
