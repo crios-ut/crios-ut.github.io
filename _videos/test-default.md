@@ -9,7 +9,7 @@ video: /assets/video/crios-44-54.mp4
 image:
 # optional: override the preview image alternative text
 alt:
-# video preview image ratio: 16/9, 4/3, etc.
+# video preview image ratio: 16/10, 16/9, 4/3, etc.
 ratio: 16/9
 # set visible: true for the video to appear in the Videos collection
 visible: false

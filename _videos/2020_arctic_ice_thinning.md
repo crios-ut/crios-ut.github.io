@@ -4,7 +4,7 @@ author: Arash Bigdeli, et al.
 image:
 alt: Play Video
 video: https://vimeo.com/664185761
-ratio: 16/9
+ratio: 16/10
 date: 2020-12-30
 visible: true
 tags:

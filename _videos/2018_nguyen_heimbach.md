@@ -4,7 +4,7 @@ author: Nguyen/Heimbach Group
 image:
 alt: Play Video
 video: https://vimeo.com/521800355
-ratio: 16/9
+ratio: 16/10
 date: 2018-11-02
 visible: true
 ---

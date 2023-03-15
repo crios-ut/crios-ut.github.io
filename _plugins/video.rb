@@ -54,7 +54,7 @@ class Video < Liquid::Tag
     ratio = if @ratio
       @ratio.render(context)
     else
-      "16:9"
+      "16/9"
     end
 
     id, image, alt = @@cache.getset("#{url}#{image}#{alt}") do

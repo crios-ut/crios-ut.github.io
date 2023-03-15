@@ -4,7 +4,7 @@ author: Tim Smith
 image:
 alt: Play Video 'Accessing and analyzing ASTE Release 1 Output'
 video: https://vimeo.com/521891448
-ratio: 16/9
+ratio: 16/10
 date: 2020-10-03
 visible: true
 tags:

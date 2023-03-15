@@ -4,7 +4,7 @@ author: Helen Pillar, Nora Loose
 image:
 alt: Play Video
 video: https://vimeo.com/664185789
-ratio: 16/9
+ratio: 16/10
 date: 2020-12-31
 visible: true
 tags:
