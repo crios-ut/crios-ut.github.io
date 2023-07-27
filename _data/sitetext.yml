@@ -178,17 +178,17 @@ publications:
           url: https://doi.org/10.1002/essoar.10502123.3
         #
         - citation: <h5>2023</h5>
-        - citation: "Schulz, K., Kadko, D., Mohrholz, V., Stephens, M., & Fer, I. (2023). Winter vertical diffusion rates in the Arctic Ocean, estimated from 7Be measurements and dissipation rate profiles. <em>Journal of Geophysical Research: Oceans</em> e2022JC019197."
-        - url: https://doi.org/10.1029/2022JC019197
-        - citation: "Ruiz‐Castillo, E., Janout, M., Hölemann, J., Kanzow, T., Schulz, K., & Ivanov, V. (2023). Structure and seasonal variability of the Arctic Boundary Current north of Severnaya Zemlya. <em>Journal of Geophysical Research: Oceans</em> 128(1), e2022JC018677."
-        - url: https://doi.org/10.1029/2022JC018677
+        - citation: "Schulz, K., Kadko, D., Mohrholz, V., Stephens, M., Fer, I. (2023): Winter Vertical Diffusion Rates in the Arctic Ocean, Estimated From 7Be Measurements and Dissipation Rate Profiles. <em>JGR: Oceans 128</em>, 128(2), e2022JC019197."
+          url: https://doi.org/10.1029/2022JC019197
+        - citation: "Ruiz‐Castillo, E., Janout, M., Hölemann, J., Kanzow, T., Schulz, K., Ivanov, V. (2023): Structure and seasonal variability of the Arctic Boundary Current north of Severnaya Zemlya. <em>JGR: Oceans</em>, 128(1), e2022JC018677."
+          url: https://doi.org/10.1029/2022JC018677
+        - citation: "van Maren, D.S., Maushake, C., Mol, J.W., van Keulen, D., Jürges, J., Vroom, J., Schuttelaars, H., Gerkema, T., Schulz, K., Badewien, T.H., Gerriets, M. (2023): Synoptic observations of sediment transport and exchange mechanisms in the turbid Ems Estuary: the EDoM campaign. <em>Earth System Science Data</em>, 15(1), pp.53-73."
+          url: https://doi.org/10.5194/essd-15-53-2023
+        - citation: "Rogge, A., Janout, M., Loginova, N., Trudnowska, E., Hörstmann, C., Wekerle, C., Oziel, L., Schourup-Kristensen, V., Ruiz-Castillo, E., Schulz, K., Povazhnyy, V.V. (2023): Carbon dioxide sink in the Arctic Ocean from cross-shelf transport of dense Barents Sea water. <em>Nature Geoscience</em>, 16(1), pp.82-88."
+          url: https://doi.org/10.1038/s41561-022-01069-z
         #
         - citation: <h5>2022</h5>
-        - citation: "van Maren, D. S., Maushake, C., Mol, J.-W., van Keulen, D., Jürges, J., Vroom, J., Schuttelaars, H., Gerkema, T., Schulz, K. et al. (2022): Synoptic observations of sediment transport and exchange mechanisms in the turbid Ems estuary: The EDoM campaign. <em>Earth System Science Data</em> 15, 53-73."
-          url: https://doi.org/10.5194/essd-15-53-2023
-        - citation: "Rogge, A., Janout, M., Loginova, N., Trudnowska, E., Hörstmann, C., Wekerle, C., Oziel, L., Schourup-Kristensen, V., Ruiz-Castillo, E., Schulz, K., Povazhnyy, V., Iversen M., Waite, A. (2022): Carbon dioxide sink in the Arctic Ocean from cross-shelf transport of dense Barents Sea water. <em>Nature Geoscience</em>."
-          url: https://doi.org/10.1038/s41561-022-01069-z
-        - citation: "Schulz, K., Nguyen, A., Pillar, H. (2022): An Improved and Observationally-Constrained Melt Rate Parameterization for Vertical Ice Fronts of Marine Terminating Glaciers. <em>Geophysical Research Letters</em> 49(18), e2022GL100654."
+        - citation: "Schulz, K., Nguyen, A., Pillar, H. (2022): An Improved and Observationally-Constrained Melt Rate Parameterization for Vertical Ice Fronts of Marine Terminating Glaciers. <em>Geophysical Research Letters</em>. 49(18), e2022GL100654."
           url: https://doi.org/10.1029/2022GL100654
         - citation: "Levin, L., Cimoli, L., Gjerde, K., Harden-Davies, H., Heimbach, P., LaScala-Gruenewald, D., Pachiadaki, M., Pillar, H., Smith, L., Stocks, K., Stopa, J., Wright, D. (2022): Designing, generating, and translating deep-ocean observations for and with international policy makers, <em>ICES Journal of Marine Science</em>, fsac143."
           url: https://doi.org/10.1093/icesjms/fsac143
