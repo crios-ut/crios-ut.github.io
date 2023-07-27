@@ -6,5 +6,3 @@
 #Image Customization
 header-image: "../img/arctic_viz.png"
 bottom-image: "../img/perpetual_ocean_gulf_stream.jpg"
-default-video-thumbnail: "assets/img/arctic_preview.jpg"
-default-video-alternative: "Play video"

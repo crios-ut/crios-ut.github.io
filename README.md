@@ -20,16 +20,6 @@ created by [raviriley](https://github.com/raviriley).
     
 - text below this is rendered as kramdown markdown, see [here](https://kramdown.gettalong.org/quickref.html) for a syntax guide
 
-## Adding to the "Videos" section
-
-- Add a file in the `_videos` folder. You can copy an existing file to see the structure and possible fields.
-    The first half of the file (separated by `---` lines) specifies the meta data, like URL and filter tags,
-    the second half can be used to add content below the video embed.
-- The video embedding supports URLs from Vimeo and YouTube.
-- Tags are used to provide a filter dropdown. The possible tags are configured in `_data/sitetext.yml`, each
-    having two strings: the visible name in the dropdown, and the internal filter key, which must not contain 
-    spaces. These keys are used in the `tags:` field of the video.
-
 ## Instructions to build the website locally
 
 0. Install bundler if you do not already have it

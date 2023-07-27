@@ -7,13 +7,10 @@ nav:
 
   - title: "Research"
     url: research
-
+    
   - title: "Outreach"
     url: outreach
-
-  - title: "Videos"
-    url: videos
-
+    
   - title: "Group"
     url: team
 
