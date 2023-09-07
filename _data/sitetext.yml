@@ -88,7 +88,7 @@ team:
         role: "Unicorn at Sea"
         image: assets/img/team/KirstinSchulz-small.jpg
         social:
-          - url: https://oden.utexas.edu/people/directory/Kirstin-Schulz/
+          - url: https://www.unicornatsea.de/
             icon: fas fa-globe
       - name: "Leslie Smith"
         role: "Visiting Scholar, iDOOS"
@@ -205,6 +205,8 @@ publications:
           url: https://doi.org/10.1002/essoar.10502123.3
         #
         - citation: <h5>2023</h5>
+        - citation: "Mohn, C., Hansen, J. L., Carreiro-Silva, M., Cunningham, S. A., de Froe, E., Dominguez-Carrió, C., S. Gary, Glud, R., Goeke, C., Johnson, C., Morato, T., Møller, E., Rovelli, L., Schulz, K., Soetaert, K., van der Kaaden, A., van Oevelen, D. (2023):  Tidal to decadal scale hydrodynamics at two contrasting cold-water coral sites in the Northeast Atlantic. <em>Progress in Oceanography</em>, 214, 103031."
+          url: https://doi.org/10.1016/j.pocean.2023.103031
         - citation: "Schulz, K., Kadko, D., Mohrholz, V., Stephens, M., Fer, I. (2023): Winter Vertical Diffusion Rates in the Arctic Ocean, Estimated From 7Be Measurements and Dissipation Rate Profiles. <em>JGR: Oceans 128</em>, 128(2), e2022JC019197."
           url: https://doi.org/10.1029/2022JC019197
         - citation: "Ruiz‐Castillo, E., Janout, M., Hölemann, J., Kanzow, T., Schulz, K., Ivanov, V. (2023): Structure and seasonal variability of the Arctic Boundary Current north of Severnaya Zemlya. <em>JGR: Oceans</em>, 128(1), e2022JC018677."

@@ -41,4 +41,4 @@ observing strategy.
 
 
 {:.list-inline}
-- Related CRIOS publications: Antarctica - Goldberg et al., <em>Earth and Space Science Open Archive</em> (2020); Goldberg et al., <em>Ocean Modelling</em> (2018), Jordan et al., <em>J. Geophys. Res.</em> (2018); Goldberg et al., <em>The Cryosphere</em> (2015). Greenland - Straneo et al., <em>Front. Mar. Sci.</em> (2019); Wilson et al., <em>The Cryosphere</em> (2017).
+- Related CRIOS publications: Antarctica - Goldberg et al., <em>Earth and Space Science Open Archive</em> (2020); Goldberg et al., <em>Ocean Modelling</em> (2018), Jordan et al., <em>J. Geophys. Res.</em> (2018); Goldberg et al., <em>The Cryosphere</em> (2015). Greenland - Straneo et al., <em>Front. Mar. Sci.</em> (2019); Wilson et al., <em>The Cryosphere</em> (2017); Schulz et al., <em>GRL</em> (2022).
