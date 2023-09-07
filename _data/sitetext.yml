@@ -1,6 +1,6 @@
 header:
     title: Computational Research <br>in Ice and Ocean Systems
-    text:
+    text: 
     button: #Research
     buttonlink: #"research" # "#{section}" or "URL/page link"
 
@@ -9,36 +9,8 @@ about:
     section: about
     image: assets/img/team/crios.jpg
     text: "The Computational Research in Ice and Ocean group (CRIOS) at the <a href='https://www.oden.utexas.edu/'> Oden Institute for Computational Engineering and Sciences</a>, <a href='https://www.utexas.edu'> The University of Texas at Austin</a> applies advanced computational methods to improve the understanding of the role of the global ocean, sea ice and the polar ice sheets in the climate system. Using Bayesian inverse methods and scientific machine learning, in particular, we work toward optimal extraction of information contained in observations and in the governing equations of motion, rendered as numerical models. Improved mechanistic understanding is essential for developing robust climate reconstructions and predictions with quantified uncertainties. Within UT Austin, CRIOS members are affiliated with the <a href='https://www.jsg.utexas.edu/'> Jackson School of Geosciences</a> and the <a href='https://ig.utexas.edu/'> Institute for Geophysics</a>, the Oden Institute’s <a href='https://www.oden.utexas.edu/research/centers-groups/scientific-machine-learning/'> Center for Scientific Machine Learning</a> and the <a href='https://www.oden.utexas.edu/research/centers-groups/ccgo/'> Center for Computational Geosciences and Optimization</a>. CRIOS is also involved in a number of national and international research collaborations."
-
+    
     # The group’s research rests on the recognition that these Earth system components remain insufficiently sampled by observations. So the group works toward optimal extraction of information contained in available observations through formal synthesis with known dynamics. The dynamics, in turn, is encapsulated in the governing equations of motion and rendered in state-of-the-art numerical models. Improved mechanistic understanding along with uncertainty characterization are essential prerequisites for developing robust climate predictions with quantified uncertainties. CRIOS is involved in a number of formal and informal, national and international research collaborations, including the UK, Norway, Germany, Japan, and Australia. The group is pursuing several main research thrusts.
-
-videos:
-    title: "Videos"
-    # Each tag has two strings: the visible name in the dropdown, and the internal filter key, which must not contain spaces.
-    # These keys are used in the `tags:` field of the video metadata.
-    tags:
-        - name: "ECCO"
-          value: ecco
-        - name: "ASTE"
-          value: aste
-        - name: "OSNAP"
-          value: osnap
-        - name: "Data assimilation"
-          value: data_assim
-        - name: "Arctic Sea Ice"
-          value: arctic_ice
-        - name: "Arctic Ocean"
-          value: arctic_ocean
-        - name: "Uncertainty Quantification"
-          value: uncertainty
-        - name: "Atlantic Ocean/AMOC"
-          value: amoc
-        - name: "Observing System Design"
-          value: osd
-        - name: "Adjoint Methods"
-          value: adjoint_methods
-        - name: "Xarray/Dask"
-          value: xarray_dask
 
 news:
     title: "News"
@@ -47,7 +19,7 @@ research:
     title: "Research"
     text: "Ongoing projects within CRIOS"
     url: research
-
+    
 outreach:
     title: "Outreach"
     text: "Events and ongoing efforts in the community"
@@ -57,7 +29,7 @@ team:
     title: "Research Group"
     textnow: "Current Members"
     textpast: "Past Members"
-    subtext:
+    subtext: 
     url: team
     peoplenow:
       - name: "Patrick Heimbach"
@@ -188,10 +160,11 @@ team:
           - url: https://www.oden.utexas.edu/people/368/
             icon: fas fa-globe
         
+        
 publications:
     title: "Publications"
     url: publications
-    text:
+    text: 
     papers:
         # Instructions
         # ------------
@@ -261,7 +234,7 @@ publications:
           url: https://doi.org/10.2172/1617372
         - citation: "Logan, L.C., S.H.K. Narayanan, R. Greve, and P. Heimbach, 2020: SICOPOLIS-AD v1: an open-source adjoint modeling framework for ice sheet simulation enabled by the algorithmic differentiation tool OpenAD. <em>Geosci. Model Dev.</em>, 13, 1845-1864."
           url: https://doi.org/10.5194/gmd-13-1845-2020
-        - citation: "Loose, N., P. Heimbach, H. Pillar, and K. Nisancioglu, 2020: Quantifying Dynamical Proxy Potential through Shared Adjustment Physics in the North Atlantic. <em>J. Geophys. Res.</em>, 125(9)"
+        - citation: "Loose, N., P. Heimbach, H. Pillar, and K. Nisancioglu, 2020: Quantifying Dynamical Proxy Potential through Shared Adjustment Physics in the North Atlantic. <em>J. Geophys. Res.</em>, 125(9)" 
           url: https://doi.org/10.1029/2020JC016112
         - citation: "Moon, T., T. Scambos, W. Abdalati, A. Ahlstrom, R. Bindschadler, J. Gambill, P. Heimbach, R. Hock, K. Langley, I. Miller, and M. Truffer, 2020: Ending a sea of confusion: A scientist perspective on lessons and opportunities in sea level change communication. <em>Environment Magazine</em>, 62(5), 4-15"
           url: https://doi.org/10.1080/00139157.2020.1791627
@@ -371,7 +344,7 @@ footer:
               - url: https://github.com/crios-ut
                 icon: "fab fa-github"
               - url: https://twitter.com/crios_utaustin
-                icon: "fab fa-twitter"
+                icon: "fab fa-twitter"  
         #      - url: https://instagram.com
         #        icon: "fab fa-instagram"
 
