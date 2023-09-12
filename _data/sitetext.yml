@@ -96,6 +96,10 @@ team:
         role: "Graduate Research Assistant (CSEM)"
         image: assets/img/team/justincampbell.jpg
         social:
+      - name: "Meg Murakami"
+        role: "Graduate Research Assistant (GEO)"
+        image: assets/img/team/MegMurakami.jpeg
+        social:
       - name: "Matthew Goldberg"
         role: "Graduate Research Assistant (CSEM)"
         image: assets/img/team/ocean2.jpg
