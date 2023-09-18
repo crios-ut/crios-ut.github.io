@@ -100,10 +100,6 @@ team:
             icon: fas fa-globe
           - url: https://github.com/trostelm
             icon: fab fa-github
-          - url: https://orcid.org/0000-0001-9743-0303
-            icon: fab fa-orcid
-          - url: https://scholar.google.com/citations?user=mhrZelAAAAAJ&hl=en
-            icon: fab fa-googlescholar
       - name: "Justin Campbell"
         role: "Graduate Research Assistant (CSEM)"
         image: assets/img/team/justincampbell.jpg
