@@ -92,6 +92,14 @@ team:
         social:
           - url: https://oden.utexas.edu/people/directory/Joseph-Kump/
             icon: fas fa-globe
+      - name: "Max Trostel"
+        role: "Graduate Research Assistant (Physics)"
+        image: assets/img/team/MaxTrostel.JPG
+        social:
+          - url: https://maxtrostel.com
+            icon: fas fa-globe
+          - url: https://github.com/trostelm
+            icon: fab fa-github
       - name: "Justin Campbell"
         role: "Graduate Research Assistant (CSEM)"
         image: assets/img/team/justincampbell.jpg
@@ -104,10 +112,7 @@ team:
         role: "Graduate Research Assistant (CSEM)"
         image: assets/img/team/ocean2.jpg
         social:
-      - name: "Max Trostel"
-        role: "Graduate Research Assistant (CSEM)"
-        image: assets/img/team/ocean2.jpg
-        social:
+
     peoplepast:
       - name: "Arash Bigdeli"
         role: "former Postdoc"
