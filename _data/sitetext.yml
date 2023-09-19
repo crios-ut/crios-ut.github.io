@@ -94,7 +94,7 @@ team:
             icon: fas fa-globe
       - name: "Max Trostel"
         role: "Graduate Research Assistant (Physics)"
-        image: assets/img/team/MaxTrostel.JPG
+        image: assets/img/team/maxtrostel.png
         social:
           - url: https://maxtrostel.com
             icon: fas fa-globe
