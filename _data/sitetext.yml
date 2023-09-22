@@ -110,8 +110,12 @@ team:
         social:
       - name: "Matthew Goldberg"
         role: "Graduate Research Assistant (CSEM)"
-        image: assets/img/team/ocean2.jpg
+        image: assets/img/team/MattGoldberg.jpeg
         social:
+          - url: https://oden.utexas.edu/people/directory/Matt-Goldberg/
+            icon: fas fa-globe
+          - url: https://github.com/mgoldberg10
+            icon: fab fa-github
 
     peoplepast:
       - name: "Arash Bigdeli"
