@@ -108,6 +108,10 @@ team:
         role: "Graduate Research Assistant (GEO)"
         image: assets/img/team/MegMurakami.jpeg
         social:
+          - url: https://margaretmurakami.github.io/
+            icon: fas fa-globe
+          - url: https://github.com/margaretmurakami
+            icon: fab fa-github
       - name: "Matthew Goldberg"
         role: "Graduate Research Assistant (CSEM)"
         image: assets/img/team/MattGoldberg.jpeg
