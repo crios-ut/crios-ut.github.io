@@ -7,8 +7,8 @@ header:
 about:
     title: "About Us"
     section: about
-    image: assets/img/team/crios.jpg
-    text: "The Computational Research in Ice and Ocean group (CRIOS) at the <a href='https://www.oden.utexas.edu/'> Oden Institute for Computational Engineering and Sciences</a>, <a href='https://www.utexas.edu'> The University of Texas at Austin</a> applies advanced computational methods to improve the understanding of the role of the global ocean, sea ice and the polar ice sheets in the climate system. Using Bayesian inverse methods and scientific machine learning, in particular, we work toward optimal extraction of information contained in observations and in the governing equations of motion, rendered as numerical models. Improved mechanistic understanding is essential for developing robust climate reconstructions and predictions with quantified uncertainties. Within UT Austin, CRIOS members are affiliated with the <a href='https://www.jsg.utexas.edu/'> Jackson School of Geosciences</a> and the <a href='https://ig.utexas.edu/'> Institute for Geophysics</a>, the Oden Institute’s <a href='https://www.oden.utexas.edu/research/centers-groups/scientific-machine-learning/'> Center for Scientific Machine Learning</a> and the <a href='https://www.oden.utexas.edu/research/centers-groups/ccgo/'> Center for Computational Geosciences and Optimization</a>. CRIOS is also involved in a number of national and international research collaborations."
+    image: assets/img/team/crios-team-2023.jpg
+    text: "The Computational Research in Ice and Ocean Systems (CRIOS) group at the <a href='https://www.oden.utexas.edu/'> Oden Institute for Computational Engineering and Sciences</a>, <a href='https://www.utexas.edu'> The University of Texas at Austin</a> applies advanced computational methods to improve the understanding of the role of the global ocean, sea ice and the polar ice sheets in the climate system. Using Bayesian inverse methods and scientific machine learning, in particular, we work toward optimal extraction of information contained in observations and in the governing equations of motion, rendered as numerical models. Improved mechanistic understanding is essential for developing robust climate reconstructions and predictions with quantified uncertainties. Within UT Austin, CRIOS members are affiliated with the <a href='https://www.jsg.utexas.edu/'> Jackson School of Geosciences</a> and the <a href='https://ig.utexas.edu/'> Institute for Geophysics</a>, the Oden Institute’s <a href='https://www.oden.utexas.edu/research/centers-groups/scientific-machine-learning/'> Center for Scientific Machine Learning</a> and the <a href='https://www.oden.utexas.edu/research/centers-groups/ccgo/'> Center for Computational Geosciences and Optimization</a>. CRIOS is also involved in a number of national and international research collaborations."
     
     # The group’s research rests on the recognition that these Earth system components remain insufficiently sampled by observations. So the group works toward optimal extraction of information contained in available observations through formal synthesis with known dynamics. The dynamics, in turn, is encapsulated in the governing equations of motion and rendered in state-of-the-art numerical models. Improved mechanistic understanding along with uncertainty characterization are essential prerequisites for developing robust climate predictions with quantified uncertainties. CRIOS is involved in a number of formal and informal, national and international research collaborations, including the UK, Norway, Germany, Japan, and Australia. The group is pursuing several main research thrusts.
 
@@ -100,10 +100,6 @@ team:
             icon: fas fa-globe
           - url: https://github.com/trostelm
             icon: fab fa-github
-      - name: "Justin Campbell"
-        role: "Graduate Research Assistant (CSEM)"
-        image: assets/img/team/justincampbell.jpg
-        social:
       - name: "Margaret Murakami"
         role: "Graduate Research Assistant (GEO)"
         image: assets/img/team/MegMurakami.jpeg
@@ -120,6 +116,10 @@ team:
             icon: fas fa-globe
           - url: https://github.com/mgoldberg10
             icon: fab fa-github
+      - name: "Shoshana (Shoshi) Reich"
+        role: "Graduate Research Assistant (CSEM)"
+        social:
+          - url: https://oden.utexas.edu/people/directory/Shoshana-Reich/
 
     peoplepast:
       - name: "Arash Bigdeli"
@@ -137,7 +137,7 @@ team:
         image: assets/img/team/UlrikeHeine.jpg
         social:
       - name: "Nora Loose"
-        role: "former Postdoc, now Postdoc at CU Boulder"
+        role: "former Postdoc, now Postdoc at Princeton University"
         image: assets/img/team/noraloose.jpg
         social:
           - url: https://noraloose.github.io
@@ -163,11 +163,11 @@ team:
           - url: https://sites.google.com/site/davidtrossman
             icon: fas fa-globe
       - name: "Kylie Kinne"
-        role: "Research Scientist Assistant"
+        role: "former Research Scientist Assistant, now graduate student at SIO/UCSD"
         image: assets/img/team/KylieKinne.jpeg
         social:
       - name: "Yanzhou Wei"
-        role: "Postdoc"
+        role: "former Postdoc"
         image: assets/img/team/WeiYanzhou.jpg
         social:
       - name: "Susan M. Rodriguez"
@@ -191,10 +191,22 @@ publications:
         # 3. It's safest to put the citation in between quotes ""
         #
         - citation: <h5>Submitted</h5>
-        - citation: "Trossman, D.S., T. Haine, A.F. Waterhouse, A. Bigdeli, M. Mazloff, C.B. Whalen, A.T. Nguyen, P. Heimbach, and R. Kovach, 2020: Tracer and observationally-derived constraints on horizontal and diapycnal diffusivities in ocean models. <em>J. Adv. Model. Earth Syst.</em>, submitted."
+        - citation: "Fahad, A. A., A. Molod, D. Menemenlis, P. Heimbach, A. Trayanov, E. Strobach, L. Coy, K. Wargan, 2022: The Nonlinear Northern Hemisphere Stratospheric Temperature Response to External Radiative Forcing in Decadal Climate Simulations. <em>J. Climate</em>, submitted"
           url: https://doi.org/10.1002/essoar.10502123.3
         #
         - citation: <h5>2023</h5>
+        - citation: "Ciliberti, S. A., et al., 2023: Evaluation of operational ocean forecasting systems from the perspective of the users and the experts. State Planet, 1-osr7, 2"
+          url: https://doi.org/10.5194/sp-1-osr7-2-2023
+        - citation: "Findell, K. L., R. T. Sutton, N. Caltabiano, A. Brookshaw, P. Heimbach, M. Kimoto, S Osprey, D. Smith, J. S. Risbey, Z. Wang, L. Cheng, L. Diaz, M. G. Donat, M. Ek, Y.-J. Lee, S. Minobe, M. Rusticucci, F. Vitart, and L. Wang, 2022: Explaining and Predicting Earth System Change: A World Climate Research Programme Call to Action. Bull. Amer. Met. Soc., 104(1), E325-E339"
+          url: https://doi.org/10.1175/BAMS-D-21-0280.1
+        - citation: "Frolov, S, C.S. Rousseaux, T. Auligne, D. Dee, R. Gelaro, P. Heimbach, I. Simpson, and L. Slivinski, 2023: Road Map for the Next Decade of Earth System Reanalysis in the United States. Bull. Amer. Met. Soc., 104(3), E706-E714"
+          url: https://doi.org/10.1175/BAMS-D-23-0011.1
+        - citation: "Gaikwad, S. S., L. Hasco¨et, S. H. K. Narayanan, L. Curry-Logan, R. Greve, and P. Heimbach, 2023: SICOPOLIS-AD v2: tangent linear and adjoint modeling framework for ice sheet modeling enabled by automatic differentiation tool Tapenade. Journal of Open Source Software, 8(83), 4679"
+          url: https://doi.org/10.21105/joss.04679
+        - citation: "Halpern, D., M. Le, T.A. Smith, and P. Heimbach, 2023: Accuracy of the Pacific Equatorial Undercurrent in the Global State Estimate ECCOv4. J. Atmos. Ocean-Technol., 40, 1369-1381"
+          url: https://doi.org/10.1175/JTECH-D-23-0013.1
+        - citation: "Hoffman, L., M. M. Mazloff, S. T. Gille, D. Giglio, K. Matsuyoshia, C. Bitz, P. Heimbach, and K. Matsuyoshi, 2023: Machine learning for daily forecasts of Arctic sea-ice motion: an attribution assessment of model predictive skill. Artificial Intelligence for the Earth Systems, 2(4)"
+          url: https://doi.org/10.1175/AIES-D-23-0004.1
         - citation: "Smith, M., Angot, H., Chamberlain, E., Droste, E., Karam, S., Muilwijk, M., Webb, A., Archer, S., Beck, I., Blomquist, B., Bowman, J., Boyer, M., Bozzato, D., Chierici, M., Creamean, J., D’Angelo, A., Delille, B., Fer, I., Fong, A., Fransson, A., Fuchs, N., Gardner, J., Granskog, M., Hoppe, C., Hoppema, M., Hoppmann, M., Mock, T., Muller, S., Müller, O., Nicolaus, M., Nomura, D., Petäjä, T., Salganik, E., Schmale, J., Schmidt, K., Schulz, K., Shupe, M., Stefels, J., Thielke, L., Tippenhauer, S., Ulfsbo, A., van Leeuwe, M., Webster, M., Yoshimura, M., Zhan, L. (2023): Thin and transient meltwater layers and false bottoms in the Arctic sea ice pack — Recent insights on these historically overlooked features. <em>Elementa Science of the Anthropocene</em>, 11(1), 00025."
           url: https://doi.org/10.1525/elementa.2023.00025
         - citation: "Mohn, C., Hansen, J. L., Carreiro-Silva, M., Cunningham, S. A., de Froe, E., Dominguez-Carrió, C., S. Gary, Glud, R., Goeke, C., Johnson, C., Morato, T., Møller, E., Rovelli, L., Schulz, K., Soetaert, K., van der Kaaden, A., van Oevelen, D. (2023):  Tidal to decadal scale hydrodynamics at two contrasting cold-water coral sites in the Northeast Atlantic. <em>Progress in Oceanography</em>, 214, 103031."
@@ -207,24 +219,34 @@ publications:
           url: https://doi.org/10.5194/essd-15-53-2023
         - citation: "Rogge, A., Janout, M., Loginova, N., Trudnowska, E., Hörstmann, C., Wekerle, C., Oziel, L., Schourup-Kristensen, V., Ruiz-Castillo, E., Schulz, K., Povazhnyy, V.V. (2023): Carbon dioxide sink in the Arctic Ocean from cross-shelf transport of dense Barents Sea water. <em>Nature Geoscience</em>, 16(1), pp.82-88."
           url: https://doi.org/10.1038/s41561-022-01069-z
+        - citation: "Wunsch, C., Williamson, S, and P. Heimbach, 2023: Potential Artifacts In Conservation Laws and Invariants Inferred from Sequential State Estimation. Ocean Science, 19(4), 1253-1275"
+          url: https://doi.org/10.5194/os-19-1253-2023
         #
         - citation: <h5>2022</h5>
-        - citation: "Schulz, K., Nguyen, A., Pillar, H. (2022): An Improved and Observationally-Constrained Melt Rate Parameterization for Vertical Ice Fronts of Marine Terminating Glaciers. <em>Geophysical Research Letters</em>. 49(18), e2022GL100654."
-          url: https://doi.org/10.1029/2022GL100654
-        - citation: "Levin, L., Cimoli, L., Gjerde, K., Harden-Davies, H., Heimbach, P., LaScala-Gruenewald, D., Pachiadaki, M., Pillar, H., Smith, L., Stocks, K., Stopa, J., Wright, D. (2022): Designing, generating, and translating deep-ocean observations for and with international policy makers, <em>ICES Journal of Marine Science</em>, fsac143."
-          url: https://doi.org/10.1093/icesjms/fsac143
-        - citation: "Smith, L., Cimoli, L., LaScala-Gruenewald, D., Pachiadaki, M., Phillips, M., Pillar, H., Stopa, J., Baumann-Pickering, S., Beaulieu, S., Bell, K., Harden-Davies, H., Gjerde, K., Heimbach, P., Howe, B., Janssen, F., Levin, L., Ruhl, H., Soule, A., Stocks, K., Vardaro, M. (2022): The Deep Ocean Observing Strategy: Addressing Global Challenges in the Deep Sea through Collaboration, <em>Marine Technology Society Journal</em>, 56(3), 50-66."
-          url: https://doi.org/10.4031/MTSJ.56.3.11
-        - citation: "Schulz, K., Mohrholz, V., Fer, I., Janout, M., Hoppmann, M., Schaffer, J., Koenig, Z. (2022): A full year of turbulence measurements from a drift campaign in the Arctic Ocean 2019–2020. <em>Scientific Data</em> 9(1), 1-11."
-          url: https://doi.org/10.1038/s41597-022-01574-1
+        - citation: "Heimbach, P., 2022: The Computational Science of Klaus Hasselmann. Computing in Science and Engineering, 24(4), 40-53"
+          url: https://doi.org/10.1109/MCSE.2022.3195105
         - citation: "Kawaguchi, Y., Koenig, Z., Nomura, D., Hoppmann, M., Inoue, J., Fang, Y.-C., Schulz, K., Gallagher, M., Katlein, C., Nicolaus, M., Rabe, B. (2022): Turbulent Mixing during Late Summer in the Ice–Ocean Boundary Layer in the Central Arctic Ocean: Results from the MOSAiC Expedition, <em>JGR:Oceans</em>."
           url: https://doi.org/10.1029/2021JC017975
+        - citation: "Levin, L., Cimoli, L., Gjerde, K., Harden-Davies, H., Heimbach, P., LaScala-Gruenewald, D., Pachiadaki, M., Pillar, H., Smith, L., Stocks, K., Stopa, J., Wright, D. (2022): Designing, generating, and translating deep-ocean observations for and with international policy makers, <em>ICES Journal of Marine Science</em>, fsac143."
+          url: https://doi.org/10.1093/icesjms/fsac143
+        - citation: "Pachiadaki, M., F. Janssen, A.C. Zinnkan, I. Iglesias, P. Heimbach, et al., 2022: Co-designing a multi-disciplinary deep-ocean observing program at the Mid-Atlantic Ridge in the Azores region: A blueprint for synergy in deep ocean research and conservation. ICES Journal of Marine Science in press"
+          url: https://doi.org/10.1093/icesjms/fsac189
         - citation: "Rabe, B., Heuze, C., Regnery, J., ... Schulz, K., ... (2022): Overview of the MOSAiC expedition: Physical Oceanography. <em>Elementa Science of the Anthropocene</em>, 10(1), 00062."
           url: https://doi.org/10.1525/elementa.2021.00062
+        - citation: "Schulz, K., Nguyen, A., Pillar, H. (2022): An Improved and Observationally-Constrained Melt Rate Parameterization for Vertical Ice Fronts of Marine Terminating Glaciers. <em>Geophysical Research Letters</em>. 49(18), e2022GL100654."
+          url: https://doi.org/10.1029/2022GL100654
+        - citation: "Schulz, K., Mohrholz, V., Fer, I., Janout, M., Hoppmann, M., Schaffer, J., Koenig, Z. (2022): A full year of turbulence measurements from a drift campaign in the Arctic Ocean 2019–2020. <em>Scientific Data</em> 9(1), 1-11."
+          url: https://doi.org/10.1038/s41597-022-01574-1
+        - citation: "Smith, L., Cimoli, L., LaScala-Gruenewald, D., Pachiadaki, M., Phillips, M., Pillar, H., Stopa, J., Baumann-Pickering, S., Beaulieu, S., Bell, K., Harden-Davies, H., Gjerde, K., Heimbach, P., Howe, B., Janssen, F., Levin, L., Ruhl, H., Soule, A., Stocks, K., Vardaro, M. (2022): The Deep Ocean Observing Strategy: Addressing Global Challenges in the Deep Sea through Collaboration, <em>Marine Technology Society Journal</em>, 56(3), 50-66."
+          url: https://doi.org/10.4031/MTSJ.56.3.11
         - citation: "Schulz, K., Lincoln, B., Povazhnyy, V., Rippeth, T., Lenn, Y.-D., Janout, M., Alkire, M., Scannell, B., Torres-Valdes, D. (2022): Increasing Nutrient Fluxes and Mixing Regime Changes in the Eastern Arctic Ocean, <em>Geophysical Research Letters</em>, 49(5), e2021GL096152."
           url: https://doi.org/10.1029/2021GL096152
         - citation: "Schulz, K., Mohrholz, V., Fer, I., Janout, M. A., Hoppmann, M., Schaffer, J., Koenig, Z., Rabe, B., Heuze, C., Regnery, J., Allerholt, J., Fang, Y.-C., He, H., Kanzow, T., Karam, S., Kuznetsov, I., Kong, B., Liu, H., Muilwijk, M., Schuffenhauer, I., Sukhikh, N., Sundfjord, A., Tippenhauer, S. (2022): Turbulent microstructure profile (MSS) measurements from the MOSAiC drift, Arctic Ocean. PANGAEA."
           url: https://doi.org/10.1594/PANGAEA.939816
+        - citation: "Trossman, D.S., C.B. Whalen, T. Haine, A.F. Waterhouse, A.T. Nguyen, A. Bigdeli, M. Mazloff, and P. Heimbach, 2022: Tracer and observationally-derived constraints on diapycnal diffusivities in an ocean state estimate. Ocean Science, 18, 729-759"
+          url: https://doi.org/10.5194/os-18-729-2022
+        - citation: "von Storch, H. and P. Heimbach, 2022: Klaus Hasselmann: Recipient of the Nobel Prize in Physics 2021. Oxford Research Encyclopedia of Climate Science"
+          url: https://doi.org/10.1093/acrefore/9780190228620.013.931
         #
         - citation: <h5>2021</h5>
         - citation: "Grabon, J. S., Toole, J. M., Nguyen, A. T. and K. A. Richard (2021): An analysis of Atlantic water in the Arctic Ocean using the Arctic subpolar gyre state estimate and observations, <em>Progress in Oceanography</em>, 198."
@@ -237,6 +259,8 @@ publications:
           url: https://doi.org/10.1029/2020MS002398
         - citation: "Pillar, H., A. Nguyen, J.-M. Campin, and P. Heimbach, 2021: Momentum Budget Evaluation in ASTE Release 1 Part I: Full momentum budget. <em>DSpace@MIT</em>, Technical Report."
           url: https://hdl.handle.net/1721.1/130943
+        - citation: "Solomon, A., C. Heuzé, B. Rabe, S. Bacon, L. Bertino, P. Heimbach, J. Inoue, D. Iovino, R. Mottram, X. Zhang, Y. Aksenov, R. McAdam, A. Nguyen, R. P. Raj, and H. Tang, 2021: Freshwater in the Arctic Ocean 2010–2019. Ocean Sci., 17, 1081-1102"
+          url: https://doi.org/10.5194/os-17-1081-2021
         - citation: "Willcox, K., O. Ghattas, and P. Heimbach, 2021: The imperative of physics-based modeling and inverse theory in the future of computational science. <em>Nature Computational Science</em>, 1, 166-168."
           url: https://doi.org/10.1038/s43588-021-00040-z
         #
