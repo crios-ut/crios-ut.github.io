@@ -78,8 +78,10 @@ team:
         role: "Graduate Research Assistant (CSEM)"
         image: assets/img/team/ShreyasGaikwad.jpg
         social:
-          - url: https://oden.utexas.edu/people/directory/Shreyas-Gaikwad/
+          - url: https://shreyas911.github.io
             icon: fas fa-globe
+          - url: https://github.com/Shreyas911
+            icon: fab fa-github
       - name: "Sarah Williamson"
         role: "Graduate Research Assistant (CSEM)"
         image: assets/img/team/sarahwilliamson.jpg
