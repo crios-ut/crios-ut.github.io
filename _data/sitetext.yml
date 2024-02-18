@@ -195,7 +195,7 @@ publications:
         - citation: <h5>Submitted</h5>
         - citation: "Fahad, A. A., A. Molod, D. Menemenlis, P. Heimbach, A. Trayanov, E. Strobach, L. Coy, K. Wargan, 2022: The Nonlinear Northern Hemisphere Stratospheric Temperature Response to External Radiative Forcing in Decadal Climate Simulations. <em>J. Climate</em>, submitted"
           url: https://doi.org/10.1002/essoar.10502123.3
-	- citation: "Gaikwad, S. S., S. H. K. Narayanan, L. Hascoet, J. M. Campin, H. Pillar, A. Nguyen, J. Hückelheim, P. Hovland, P. Heimbach, 2024: MITgcm-AD v2: Open source tangent linear and adjoint modeling framework for the oceans and atmosphere enabled by the Automatic Differentiation tool Tapenade. <em>JLESC-FGCS</em>, submitted"
+        - citation: "Gaikwad, S. S., S. H. K. Narayanan, L. Hascoet, J. M. Campin, H. Pillar, A. Nguyen, J. Hückelheim, P. Hovland, P. Heimbach, 2024: MITgcm-AD v2: Open source tangent linear and adjoint modeling framework for the oceans and atmosphere enabled by the Automatic Differentiation tool Tapenade. <em>JLESC-FGCS</em>, submitted"
           url: https://arxiv.org/abs/2401.11952
         #
         - citation: <h5>2023</h5>
