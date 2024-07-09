@@ -203,13 +203,13 @@ publications:
         #
         - citation: <h5>2024</h5>
         - citation: "Schulz, K., Koenig, Z., Muilwijk, M., Bauch, D., Hoppe, C. J., Droste, E. S., Hoppmann, M., Chamberlain, E. J., Laukert, G., Stanton, T., Quintanilla-Zurita, A., Fer., I., Heuze, C., Karam, S., Mieruch-Schnuelle, S., Baumann, T. M., Vredenborg, M., Tippenhauer, S., Granskog, M. A. (2024). The Eurasian Arctic Ocean along the MOSAiC drift in 2019–2020: An interdisciplinary perspective on physical properties and processes. Elementa: Science of the Anthropocene, 12(1)."
-        - url: https://doi.org/10.1525/elementa.2023.00114
+          url: https://doi.org/10.1525/elementa.2023.00114
         - citation: "Kuznetsov, I., Rabe, B., Androsov, A., Fang, Y. C., Hoppmann, M., Quintanilla-Zurita, A., Haring, S., Tippenhauer, S., Schulz, K., Mohrholz, V., Fer, I., Fofonova, V., Janout, M. (2024). Dynamical reconstruction of the upper-ocean state in the central Arctic during the winter period of the MOSAiC expedition. Ocean Science, 20(3), 759-777."
-        - url : https://doi.org/10.5194/os-20-759-2024
+          url : https://doi.org/10.5194/os-20-759-2024
         - citation: "Wood, M., Khazendar, A., Fenty, I., Mankoff, K., Nguyen, A. T., Schulz, K., Willis, J. K., Zhang, H. (2024). Decadal evolution of ice‐ocean interactions at a large East Greenland glacier resolved at fjord scale with downscaled ocean models and observations. Geophysical Research Letters, 51(7), e2023GL107983."
-        - url: https://doi.org/10.1029/2023GL107983 
+          url: https://doi.org/10.1029/2023GL107983 
         - citation: "Lueck, R., Fer, I., Bluteau, C., Dengler, M., Holtermann, P., Inoue, R., LeBoyer, A., Nicholson, S.-A., Schulz, K., Stevens, C. (2024). Best practices recommendations for estimating dissipation rates from shear probes. Frontiers in Marine Science, 11, 1334327."
-        - url: https://doi.org/10.3389/fmars.2024.1334327
+          url: https://doi.org/10.3389/fmars.2024.1334327
         #
         - citation: <h5>2023</h5> 
         - citation: "Baumann, T. M., Fer, I., Schulz, K., Mohrholz, V. (2023). Validating finescale parameterizations for the eastern Arctic Ocean internal wave field. Journal of Geophysical Research: Oceans, 128(11), e2022JC018668."
