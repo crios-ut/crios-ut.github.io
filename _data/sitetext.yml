@@ -196,16 +196,16 @@ publications:
         # 3. It's safest to put the citation in between quotes ""
         #
         - citation: <h5>Submitted</h5>
-	- citation: "L. Hascoet, J.L. Bouchot, S.S. Gaikwad, S.H.K. Narayanan, J. Hückelheim, 2024: Profiling checkpointing schedules in adjoint ST-AD. <em>8th International Conference on Algorithmic Differentiation</em>, submitted"
-	  url: https://doi.org/10.48550/arXiv.2405.15590
+        - citation: "L. Hascoet, J.L. Bouchot, S.S. Gaikwad, S.H.K. Narayanan, J. Hückelheim, 2024: Profiling checkpointing schedules in adjoint ST-AD. <em>8th International Conference on Algorithmic Differentiation</em>, submitted"
+          url: https://doi.org/10.48550/arXiv.2405.15590
         - citation: "Fahad, A. A., A. Molod, D. Menemenlis, P. Heimbach, A. Trayanov, E. Strobach, L. Coy, K. Wargan, 2022: The Nonlinear Northern Hemisphere Stratospheric Temperature Response to External Radiative Forcing in Decadal Climate Simulations. <em>J. Climate</em>, submitted"
           url: https://doi.org/10.1002/essoar.10502123.3
         - citation: "Gaikwad, S. S., S. H. K. Narayanan, L. Hascoet, J. M. Campin, H. Pillar, A. Nguyen, J. Hückelheim, P. Hovland, P. Heimbach, 2024: MITgcm-AD v2: Open source tangent linear and adjoint modeling framework for the oceans and atmosphere enabled by the Automatic Differentiation tool Tapenade. <em>JLESC-FGCS</em>, submitted"
           url: https://doi.org/10.48550/arXiv.2401.11952
         #
         - citation: <h5>2024</h5>
-	- citation: "D. Stammer, D. E. Amrhein, M. A. Balmaseda, L. Bertino, M. Bonavita, C. Buontempo, N. Caltabiano, F. Counillon, I. Fenty, R. Ferrari, Y. Fujii, S. S. Gaikwad, P. Gentine, A. Gettelman, G. Gopalakrishnan, P. Heimbach, H. Hersbach, C. Hill, S. Kobayashi, A. Köhl, P. J. Kushner, M. Mazloff, H. Nakamura, S. G. Penny, L. Slivinski, S. Tegtmeier, L. Zanna, 2024: Earth system reanalysis in support of climate model improvements. <em>Bulletin of the American Meteorological Society</em>."
-	  url: https://doi.org/10.1175/BAMS-D-24-0110.1
+        - citation: "D. Stammer, D. E. Amrhein, M. A. Balmaseda, L. Bertino, M. Bonavita, C. Buontempo, N. Caltabiano, F. Counillon, I. Fenty, R. Ferrari, Y. Fujii, S. S. Gaikwad, P. Gentine, A. Gettelman, G. Gopalakrishnan, P. Heimbach, H. Hersbach, C. Hill, S. Kobayashi, A. Köhl, P. J. Kushner, M. Mazloff, H. Nakamura, S. G. Penny, L. Slivinski, S. Tegtmeier, L. Zanna, 2024: Earth system reanalysis in support of climate model improvements. <em>Bulletin of the American Meteorological Society</em>."
+          url: https://doi.org/10.1175/BAMS-D-24-0110.1
         - citation: "Schulz, K., Koenig, Z., Muilwijk, M., Bauch, D., Hoppe, C. J., Droste, E. S., Hoppmann, M., Chamberlain, E. J., Laukert, G., Stanton, T., Quintanilla-Zurita, A., Fer., I., Heuze, C., Karam, S., Mieruch-Schnuelle, S., Baumann, T. M., Vredenborg, M., Tippenhauer, S., Granskog, M. A. (2024). The Eurasian Arctic Ocean along the MOSAiC drift in 2019–2020: An interdisciplinary perspective on physical properties and processes. Elementa: Science of the Anthropocene, 12(1)."
           url: https://doi.org/10.1525/elementa.2023.00114
         - citation: "Kuznetsov, I., Rabe, B., Androsov, A., Fang, Y. C., Hoppmann, M., Quintanilla-Zurita, A., Haring, S., Tippenhauer, S., Schulz, K., Mohrholz, V., Fer, I., Fofonova, V., Janout, M. (2024). Dynamical reconstruction of the upper-ocean state in the central Arctic during the winter period of the MOSAiC expedition. Ocean Science, 20(3), 759-777."
