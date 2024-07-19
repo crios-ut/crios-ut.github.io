@@ -118,10 +118,11 @@ team:
             icon: fas fa-globe
           - url: https://github.com/mgoldberg10
             icon: fab fa-github
-      - name: "Shoshana (Shoshi) Reich"
+      - name: "Shoshi Reich"
         role: "Graduate Research Assistant (CSEM)"
         social:
           - url: https://oden.utexas.edu/people/directory/Shoshana-Reich/
+          - url: https://github.com/shoshanareich
 
     peoplepast:
       - name: "Arash Bigdeli"
