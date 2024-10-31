@@ -204,10 +204,13 @@ publications:
           url: https://doi.org/10.48550/arXiv.2405.15590
         - citation: "Fahad, A. A., A. Molod, D. Menemenlis, P. Heimbach, A. Trayanov, E. Strobach, L. Coy, K. Wargan, 2022: The Nonlinear Northern Hemisphere Stratospheric Temperature Response to External Radiative Forcing in Decadal Climate Simulations. <em>J. Climate</em>, submitted"
           url: https://doi.org/10.1002/essoar.10502123.3
-        - citation: "Gaikwad, S. S., S. H. K. Narayanan, L. Hascoet, J. M. Campin, H. Pillar, A. Nguyen, J. Hückelheim, P. Hovland, P. Heimbach, 2024: MITgcm-AD v2: Open source tangent linear and adjoint modeling framework for the oceans and atmosphere enabled by the Automatic Differentiation tool Tapenade. <em>JLESC-FGCS</em>, submitted"
+        - citation: "D. Trossman, R. Tyler, H. Pillar, 2024: Physical oceanographic factors controlling the ocean circulation-induced magnetic field. <em>Philosophical Transactions A</em>, accepted"
+        - citation: "Gaikwad, S. S., S. H. K. Narayanan, L. Hascoet, J. M. Campin, H. Pillar, A. Nguyen, J. Hückelheim, P. Hovland, P. Heimbach, 2024: MITgcm-AD v2: Open source tangent linear and adjoint modeling framework for the oceans and atmosphere enabled by the Automatic Differentiation tool Tapenade. <em>JLESC-FGCS</em>, accepted"
           url: https://doi.org/10.48550/arXiv.2401.11952
         #
         - citation: <h5>2024</h5>
+        - citation: "H. Pillar, E. Hetherington, L. A. Levin, L. Cimoli, J. M. Lauderdale, J. M. A. van der Grient, K. Johannes, P. Heimbach, L. Smith, C. I. Addey, P. Annasawmy, S. Antonio, N. Bax, H. F. Drake, E. Escobar, L. G. Elsler, M. A. Freilich, N. D. Gallo, F. Girard, M. J. Harke, D. O. B. Jones, S. Joshi, X. Liang, P. J. Maroni, O. Sarti, P. V. Stefanoudis, O. Sulpis, D. Trossman  (2024). Future directions for deep ocean climate science and evidence-based decision making. Fontiers in Climate, 6:1445694."
+          url: https://doi.org/10.3389/fclim.2024.1445694
         - citation: "S. R. Maier, N. H. Arboe, H. Christiansen, D. W. Krawczyk, L. Meire, J. Mortensen, K. Planken, K. Schulz,  A.-S. van der Kaaden, T. R. Vonnahme, N. Zwerschke, M. Blicher (2024). Arctic benthos in the Anthropocene: Distribution and drivers of epifauna in West Greenland. Science of the Total Environment, 951, 175001."
           url: https://doi.org/10.1016/j.scitotenv.2024.175001
         - citation: "D. Stammer, D. E. Amrhein, M. A. Balmaseda, L. Bertino, M. Bonavita, C. Buontempo, N. Caltabiano, F. Counillon, I. Fenty, R. Ferrari, Y. Fujii, S. S. Gaikwad, P. Gentine, A. Gettelman, G. Gopalakrishnan, P. Heimbach, H. Hersbach, C. Hill, S. Kobayashi, A. Köhl, P. J. Kushner, M. Mazloff, H. Nakamura, S. G. Penny, L. Slivinski, S. Tegtmeier, L. Zanna, 2024: Earth system reanalysis in support of climate model improvements. <em>Bulletin of the American Meteorological Society</em>."
