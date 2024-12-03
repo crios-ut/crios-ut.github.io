@@ -200,16 +200,17 @@ publications:
         # 3. It's safest to put the citation in between quotes ""
         #
         - citation: <h5>Submitted</h5>
+        - citation: "Y. Wei, H. Pillar, P. Heimbach, A. T. Nguyen, G. Forget, O. Wang, I. Fukumori, I. Fenty, M. Losch, 2024: An assessment of uncertainty in the ECCO global ocean-sea ice state estimate due to atmospheric forcing uncertainty. <em>J. Geophys. Res.,</em>, submitted"
         - citation: "L. Hascoet, J.L. Bouchot, S.S. Gaikwad, S.H.K. Narayanan, J. Hückelheim, 2024: Profiling checkpointing schedules in adjoint ST-AD. <em>8th International Conference on Algorithmic Differentiation</em>, submitted"
           url: https://doi.org/10.48550/arXiv.2405.15590
         - citation: "Fahad, A. A., A. Molod, D. Menemenlis, P. Heimbach, A. Trayanov, E. Strobach, L. Coy, K. Wargan, 2022: The Nonlinear Northern Hemisphere Stratospheric Temperature Response to External Radiative Forcing in Decadal Climate Simulations. <em>J. Climate</em>, submitted"
           url: https://doi.org/10.1002/essoar.10502123.3
-        - citation: "D. Trossman, R. Tyler, H. Pillar, 2024: Physical oceanographic factors controlling the ocean circulation-induced magnetic field. <em>Philosophical Transactions A</em>, accepted"
         - citation: "Gaikwad, S. S., S. H. K. Narayanan, L. Hascoet, J. M. Campin, H. Pillar, A. Nguyen, J. Hückelheim, P. Hovland, P. Heimbach, 2024: MITgcm-AD v2: Open source tangent linear and adjoint modeling framework for the oceans and atmosphere enabled by the Automatic Differentiation tool Tapenade. <em>JLESC-FGCS</em>, accepted"
           url: https://doi.org/10.48550/arXiv.2401.11952
         #
         - citation: <h5>2024</h5>
-        - citation: "H. Pillar, E. Hetherington, L. A. Levin, L. Cimoli, J. M. Lauderdale, J. M. A. van der Grient, K. Johannes, P. Heimbach, L. Smith, C. I. Addey, P. Annasawmy, S. Antonio, N. Bax, H. F. Drake, E. Escobar, L. G. Elsler, M. A. Freilich, N. D. Gallo, F. Girard, M. J. Harke, D. O. B. Jones, S. Joshi, X. Liang, P. J. Maroni, O. Sarti, P. V. Stefanoudis, O. Sulpis, D. Trossman  (2024). Future directions for deep ocean climate science and evidence-based decision making. Fontiers in Climate, 6:1445694."
+        - citation: "D. Trossman, R. Tyler, H. Pillar, 2024: Physical oceanographic factors controlling the ocean circulation-induced magnetic field. <em>Phil. Trans. R. Soc. A</em>, 382:20240076. https://doi.org/10.1098/rsta.2024.0076"
+        - citation: "H. Pillar, E. Hetherington, L. A. Levin, L. Cimoli, J. M. Lauderdale, J. M. A. van der Grient, K. Johannes, P. Heimbach, L. Smith, C. I. Addey, P. Annasawmy, S. Antonio, N. Bax, H. F. Drake, E. Escobar, L. G. Elsler, M. A. Freilich, N. D. Gallo, F. Girard, M. J. Harke, D. O. B. Jones, S. Joshi, X. Liang, P. J. Maroni, O. Sarti, P. V. Stefanoudis, O. Sulpis, D. Trossman  (2024). Future directions for deep ocean climate science and evidence-based decision making. Frontiers in Climate, 6:1445694."
           url: https://doi.org/10.3389/fclim.2024.1445694
         - citation: "S. R. Maier, N. H. Arboe, H. Christiansen, D. W. Krawczyk, L. Meire, J. Mortensen, K. Planken, K. Schulz,  A.-S. van der Kaaden, T. R. Vonnahme, N. Zwerschke, M. Blicher (2024). Arctic benthos in the Anthropocene: Distribution and drivers of epifauna in West Greenland. Science of the Total Environment, 951, 175001."
           url: https://doi.org/10.1016/j.scitotenv.2024.175001
