@@ -210,6 +210,7 @@ publications:
           url: https://doi.org/10.5194/sp-2024-32
         - citation: "Sapienza, F., J. Bolibar, F. Schäfer, B. Groenke, A. Pal, V. Boussange, P. Heimbach, G. Hooker, F. Perez, P.-O. Persson, and C. Rackauckas, 2024: Differentiable Programming for Differential Equations: A Review. <em>SIAM Review</em>, in revision, ArXiv."
           url: https://doi.org/10.48550/arxiv.2406.09699
+        - citation: "Schulz, K., A. T. Nguyen, H. R. Pillar, T. M. Baumann, M. Muilwijk, I. Fer, I. Polyakov, L. Padman, S. L. Howard, G. Spreen: Quantifying tidal impacts on Arctic sea ice: An unexpected mechanism for the regional delay of summer melting. <em> Journal of Physical Oceanography </em>."
         - citation: "Wei, Y., H. Pillar, P. Heimbach, A. T. Nguyen, G. Forget, O. Wang, I. Fukumori, I. Fenty, M. Losch, 2025: An assessment of uncertainty in the ECCO global ocean-sea ice state estimate due to atmospheric forcing uncertainty. <em>J. Geophys. Res.,</em>, submitted"
         #
         - citation: <h5>2025</h5>
@@ -220,26 +221,26 @@ publications:
         - citation: <h5>2024</h5>
         - citation: "Alvarez Fanjul, E., et al., 2024: Promoting Best Practices in Ocean Forecasting through an Operational Readiness Level. <em>Frontiers in Marine Science</em>, 11."
           url: https://doi.org/10.3389/fmars.2024.1443284
-        - citation: "M. M. Smith, N. Fuchs, E. Salganik, D. K. Perovich, I. Raphael, M. A. Granskog, K. Schulz, M. D. Shupe, and M. Webster (2024). Formation and fate of freshwater on an ice floe in the Central Arctic. <em>EGUsphere, 2024: 1-37.</em>" 
-          url: https://doi.org/10.5194/egusphere-2024-1977
-        - citation: "S. Goliber, J. Coenen, H. Fair, A.R. Szesciorka, K. Schulz, D.J. Harning, B. Fernando, S.S. Ksenofontov, A. Pacini, M. Juarez Rivera, R. Calmer, J.A. Conroy, E.L. Doting, M. Bergelin, D. Dunmire, M.L. Sánchez Montes, A.M. Ravelo, A. Sledd, T.R. Stinchcomb, E.J. Tibbett, M.C. Dryák-Vallies (2024). Postdoc perspectives on leadership and matters of equity and inclusion in polar science. <em>Perspectives of Earth and Space Scientists, 5(1), e2024CN000252.</em>"
-          url: https://doi.org/10.1029/2024CN000252
-        - citation: "D. Trossman, R. Tyler, H. Pillar, 2024: Physical oceanographic factors controlling the ocean circulation-induced magnetic field. <em>Phil. Trans. R. Soc. A</em>, 382:20240076."
-          url: https://doi.org/10.1098/rsta.2024.0076
-        - citation: "H. Pillar, E. Hetherington, L. A. Levin, L. Cimoli, J. M. Lauderdale, J. M. A. van der Grient, K. Johannes, P. Heimbach, L. Smith, C. I. Addey, P. Annasawmy, S. Antonio, N. Bax, H. F. Drake, E. Escobar, L. G. Elsler, M. A. Freilich, N. D. Gallo, F. Girard, M. J. Harke, D. O. B. Jones, S. Joshi, X. Liang, P. J. Maroni, O. Sarti, P. V. Stefanoudis, O. Sulpis, D. Trossman  (2024). Future directions for deep ocean climate science and evidence-based decision making. Frontiers in Climate, 6:1445694."
-          url: https://doi.org/10.3389/fclim.2024.1445694
-        - citation: "S. R. Maier, N. H. Arboe, H. Christiansen, D. W. Krawczyk, L. Meire, J. Mortensen, K. Planken, K. Schulz,  A.-S. van der Kaaden, T. R. Vonnahme, N. Zwerschke, M. Blicher (2024). Arctic benthos in the Anthropocene: Distribution and drivers of epifauna in West Greenland. <em>Science of the Total Environment, 951, 175001.</em>"
-          url: https://doi.org/10.1016/j.scitotenv.2024.175001
-        - citation: "D. Stammer, D. E. Amrhein, M. A. Balmaseda, L. Bertino, M. Bonavita, C. Buontempo, N. Caltabiano, F. Counillon, I. Fenty, R. Ferrari, Y. Fujii, S. S. Gaikwad, P. Gentine, A. Gettelman, G. Gopalakrishnan, P. Heimbach, H. Hersbach, C. Hill, S. Kobayashi, A. Köhl, P. J. Kushner, M. Mazloff, H. Nakamura, S. G. Penny, L. Slivinski, S. Tegtmeier, L. Zanna, 2024: Earth system reanalysis in support of climate model improvements. <em>Bulletin of the American Meteorological Society</em>."
-          url: https://doi.org/10.1175/BAMS-D-24-0110.1
+        - citation: "Goliber, S., J. Coenen, H. Fair, A.R. Szesciorka, K. Schulz, D.J. Harning, B. Fernando, S.S. Ksenofontov, A. Pacini, M. Juarez Rivera, R. Calmer, J.A. Conroy, E.L. Doting, M. Bergelin, D. Dunmire, M.L. Sánchez Montes, A.M. Ravelo, A. Sledd, T.R. Stinchcomb, E.J. Tibbett, M.C. Dryák-Vallies (2024). Postdoc perspectives on leadership and matters of equity and inclusion in polar science. <em>Perspectives of Earth and Space Scientists, 5(1), e2024CN000252.</em>"
+          url: https://doi.org/10.1029/2024CN000252      
         - citation: "Kuznetsov, I., Rabe, B., Androsov, A., Fang, Y. C., Hoppmann, M., Quintanilla-Zurita, A., Haring, S., Tippenhauer, S., Schulz, K., Mohrholz, V., Fer, I., Fofonova, V., Janout, M. (2024). Dynamical reconstruction of the upper-ocean state in the central Arctic during the winter period of the MOSAiC expedition. <em>Ocean Science, 20(3), 759-777.</em>"
-          url : https://doi.org/10.5194/os-20-759-2024
+          url : https://doi.org/10.5194/os-20-759-2024  
         - citation: "Lueck, R., Fer, I., Bluteau, C., Dengler, M., Holtermann, P., Inoue, R., LeBoyer, A., Nicholson, S.-A., Schulz, K., Stevens, C. (2024). Best practices recommendations for estimating dissipation rates from shear probes. <em>Frontiers in Marine Science, 11, 1334327.</em>"
-          url: https://doi.org/10.3389/fmars.2024.1334327
+          url: https://doi.org/10.3389/fmars.2024.1334327          
+        - citation: "Maier, S. R., N. H. Arboe, H. Christiansen, D. W. Krawczyk, L. Meire, J. Mortensen, K. Planken, K. Schulz,  A.-S. van der Kaaden, T. R. Vonnahme, N. Zwerschke, M. Blicher (2024). Arctic benthos in the Anthropocene: Distribution and drivers of epifauna in West Greenland. <em>Science of the Total Environment, 951, 175001.</em>"
+          url: https://doi.org/10.1016/j.scitotenv.2024.175001          
+        - citation: "Pillar, H., E. Hetherington, L. A. Levin, L. Cimoli, J. M. Lauderdale, J. M. A. van der Grient, K. Johannes, P. Heimbach, L. Smith, C. I. Addey, P. Annasawmy, S. Antonio, N. Bax, H. F. Drake, E. Escobar, L. G. Elsler, M. A. Freilich, N. D. Gallo, F. Girard, M. J. Harke, D. O. B. Jones, S. Joshi, X. Liang, P. J. Maroni, O. Sarti, P. V. Stefanoudis, O. Sulpis, D. Trossman  (2024). Future directions for deep ocean climate science and evidence-based decision making. Frontiers in Climate, 6:1445694."
+          url: https://doi.org/10.3389/fclim.2024.1445694          
         - citation: "Schulz, K., Koenig, Z., Muilwijk, M., Bauch, D., Hoppe, C. J., Droste, E. S., Hoppmann, M., Chamberlain, E. J., Laukert, G., Stanton, T., Quintanilla-Zurita, A., Fer., I., Heuze, C., Karam, S., Mieruch-Schnuelle, S., Baumann, T. M., Vredenborg, M., Tippenhauer, S., Granskog, M. A. (2024). The Eurasian Arctic Ocean along the MOSAiC drift in 2019–2020: An interdisciplinary perspective on physical properties and processes. <em>Elementa: Science of the Anthropocene, 12(1).</em>"
-          url: https://doi.org/10.1525/elementa.2023.00114
+          url: https://doi.org/10.1525/elementa.2023.00114          
+        - citation: "Smith, M.M., N. Fuchs, E. Salganik, D. K. Perovich, I. Raphael, M. A. Granskog, K. Schulz, M. D. Shupe, and M. Webster (2024). Formation and fate of freshwater on an ice floe in the Central Arctic. <em>EGUsphere, 2024: 1-37.</em>" 
+          url: https://doi.org/10.5194/egusphere-2024-1977
+        - citation: "Stammer, D., D. E. Amrhein, M. A. Balmaseda, L. Bertino, M. Bonavita, C. Buontempo, N. Caltabiano, F. Counillon, I. Fenty, R. Ferrari, Y. Fujii, S. S. Gaikwad, P. Gentine, A. Gettelman, G. Gopalakrishnan, P. Heimbach, H. Hersbach, C. Hill, S. Kobayashi, A. Köhl, P. J. Kushner, M. Mazloff, H. Nakamura, S. G. Penny, L. Slivinski, S. Tegtmeier, L. Zanna, 2024: Earth system reanalysis in support of climate model improvements. <em>Bulletin of the American Meteorological Society</em>."
+          url: https://doi.org/10.1175/BAMS-D-24-0110.1
         - citation: "Sun, Y. ,E. Cucuzzella, S. Brus, S.H.K. Narayanan, B. Nadiga, L. van Roekel, J. Hückelheim, S. Madireddy, and P. Heimbach, 2024: Parametric Sensitivities of a Wind-driven Baroclinic Ocean Using Neural Surrogates. Platform for Advanced Scientific Computing Conference (PASC) 2024"
-          url: https://doi.org/10.1145/3659914.3659920
+          url: https://doi.org/10.1145/3659914.3659920          
+        - citation: "Trossman, D., R. Tyler, H. Pillar, 2024: Physical oceanographic factors controlling the ocean circulation-induced magnetic field. <em>Phil. Trans. R. Soc. A</em>, 382:20240076."
+          url: https://doi.org/10.1098/rsta.2024.0076
         - citation: "Wood, M., Khazendar, A., Fenty, I., Mankoff, K., Nguyen, A. T., Schulz, K., Willis, J. K., Zhang, H. (2024). Decadal evolution of ice‐ocean interactions at a large East Greenland glacier resolved at fjord scale with downscaled ocean models and observations. <em>Geophysical Research Letters, 51(7), e2023GL107983.</em>"
           url: https://doi.org/10.1029/2023GL107983 
         #
