@@ -218,6 +218,7 @@ publications:
           url: https://doi.org/10.1016/j.future.2024.107512
         - citation: "Heimbach, P., F. O’Donncha, T.A, Smith, J.M. Garcia-Valdecasas, A. Arnaud, and L. Wan, 2025: Crafting the Future: Machine Learning for Ocean Forecasting. <em>State of the Planet</em>, in press."
           url: https://doi.org/10.5194/sp-2024-18
+        #
         - citation: <h5>2024</h5>
         - citation: "Alvarez Fanjul, E., et al., 2024: Promoting Best Practices in Ocean Forecasting through an Operational Readiness Level. <em>Frontiers in Marine Science</em>, 11."
           url: https://doi.org/10.3389/fmars.2024.1443284
@@ -241,11 +242,13 @@ publications:
           url: https://doi.org/10.1145/3659914.3659920          
         - citation: "Trossman, D., R. Tyler, H. Pillar, 2024: Physical oceanographic factors controlling the ocean circulation-induced magnetic field. <em>Phil. Trans. R. Soc. A</em>, 382:20240076."
           url: https://doi.org/10.1098/rsta.2024.0076
-        - citation: "Wood, M., Khazendar, A., Fenty, I., Mankoff, K., Nguyen, A. T., Schulz, K., Willis, J. K., Zhang, H. (2024). Decadal evolution of ice‐ocean interactions at a large East Greenland glacier resolved at fjord scale with downscaled ocean models and observations. <em>Geophysical Research Letters, 51(7), e2023GL107983.</em>"
+        - citation: "Wood, M., Khazendar, A., Fenty, I., Mankoff, K., Nguyen, A. T., Schulz, K., Willis, J. K., Zhang, H., 2024. Decadal evolution of ice‐ocean interactions at a large East Greenland glacier resolved at fjord scale with downscaled ocean models and observations. <em>Geophysical Research Letters, 51(7), e2023GL107983.</em>"
           url: https://doi.org/10.1029/2023GL107983 
+        - citation: "Zhong, W., Lan, Y., Mu, L., Nguyen, A. T., 2024. The mixed layer salinity balance in the western Arctic Ocean. <em>Journal of Geophysical Research: Oceans,</em> 129(6), e2023JC020591."
+          url: https://doi.org/10.1029/2023JC020591
         #
         - citation: <h5>2023</h5> 
-        - citation: "Baumann, T. M., Fer, I., Schulz, K., Mohrholz, V. (2023). Validating finescale parameterizations for the eastern Arctic Ocean internal wave field. <em>Journal of Geophysical Research: Oceans, 128(11), e2022JC018668.</em>"
+        - citation: "Baumann, T. M., Fer, I., Schulz, K., Mohrholz, V., 2023. Validating finescale parameterizations for the eastern Arctic Ocean internal wave field. <em>Journal of Geophysical Research: Oceans, 128(11), e2022JC018668.</em>"
           url: https://doi.org/10.1029/2022JC018668
         - citation: "Ciliberti, S. A., et al., 2023: Evaluation of operational ocean forecasting systems from the perspective of the users and the experts. State Planet, 1-osr7, 2"
           url: https://doi.org/10.5194/sp-1-osr7-2-2023
