@@ -126,6 +126,14 @@ team:
             icon: fas fa-globe
           - url: https://github.com/shoshanareich
             icon: fab fa-github
+      - name: "Tanvir Shahriar"
+        role: "Graduate Research Assistant (ME)"
+        image: assets/img/team/tanvir_shahriar.JPG
+        social:
+          - url: https://oden.utexas.edu/people/directory/Tanvir-Shahriar/
+            icon: fas fa-globe
+          - url: https://github.com/tsgonerog
+            icon: fab fa-github
 
     peoplepast:
       - name: "Arash Bigdeli"
