@@ -208,6 +208,8 @@ publications:
         # 3. It's safest to put the citation in between quotes ""
         #
         - citation: <h5>Submitted</h5>
+        - citation: "Goldberg, M., A. T. Nguyen, H. Pillar, B. Howe, and P. Heimbach 2025: Evaluating the potential of SMART subsea cable pressure sensors to constrain Subpolar North Atlantic circulation variability through Observing System Simulation Experiments. <em>Journal of Ocean and Atmospheric Technology</em>, submitted."
+          url: https://eartharxiv.org/repository/view/10235/
         - citation: "Bertino, L., P. Heimbach, E. Blockley, and Einar Olason, 2024: Numerical Models for Monitoring and Forecasting Sea Ice: a short description of present status. <em>State of the Planet</em>, submitted."
           url: https://doi.org/10.5194/sp-2024-24
         - citation: "Fahad, A. A., A. Molod, D. Menemenlis, P. Heimbach, A. Trayanov, E. Strobach, L. Coy, K. Wargan, 2024: Northern Hemisphere Stratospheric Temperature Response to External Forcing in Decadal Climate Simulations. <em>J. Climate</em>, submitted"
@@ -218,10 +220,14 @@ publications:
           url: https://doi.org/10.5194/sp-2024-32
         - citation: "Sapienza, F., J. Bolibar, F. Schäfer, B. Groenke, A. Pal, V. Boussange, P. Heimbach, G. Hooker, F. Perez, P.-O. Persson, and C. Rackauckas, 2024: Differentiable Programming for Differential Equations: A Review. <em>SIAM Review</em>, in revision, ArXiv."
           url: https://doi.org/10.48550/arxiv.2406.09699
-        - citation: "Schulz, K., A. T. Nguyen, H. R. Pillar, T. M. Baumann, M. Muilwijk, I. Fer, I. Polyakov, L. Padman, S. L. Howard, G. Spreen: Quantifying tidal impacts on Arctic sea ice: An unexpected mechanism for the regional delay of summer melting. <em> Journal of Physical Oceanography </em>."
-        - citation: "Wei, Y., H. Pillar, P. Heimbach, A. T. Nguyen, G. Forget, O. Wang, I. Fukumori, I. Fenty, M. Losch, 2025: An assessment of uncertainty in the ECCO global ocean-sea ice state estimate due to atmospheric forcing uncertainty. <em>J. Geophys. Res.,</em>, submitted"
         #
         - citation: <h5>2025</h5>
+        - citation: "Liang, X., M. Messie, L. Smith, Z. Erikson, P. Heimbach, I. Le Bras, H. Pillar, C. Schultz, and C. Stock, 2025: Pathways Connecting Climate Changes to the Deep Ocean: Tracing Physical, Biogeochemical, and Ecological Signals From Surface to Deep Sea Workshop Report."
+          url: https://usclivar.org/sites/default/files/images/pathways-connecting-climate-change-to-deep-sea-report.pdf
+        - citation: "Schulz, K., A. T. Nguyen, H. R. Pillar, T. M. Baumann, M. Muilwijk, I. Fer, I. Polyakov, L. Padman, S. L. Howard, G. Spreen, 2025: Quantifying tidal impacts on Arctic sea ice: An unexpected mechanism for the regional delay of summer melting. <em> J. Phys. Oceanogr. </em>."
+          url: https://doi.org/10.1175/JPO-D-24-0255.1
+        - citation: "Wei, Y., H. Pillar, P. Heimbach, A. T. Nguyen, G. Forget, O. Wang, I. Fukumori, I. Fenty, M. Losch, 2025: An assessment of uncertainty in the ECCO global ocean-sea ice state estimate due to atmospheric forcing uncertainty. <em>J. Geophys. Res.,</em>, 130."
+          url: https://doi.org/10.1029/2024JC022191
         - citation: "Gaikwad, S. G., S. H. K. Narayanan, L. Hascoët, J.-M. Campin, H. Pillar, A. Nguyen; J. Hückelheim, P. Hovland, and P. Heimbach, 2025: MITgcm-AD v2: Tangent linear and adjoint modeling framework for the oceans and atmosphere enabled by the Automatic Differentiation tool Tapenade. <em>Future Generation Computer Systems, 163.</em>"
           url: https://doi.org/10.1016/j.future.2024.107512
         - citation: "Heimbach, P., F. O’Donncha, T.A, Smith, J.M. Garcia-Valdecasas, A. Arnaud, and L. Wan, 2025: Crafting the Future: Machine Learning for Ocean Forecasting. <em>State of the Planet</em>, in press."
