@@ -224,7 +224,7 @@ publications:
           url: https://doi.org/10.48550/arxiv.2406.09699
         #
         - citation: <h5>2025</h5>
-        - citation: "Chamberlain, E., S. Rokitta, B. Rost, A. D’Angelo, J. Cremean, B. Loose, A. Ulfsbo, A. Fong, C. Hoppe, E. Droste, D. Nomura, K. Schulz, J. Bowmann (2025). Microbial predictors of net heterotrophy in the pelagic Arctic Ocean. <em>Limnology & Oceanography, 9999, 1–17</em>."
+        - citation: "Chamberlain, E., S. Rokitta, B. Rost, A. D’Angelo, J. Cremean, B. Loose, A. Ulfsbo, A. Fong, C. Hoppe, E. Droste, D. Nomura, K. Schulz, J. Bowmann (2025). Predictive links between microbial communities and biological oxygen utilization in the Arctic Ocean. <em>Limnology & Oceanography, 70(8) 2315-2331.</em>."
           url: https://doi.org/10.1002/lno.70125
         - citation: "Gaikwad, S. G., S. H. K. Narayanan, L. Hascoët, J.-M. Campin, H. Pillar, A. Nguyen; J. Hückelheim, P. Hovland, and P. Heimbach, 2025: MITgcm-AD v2: Tangent linear and adjoint modeling framework for the oceans and atmosphere enabled by the Automatic Differentiation tool Tapenade. <em>Future Generation Computer Systems, 163.</em>"
           url: https://doi.org/10.1016/j.future.2024.107512
