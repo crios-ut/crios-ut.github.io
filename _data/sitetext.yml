@@ -212,29 +212,33 @@ publications:
           url: 10.22541/essoar.174534324.43743555/v1
         - citation: "Goldberg, M., A. T. Nguyen, H. Pillar, B. Howe, and P. Heimbach 2025: Evaluating the potential of SMART subsea cable pressure sensors to constrain Subpolar North Atlantic circulation variability through Observing System Simulation Experiments. <em>Journal of Ocean and Atmospheric Technology</em>, submitted."
           url: https://eartharxiv.org/repository/view/10235/
-        - citation: "Bertino, L., P. Heimbach, E. Blockley, and Einar Olason, 2024: Numerical Models for Monitoring and Forecasting Sea Ice: a short description of present status. <em>State of the Planet</em>, submitted."
-          url: https://doi.org/10.5194/sp-2024-24
         - citation: "Fahad, A. A., A. Molod, D. Menemenlis, P. Heimbach, A. Trayanov, E. Strobach, L. Coy, K. Wargan, 2024: Northern Hemisphere Stratospheric Temperature Response to External Forcing in Decadal Climate Simulations. <em>J. Climate</em>, submitted"
         - citation: "Hascoet, L., J.L. Bouchot, S.S. Gaikwad, S.H.K. Narayanan, J. Hückelheim, 2024: Profiling checkpointing schedules in adjoint ST-AD. <em>8th International Conference on Algorithmic Differentiation</em>, submitted"
           url: https://doi.org/10.48550/arXiv.2405.15590
-        - citation: "Hoffman, L., M. Mazloff, S. Gille, D. Giglio, and P. Heimbach, 2024: Evaluating the robustness of explainable machine learning (XML) methods for application in regression predictions of Arctic sea-ice motion. <em>Artificial Intelligence for the Earth Systems</em>, submitted."
-        - citation: "Porter, A. M. and P. Heimbach, 2024: Unlocking the Power of Parallel Computing: GPU technologies for Ocean Forecasting. <em>State of the Planet</em>, in revision."
-          url: https://doi.org/10.5194/sp-2024-32
-        - citation: "Sapienza, F., J. Bolibar, F. Schäfer, B. Groenke, A. Pal, V. Boussange, P. Heimbach, G. Hooker, F. Perez, P.-O. Persson, and C. Rackauckas, 2024: Differentiable Programming for Differential Equations: A Review. <em>SIAM Review</em>, in revision, ArXiv."
-          url: https://doi.org/10.48550/arxiv.2406.09699
+        - citation: "Menemenlis, D., A. Molod, C. N. Hill, A. Trayanov, E. Strobach, J.-M. Campin, A. A. Fahad, P. Heimbach, H. Zhang, Y.-K. Lim, C. E. Henze, D. A. Ellsworth, and N. McCurdy, 2025: A Pioneering NASA GEOS/ECCO Coupled Nature Run that Admits Clouds, Ocean Eddies, and Tides. Scientific Data, in revision."
         #
         - citation: <h5>2025</h5>
+        - citation: "Bertino, L., P. Heimbach, E. Blockley, and Einar Olason, 2025: Numerical Models for Monitoring and Forecasting Sea Ice: a short description of present status. <em>State of the Planet</em>, 5-opsr, 14."
+          url: https://doi.org/10.5194/sp-5-opsr-14-2025
         - citation: "Chamberlain, E., S. Rokitta, B. Rost, A. D’Angelo, J. Cremean, B. Loose, A. Ulfsbo, A. Fong, C. Hoppe, E. Droste, D. Nomura, K. Schulz, J. Bowmann (2025). Predictive links between microbial communities and biological oxygen utilization in the Arctic Ocean. <em>Limnology & Oceanography, 70(8) 2315-2331.</em>."
           url: https://doi.org/10.1002/lno.70125
         - citation: "Gaikwad, S. G., S. H. K. Narayanan, L. Hascoët, J.-M. Campin, H. Pillar, A. Nguyen; J. Hückelheim, P. Hovland, and P. Heimbach, 2025: MITgcm-AD v2: Tangent linear and adjoint modeling framework for the oceans and atmosphere enabled by the Automatic Differentiation tool Tapenade. <em>Future Generation Computer Systems, 163.</em>"
           url: https://doi.org/10.1016/j.future.2024.107512
-        - citation: "Heimbach, P., F. O’Donncha, T.A, Smith, J.M. Garcia-Valdecasas, A. Arnaud, and L. Wan, 2025: Crafting the Future: Machine Learning for Ocean Forecasting. <em>State of the Planet</em>, in press."
-          url: https://doi.org/10.5194/sp-2024-18     
+        - citation: "Heimbach, P., F. O’Donncha, T.A, Smith, J.M. Garcia-Valdecasas, A. Arnaud, and L. Wan, 2025: Crafting the Future: Machine Learning for Ocean Forecasting. <em>State of the Planet</em>, 5-opsr, 22."
+          url: https://doi.org/10.5194/sp-5-opsr-22-2025
+        - citation: "Hoffman, L., M. Mazloff, S. Gille, D. Giglio, and P. Heimbach, 2025: Evaluating the robustness of explainable machine learning (XML) methods for application in regression predictions of Arctic sea-ice motion. <em>Artificial Intelligence for the Earth Systems</em>, 4, e240027."
+          url: https://doi.org/10.1175/AIES-D-24-0027.1
         - citation: "Liang, X., M. Messie, L. Smith, Z. Erikson, P. Heimbach, I. Le Bras, H. Pillar, C. Schultz, and C. Stock, 2025: Pathways Connecting Climate Changes to the Deep Ocean: Tracing Physical, Biogeochemical, and Ecological Signals From Surface to Deep Sea Workshop Report."
-          url: https://usclivar.org/sites/default/files/images/pathways-connecting-climate-change-to-deep-sea-report.pdf
+          url: https://doi.org/10.1575/1912/72119
+        - citation: "Mauritsen, T., et al., 2024: Earth’s energy imbalance more than doubled in recent decades. <em>AGU Advanves</em>, e2024AV001636"
+          url: https://doi.org/10.1029/2024AV001636
+        - citation: "Porter, A. M. and P. Heimbach, 2025: Unlocking the Power of Parallel Computing: GPU technologies for Ocean Forecasting. <em>State of the Planet</em>, 5-opsr, 23."
+          url: https://doi.org/10.5194/10.5194/sp-5-opsr-23-2025
+        - citation: "Sapienza, F., J. Bolibar, F. Schäfer, B. Groenke, A. Pal, V. Boussange, P. Heimbach, G. Hooker, F. Perez, P.-O. Persson, and C. Rackauckas, 2025: Differentiable Programming for Differential Equations: A Review. <em>SIAM Review</em>, in press, ArXiv."
+          url: https://doi.org/10.48550/arxiv.2406.09699
         - citation: "Schulz, K., A. T. Nguyen, H. R. Pillar, T. M. Baumann, M. Muilwijk, I. Fer, I. Polyakov, L. Padman, S. L. Howard, G. Spreen, 2025: Quantifying tidal impacts on Arctic sea ice: An unexpected mechanism for the regional delay of summer melting. <em> J. Phys. Oceanogr., 55, 1951-1970. </em>."
           url: https://doi.org/10.1175/JPO-D-24-0255.1
-        - citation: "Wei, Y., H. Pillar, P. Heimbach, A. T. Nguyen, G. Forget, O. Wang, I. Fukumori, I. Fenty, M. Losch, 2025: An assessment of uncertainty in the ECCO global ocean-sea ice state estimate due to atmospheric forcing uncertainty. <em>J. Geophys. Res.,</em>, 130."
+        - citation: "Wei, Y., H. Pillar, P. Heimbach, A. T. Nguyen, G. Forget, O. Wang, I. Fukumori, I. Fenty, M. Losch, 2025: An assessment of uncertainty in the ECCO global ocean-sea ice state estimate due to atmospheric forcing uncertainty. <em>J. Geophys. Res.,</em>, e2024JC022191."
           url: https://doi.org/10.1029/2024JC022191
         #
         - citation: <h5>2024</h5>
