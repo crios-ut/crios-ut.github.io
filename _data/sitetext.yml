@@ -68,7 +68,7 @@ team:
         social:
           - url: https://sites.google.com/view/dhruv-apte/bio
             icon: fas fa-globe
-            url: https://scholar.google.com/citations?user=l_yjlPAAAAAJ&hl=en&oi=ao
+          - url: https://scholar.google.com/citations?user=l_yjlPAAAAAJ&hl=en&oi=ao
             icon: fab fa-google-scholar
       - name: "Leslie Smith"
         role: "Visiting Scholar, iDOOS"
