@@ -62,6 +62,14 @@ team:
         social:
           - url: https://www.unicornatsea.de/
             icon: fas fa-globe
+      - name: "Dhruv Apte"
+        role: "Postdoctoral Researcher"
+        image: assets/img/team/DhruvApte.jpg
+        social:
+          - url: https://sites.google.com/view/dhruv-apte/bio
+            icon: fas fa-globe
+          - url: https://scholar.google.com/citations?user=l_yjlPAAAAAJ&hl=en&oi=ao
+            icon: fab fa-google-scholar
       - name: "Leslie Smith"
         role: "Visiting Scholar, iDOOS"
         image: assets/img/team/LeslieSmith.jpg
