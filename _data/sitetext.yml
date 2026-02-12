@@ -78,7 +78,7 @@ team:
         role: "Graduate Research Assistant (CSEM)"
         image: assets/img/team/ivanaescobar.jpg
         social:
-          - url: https://oden.utexas.edu/people/directory/Ivana-Escobar/
+          - url: https://ivanaescobar.github.io
             icon: fas fa-globe
           - url: https://github.com/IvanaEscobar
             icon: fab fa-github
