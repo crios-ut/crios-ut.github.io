@@ -217,14 +217,13 @@ publications:
         #
         - citation: <h5>Submitted</h5>
         - citation: "Cimoli, L., A. Mashayek, A. C. Naveira Garabato, C-c. P. Caulfield, M. H. Alford, L. Baker, B. B. Cael, A. Le Boyer, C. de Lavergne, E. Ellison, G. Gebbie, P. Heimbach, K. Oglethorpe, W. R. Peltier, A. Piotrowski, H. Pillar, S. G. Purkey, L. Skinner, M. Siegert, A. Silvano, C. Springys, E. Shuckburgh, L. D. Talley, J. R. Taylor, G. Voet, B. L. Wynne-Cattanach, R. Williams, and C. Wilson: Climatic Reach of Small-Scale Ocean Turbulence. <em> Nature Communications</em>, submitted."
-        - citation: "A. L. Vries, J. Mortensen, K. Schulz, W. J. van de Berg, M. R. van den Broeke, L. Meire: Strong year-round variation in circulation and heat transport in a proglacial southwest Greenland Fjord. <em> Journal of Geophysical Research: Oceans</em>, submitted."
-          url: 10.22541/essoar.174534324.43743555/v1
         - citation: "Goldberg, M., A. T. Nguyen, H. Pillar, B. Howe, and P. Heimbach 2025: Evaluating the potential of SMART subsea cable pressure sensors to constrain Subpolar North Atlantic circulation variability through Observing System Simulation Experiments. <em>Journal of Ocean and Atmospheric Technology</em>, submitted."
           url: https://eartharxiv.org/repository/view/10235/
         - citation: "Fahad, A. A., A. Molod, D. Menemenlis, P. Heimbach, A. Trayanov, E. Strobach, L. Coy, K. Wargan, 2024: Northern Hemisphere Stratospheric Temperature Response to External Forcing in Decadal Climate Simulations. <em>J. Climate</em>, submitted"
         - citation: "Hascoet, L., J.L. Bouchot, S.S. Gaikwad, S.H.K. Narayanan, J. Hückelheim, 2024: Profiling checkpointing schedules in adjoint ST-AD. <em>8th International Conference on Algorithmic Differentiation</em>, submitted"
           url: https://doi.org/10.48550/arXiv.2405.15590
         - citation: "Menemenlis, D., A. Molod, C. N. Hill, A. Trayanov, E. Strobach, J.-M. Campin, A. A. Fahad, P. Heimbach, H. Zhang, Y.-K. Lim, C. E. Henze, D. A. Ellsworth, and N. McCurdy, 2025: A Pioneering NASA GEOS/ECCO Coupled Nature Run that Admits Clouds, Ocean Eddies, and Tides. Scientific Data, in revision."
+        - citation: "Schulz, K., L. Meire, I. Fer, D. Fahrner, K. Zhao, S. Maier, L. Ponsoni, W. Boone: Subglacial plumes dominate vertical nutrient supply over turbulent mixing in a Northwest Greenland fjord system during early summer bloom. <em>JGR:Oceans</em>, submitted Apr 2026" 
         #
         - citation: <h5>2025</h5>
         - citation: "Bertino, L., P. Heimbach, E. Blockley, and Einar Olason, 2025: Numerical Models for Monitoring and Forecasting Sea Ice: a short description of present status. <em>State of the Planet</em>, 5-opsr, 14."
@@ -247,8 +246,12 @@ publications:
           url: https://doi.org/10.48550/arxiv.2406.09699
         - citation: "Schulz, K., A. T. Nguyen, H. R. Pillar, T. M. Baumann, M. Muilwijk, I. Fer, I. Polyakov, L. Padman, S. L. Howard, G. Spreen, 2025: Quantifying tidal impacts on Arctic sea ice: An unexpected mechanism for the regional delay of summer melting. <em> J. Phys. Oceanogr., 55, 1951-1970. </em>."
           url: https://doi.org/10.1175/JPO-D-24-0255.1
+        - citation: "Vries, A., J. Mortensen, K. Schulz, W. J. van de Berg, M. R. van den Broeke, L. Meire, 2025: Strong year-round variation in circulation and heat transport in a proglacial southwest Greenland Fjord. <em> Journal of Geophysical Research: Oceans, 130(12)</em>, e2025JC022753."
+          url: https://doi.org/10.1029/2025JC022753
         - citation: "Wei, Y., H. Pillar, P. Heimbach, A. T. Nguyen, G. Forget, O. Wang, I. Fukumori, I. Fenty, M. Losch, 2025: An assessment of uncertainty in the ECCO global ocean-sea ice state estimate due to atmospheric forcing uncertainty. <em>J. Geophys. Res.,</em>, e2024JC022191."
           url: https://doi.org/10.1029/2024JC022191
+        - citation: "Zhang, X., T. Vihma, A. Rinke, G. Moore, H. Tang, C. Aijala, A. DuVivier, J. Huang, L. Landrum, C. Li, J. Zhang, L. Boisvert, B. Cheng, J. Cohen, D. Handorf, E. Hanna, K. Hartmuth, M. Jonassen, Y. Luo, S. Murto, J. Overland, C. Parker, W. Perri, K. Schulz, A. Schweiger, T. Spengler, M. Steele, H. Tang, W.-W. Tung, N. Tyrrell, E. Valkonen, H. Wang, Z. Wang, W. Weijer, S. Wickstrom, Y. Wu, M. Zhang, 2025: Weather and Climate Extremes in a Changing Arctic. <em>Nature Reviews Earth and Environment</em>, 1-21."
+          url: https://doi.org/10.1038/s43017-025-00724-4
         #
         - citation: <h5>2024</h5>
         - citation: "Alvarez Fanjul, E., et al., 2024: Promoting Best Practices in Ocean Forecasting through an Operational Readiness Level. <em>Frontiers in Marine Science</em>, 11."
