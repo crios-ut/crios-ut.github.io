@@ -74,14 +74,6 @@ team:
         role: "Visiting Scholar, iDOOS"
         image: assets/img/team/LeslieSmith.jpg
         social:
-      - name: "Ivana Escobar"
-        role: "Graduate Research Assistant (CSEM)"
-        image: assets/img/team/ivanaescobar.jpg
-        social:
-          - url: https://ivanaescobar.github.io
-            icon: fas fa-globe
-          - url: https://github.com/IvanaEscobar
-            icon: fab fa-github
       - name: "Shreyas Gaikwad"
         role: "Graduate Research Assistant (CSEM)"
         image: assets/img/team/ShreyasGaikwad.jpg
@@ -144,6 +136,12 @@ team:
             icon: fab fa-github
 
     peoplepast:
+      - name: "Ivana Escobar"
+        role: "former Graduate Research Assistant (CSEM), now Research Associate at ARL:UT"
+        image: assets/img/team/ivanaescobar.jpg
+        social:
+          - url: https://ivanaescobar.github.io
+            icon: fas fa-globe
       - name: "Arash Bigdeli"
         role: "former Postdoc"
         image: assets/img/team/Arash.png
