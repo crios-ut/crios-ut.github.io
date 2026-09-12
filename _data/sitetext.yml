@@ -74,14 +74,6 @@ team:
         role: "Visiting Scholar, iDOOS"
         image: assets/img/team/LeslieSmith.jpg
         social:
-      - name: "Shreyas Gaikwad"
-        role: "Graduate Research Assistant (CSEM)"
-        image: assets/img/team/ShreyasGaikwad.jpg
-        social:
-          - url: https://shreyas911.github.io
-            icon: fas fa-globe
-          - url: https://github.com/Shreyas911
-            icon: fab fa-github
       - name: "Sarah Williamson"
         role: "Graduate Research Assistant (CSEM)"
         image: assets/img/team/sarahwilliamson.jpg
@@ -142,6 +134,14 @@ team:
         social:
           - url: https://ivanaescobar.github.io
             icon: fas fa-globe
+      - name: "Shreyas Gaikwad"
+        role: "former Graduate Research Assistant (CSEM)"
+        image: assets/img/team/ShreyasGaikwad.jpg
+        social:
+          - url: https://shreyas911.github.io
+            icon: fas fa-globe
+          - url: https://github.com/Shreyas911
+            icon: fab fa-github
       - name: "Arash Bigdeli"
         role: "former Postdoc"
         image: assets/img/team/Arash.png
