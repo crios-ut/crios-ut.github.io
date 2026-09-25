@@ -74,14 +74,6 @@ team:
         role: "Visiting Scholar, iDOOS"
         image: assets/img/team/LeslieSmith.jpg
         social:
-      - name: "Shreyas Gaikwad"
-        role: "Graduate Research Assistant (CSEM)"
-        image: assets/img/team/ShreyasGaikwad.jpg
-        social:
-          - url: https://shreyas911.github.io
-            icon: fas fa-globe
-          - url: https://github.com/Shreyas911
-            icon: fab fa-github
       - name: "Sarah Williamson"
         role: "Graduate Research Assistant (CSEM)"
         image: assets/img/team/sarahwilliamson.jpg
@@ -142,6 +134,14 @@ team:
         social:
           - url: https://ivanaescobar.github.io
             icon: fas fa-globe
+      - name: "Shreyas Gaikwad"
+        role: "former Graduate Research Assistant (CSEM)"
+        image: assets/img/team/ShreyasGaikwad.jpg
+        social:
+          - url: https://shreyas911.github.io
+            icon: fas fa-globe
+          - url: https://github.com/Shreyas911
+            icon: fab fa-github
       - name: "Arash Bigdeli"
         role: "former Postdoc"
         image: assets/img/team/Arash.png
@@ -214,15 +214,19 @@ publications:
         # 3. It's safest to put the citation in between quotes ""
         #
         - citation: <h5>Submitted</h5>
+        - citation: "F. Ishraque, M.A. Shadab, K. Shionalyn, N. Narayanan, M. Schaberg, S.S. Gaikwad, I. Ezukanma, O. Lauter, and J.A. Higgins: Assessing Challenges for U.S.-Based Polar Early Career Scientists During Science Policy Changes. <em>Journal of Glaciology</em>, submitted."
+          url: https://eartharxiv.org/repository/view/14949
         - citation: "Cimoli, L., A. Mashayek, A. C. Naveira Garabato, C-c. P. Caulfield, M. H. Alford, L. Baker, B. B. Cael, A. Le Boyer, C. de Lavergne, E. Ellison, G. Gebbie, P. Heimbach, K. Oglethorpe, W. R. Peltier, A. Piotrowski, H. Pillar, S. G. Purkey, L. Skinner, M. Siegert, A. Silvano, C. Springys, E. Shuckburgh, L. D. Talley, J. R. Taylor, G. Voet, B. L. Wynne-Cattanach, R. Williams, and C. Wilson: Climatic Reach of Small-Scale Ocean Turbulence. <em> Nature Communications</em>, submitted."
         - citation: "Goldberg, M., A. T. Nguyen, H. Pillar, B. Howe, and P. Heimbach 2025: Evaluating the potential of SMART subsea cable pressure sensors to constrain Subpolar North Atlantic circulation variability through Observing System Simulation Experiments. <em>Journal of Ocean and Atmospheric Technology</em>, submitted."
           url: https://eartharxiv.org/repository/view/10235/
         - citation: "Fahad, A. A., A. Molod, D. Menemenlis, P. Heimbach, A. Trayanov, E. Strobach, L. Coy, K. Wargan, 2024: Northern Hemisphere Stratospheric Temperature Response to External Forcing in Decadal Climate Simulations. <em>J. Climate</em>, submitted"
-        - citation: "Hascoet, L., J.L. Bouchot, S.S. Gaikwad, S.H.K. Narayanan, J. Hückelheim, 2024: Profiling checkpointing schedules in adjoint ST-AD. <em>8th International Conference on Algorithmic Differentiation</em>, submitted"
-          url: https://doi.org/10.48550/arXiv.2405.15590
         - citation: "Menemenlis, D., A. Molod, C. N. Hill, A. Trayanov, E. Strobach, J.-M. Campin, A. A. Fahad, P. Heimbach, H. Zhang, Y.-K. Lim, C. E. Henze, D. A. Ellsworth, and N. McCurdy, 2025: A Pioneering NASA GEOS/ECCO Coupled Nature Run that Admits Clouds, Ocean Eddies, and Tides. Scientific Data, in revision."
         - citation: "Schulz, K., L. Meire, I. Fer, D. Fahrner, K. Zhao, S. Maier, L. Ponsoni, W. Boone: Subglacial plumes dominate vertical nutrient supply over turbulent mixing in a Northwest Greenland fjord system during early summer bloom. <em>JGR:Oceans</em>, submitted Apr 2026" 
         #
+        - citation: <h5>2026</h5>
+        - citation: "Hascoet, L., J.L. Bouchot, S.S. Gaikwad, S.H.K. Narayanan, J. Hückelheim, 2026: Profiling checkpointing schedules in adjoint ST-AD. <em>Proceedings of the 8th International Conference on Algorithmic Differentiation</em>"
+          url: https://epubs.siam.org/doi/abs/10.1137/1.9781611979039.10
+	#
         - citation: <h5>2025</h5>
         - citation: "Bertino, L., P. Heimbach, E. Blockley, and Einar Olason, 2025: Numerical Models for Monitoring and Forecasting Sea Ice: a short description of present status. <em>State of the Planet</em>, 5-opsr, 14."
           url: https://doi.org/10.5194/sp-5-opsr-14-2025
