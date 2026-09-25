@@ -226,7 +226,7 @@ publications:
         - citation: <h5>2026</h5>
         - citation: "Hascoet, L., J.L. Bouchot, S.S. Gaikwad, S.H.K. Narayanan, J. Hückelheim, 2026: Profiling checkpointing schedules in adjoint ST-AD. <em>Proceedings of the 8th International Conference on Algorithmic Differentiation</em>"
           url: https://epubs.siam.org/doi/abs/10.1137/1.9781611979039.10
-	#
+        #
         - citation: <h5>2025</h5>
         - citation: "Bertino, L., P. Heimbach, E. Blockley, and Einar Olason, 2025: Numerical Models for Monitoring and Forecasting Sea Ice: a short description of present status. <em>State of the Planet</em>, 5-opsr, 14."
           url: https://doi.org/10.5194/sp-5-opsr-14-2025
