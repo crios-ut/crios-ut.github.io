@@ -221,11 +221,14 @@ publications:
           url: https://eartharxiv.org/repository/view/10235/
         - citation: "Fahad, A. A., A. Molod, D. Menemenlis, P. Heimbach, A. Trayanov, E. Strobach, L. Coy, K. Wargan, 2024: Northern Hemisphere Stratospheric Temperature Response to External Forcing in Decadal Climate Simulations. <em>J. Climate</em>, submitted"
         - citation: "Menemenlis, D., A. Molod, C. N. Hill, A. Trayanov, E. Strobach, J.-M. Campin, A. A. Fahad, P. Heimbach, H. Zhang, Y.-K. Lim, C. E. Henze, D. A. Ellsworth, and N. McCurdy, 2025: A Pioneering NASA GEOS/ECCO Coupled Nature Run that Admits Clouds, Ocean Eddies, and Tides. Scientific Data, in revision."
-        - citation: "Schulz, K., L. Meire, I. Fer, D. Fahrner, K. Zhao, S. Maier, L. Ponsoni, W. Boone: Subglacial plumes dominate vertical nutrient supply over turbulent mixing in a Northwest Greenland fjord system during early summer bloom. <em>JGR:Oceans</em>, submitted Apr 2026" 
         #
         - citation: <h5>2026</h5>
         - citation: "Hascoet, L., J.L. Bouchot, S.S. Gaikwad, S.H.K. Narayanan, J. Hückelheim, 2026: Profiling checkpointing schedules in adjoint ST-AD. <em>Proceedings of the 8th International Conference on Algorithmic Differentiation</em>"
           url: https://epubs.siam.org/doi/abs/10.1137/1.9781611979039.10
+        - citation: "Schulz, K., L. Meire, I. Fer, D. Fahrner, K. Zhao, S. Maier, L. Ponsoni, W. Boone, 2026: Away from glacier termini, turbulent mixing plays a minor role in early-summer nutrient supply in a northwest Greenland fjord. <em>Journal of Geophysical Research: Oceans, 131, e2026JC024509.</em>" 
+          url: https://doi.org/10.1029/2026JC024509
+        - citation: "Schulz, K., A.T. Nguyen, E. Frajka-Williams, R.H. Jackson, T. Martin, J.L. Bamber, P.G. Myers, N.P. Foukal, and S. Maier, 2026. Greenland’s freshwater flow from ice sheet to AMOC: The known and the unknown. <em>Oceanography 39(3).</em>"
+          url: https://doi.org/10.5670/oceanog.2026.e306
         #
         - citation: <h5>2025</h5>
         - citation: "Bertino, L., P. Heimbach, E. Blockley, and Einar Olason, 2025: Numerical Models for Monitoring and Forecasting Sea Ice: a short description of present status. <em>State of the Planet</em>, 5-opsr, 14."
