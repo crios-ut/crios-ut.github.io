@@ -214,21 +214,33 @@ publications:
         # 3. It's safest to put the citation in between quotes ""
         #
         - citation: <h5>Submitted</h5>
-        - citation: "F. Ishraque, M.A. Shadab, K. Shionalyn, N. Narayanan, M. Schaberg, S.S. Gaikwad, I. Ezukanma, O. Lauter, and J.A. Higgins: Assessing Challenges for U.S.-Based Polar Early Career Scientists During Science Policy Changes. <em>Journal of Glaciology</em>, submitted."
-          url: https://eartharxiv.org/repository/view/14949
-        - citation: "Cimoli, L., A. Mashayek, A. C. Naveira Garabato, C-c. P. Caulfield, M. H. Alford, L. Baker, B. B. Cael, A. Le Boyer, C. de Lavergne, E. Ellison, G. Gebbie, P. Heimbach, K. Oglethorpe, W. R. Peltier, A. Piotrowski, H. Pillar, S. G. Purkey, L. Skinner, M. Siegert, A. Silvano, C. Springys, E. Shuckburgh, L. D. Talley, J. R. Taylor, G. Voet, B. L. Wynne-Cattanach, R. Williams, and C. Wilson: Climatic Reach of Small-Scale Ocean Turbulence. <em> Nature Communications</em>, submitted."
         - citation: "Goldberg, M., A. T. Nguyen, H. Pillar, B. Howe, and P. Heimbach 2025: Evaluating the potential of SMART subsea cable pressure sensors to constrain Subpolar North Atlantic circulation variability through Observing System Simulation Experiments. <em>Journal of Ocean and Atmospheric Technology</em>, submitted."
           url: https://eartharxiv.org/repository/view/10235/
-        - citation: "Fahad, A. A., A. Molod, D. Menemenlis, P. Heimbach, A. Trayanov, E. Strobach, L. Coy, K. Wargan, 2024: Northern Hemisphere Stratospheric Temperature Response to External Forcing in Decadal Climate Simulations. <em>J. Climate</em>, submitted"
-        - citation: "Menemenlis, D., A. Molod, C. N. Hill, A. Trayanov, E. Strobach, J.-M. Campin, A. A. Fahad, P. Heimbach, H. Zhang, Y.-K. Lim, C. E. Henze, D. A. Ellsworth, and N. McCurdy, 2025: A Pioneering NASA GEOS/ECCO Coupled Nature Run that Admits Clouds, Ocean Eddies, and Tides. Scientific Data, in revision."
+        - citation: "Ishraque, F., M.A. Shadab, K. Shionalyn, N. Narayanan, M. Schaberg, S.S. Gaikwad, I. Ezukanma, O. Lauter, and J.A. Higgins: Assessing Challenges for U.S.-Based Polar Early Career Scientists During Science Policy Changes. <em>Journal of Glaciology</em>, submitted."
+          url: https://eartharxiv.org/repository/view/14949
+        - citation: "Menemenlis, D., Zhang, H., Carroll, D., Fahad, A., Heimbach, P., and Zhang, K., 2026: Coupled Model Optimization Using an Ocean-Only Adjoint. Part I: A Proof of Concept for Ocean Mixing Parameter Adjustments. Journal of Advances in Modeling Earth Systems, submitted."
+        - citation: "Reich, S., N. Aretz, K. Willcox, and P. Heimbach, 2026: Data-Driven Ocean Emulation: Using Operator Inference to Emulate a Double Gyre Ocean System. JGR Machine Learning & Computation, submitted."
+          url: https://doi.org/10.22541/essoar.15012546/v1
         #
         - citation: <h5>2026</h5>
+        - citation: "Cimoli, L., A. Mashayek, A. C. Naveira Garabato, C-c. P. Caulfield, M. H. Alford, L. Baker, B. B. Cael, A. Le Boyer, C. de Lavergne, E. Ellison, G. Gebbie, P. Heimbach, K. Oglethorpe, W. R. Peltier, A. Piotrowski, H. Pillar, S. G. Purkey, L. Skinner, M. Siegert, A. Silvano, C. Springys, E. Shuckburgh, L. D. Talley, J. R. Taylor, G. Voet, B. L. Wynne-Cattanach, R. Williams, and C. Wilson: Climatic Reach of Small-Scale Ocean Turbulence. <em> Nature Communications</em>, 17(1), 5212."
+          url: https://doi.org/10.1038/s41467-026-73809-3
         - citation: "Hascoet, L., J.L. Bouchot, S.S. Gaikwad, S.H.K. Narayanan, J. Hückelheim, 2026: Profiling checkpointing schedules in adjoint ST-AD. <em>Proceedings of the 8th International Conference on Algorithmic Differentiation</em>"
           url: https://epubs.siam.org/doi/abs/10.1137/1.9781611979039.10
+        - citation: "Menemenlis, D., Molod, A., Hill, C. N., Trayanov, A., Strobach, E., Campin, J.-M., Fahad, A. A., Heimbach, P., Zhang, H., Lim, Y.-K., Khani, S., Henze, C. E., Ellsworth, D. A. & McCurdy, N. (2026). The GEOS/ECCO C1440-LLC2160 Coupled Atmosphere-Ocean Simulation Dataset. Scientific Data, 13(1), 1097."
+          url: https://doi.org/10.1038/s41597-026-07349-2
+        - citation: "Moses, W., Cheng, G., Churavy, V., Gelbrecht, M., Klöwer, M., Kump, J., Morlighem, M., Williamson, S., Apte, D., Berg, P., Giordano, M., Hill, C., Loose, N., Montoison, A., Narayanan, S.H.K., Pal, A., Schanen, M., Silvestri, S., Wagner, G., and Heimbach, P., 2026: DJ4Earth: Differentiable, and Performance-portable Earth System Modeling via Program Transformations. Journal of Advances in Modeling Earth Systems, 18, e2025MS005615"
+          url: http://doi.org/10.1029/2025MS005615
+        - citation: "Moses, W., Cheng, G., Churavy, V., Gelbrecht, M., Klöwer, M., Kump, J., Morlighem, M., Williamson, S., Apte, D., Berg, P., Giordano, M., Hill, C., Loose, N., Montoison, A., Narayanan, S.H.K., Pal, A., Schanen, M., Silvestri, S., Wagner, G., and Heimbach, P., 2026: A Compiler-First Planetary Compute Engine: Automatic differentiable and performance portable Earth System Modeling."
+          url: https://pldi26.sigplan.org/details/propl-2026-papers/2/A-Compiler-First-Planetary-Compute-Engine-Automatic-differentiable-and-performance-p
+        - citation: "Sapienza, F., J. Bolibar, F. Schäfer, B. Groenke, A. Pal, V. Boussange, P. Heimbach, G. Hooker, F. Perez, P.-O. Persson, and C. Rackauckas, 2026: Differentiable Programming for Differential Equations: A Review. SIAM Review, 68(4)"
+          url: https://doi.org/10.1137/24M1669062
         - citation: "Schulz, K., L. Meire, I. Fer, D. Fahrner, K. Zhao, S. Maier, L. Ponsoni, W. Boone, 2026: Away from glacier termini, turbulent mixing plays a minor role in early-summer nutrient supply in a northwest Greenland fjord. <em>Journal of Geophysical Research: Oceans, 131, e2026JC024509.</em>" 
           url: https://doi.org/10.1029/2026JC024509
         - citation: "Schulz, K., A.T. Nguyen, E. Frajka-Williams, R.H. Jackson, T. Martin, J.L. Bamber, P.G. Myers, N.P. Foukal, and S. Maier, 2026. Greenland’s freshwater flow from ice sheet to AMOC: The known and the unknown. <em>Oceanography 39(3).</em>"
           url: https://doi.org/10.5670/oceanog.2026.e306
+        - citation: "Seth, A., J. Kump, A. Nolan, M. Schanen, S. Brus, S.H.K. Narayanan, L. Van Roekel, B. Nadiga, P. Heimbach, V. Churavy, and W. Moses, 2026: Portable, High-Performance and Differentiable Ocean Simulations with Unstructured Grids in Julia. SC26-W: Workshops of the International Conference for High Performance Computing, Networking, Storage and Analysis, pp. 1983-1992"
+          url: https://doi.org/10.1109/SCW72768.2026.00235
         #
         - citation: <h5>2025</h5>
         - citation: "Bertino, L., P. Heimbach, E. Blockley, and Einar Olason, 2025: Numerical Models for Monitoring and Forecasting Sea Ice: a short description of present status. <em>State of the Planet</em>, 5-opsr, 14."
